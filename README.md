@@ -9,12 +9,12 @@ Quality Assessment for AI-Generated Content - Track 1: Image
 </b>
 </h1>
 <b>
-Beijing University of Posts and Telecommunications.
+Beijing University of Posts and Telecommunications. <\br>
 Beijing Xiaomi Mobile Software Co., Ltd.
 </b>
  
 </div>
-This repo contains the official implementation for champion solution.
+
 
 
 # Environment Installation
