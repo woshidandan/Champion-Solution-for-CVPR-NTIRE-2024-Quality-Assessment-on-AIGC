@@ -9,7 +9,7 @@ Quality Assessment for AI-Generated Content - Track 1: Image
 </b>
 </h1>
 <b>
-Beijing University of Posts and Telecommunications. <\br>
+Beijing University of Posts and Telecommunications. </br>
 Beijing Xiaomi Mobile Software Co., Ltd.
 </b>
  
