@@ -15,7 +15,7 @@ Beijing Xiaomi Mobile Software Co., Ltd.
  
 </div>
 
-
+![network](https://github.com/woshidandan/Champion-Solution-for-CVPR-NTIRE-2024-Quality-Assessment-on-AIGC/assets/15050507/70edc6f2-2740-47d2-b896-0977afda723a)
 
 # Environment Installation
 * torch 1.8+
