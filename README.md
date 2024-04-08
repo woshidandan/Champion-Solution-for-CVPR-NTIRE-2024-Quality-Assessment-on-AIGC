@@ -8,8 +8,6 @@ Champion-Solution-for-CVPR-NTIRE-2024-Quality-Assessment-on-AIGC
 Quality Assessment for AI-Generated Content - Track 1: Image
 </b>
 </h1>
-<h4>
-<b>
 
 This repo contains the official implementation for champion solution.
 
