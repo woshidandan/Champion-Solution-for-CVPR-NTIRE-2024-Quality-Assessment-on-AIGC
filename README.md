@@ -37,7 +37,7 @@ python AIGC_DB_prompt_final.py
 ```
 
 # If you find our work is useful, pleaes cite our paper:
-Will be released.
+Paper will be released.
 
 # Our other works:
 + "Thinking Image Color Aesthetics Assessment: Models, Datasets and Benchmarks.", [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Thinking_Image_Color_Aesthetics_Assessment_Models_Datasets_and_Benchmarks_ICCV_2023_paper.pdf) [[code]](https://github.com/woshidandan/Image-Color-Aesthetics-Assessment), ICCV 2023.
