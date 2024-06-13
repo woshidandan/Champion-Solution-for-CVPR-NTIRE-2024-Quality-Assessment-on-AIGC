@@ -17,6 +17,10 @@ Beijing Xiaomi Mobile Software Co., Ltd.
 
 ![network](https://github.com/woshidandan/Champion-Solution-for-CVPR-NTIRE-2024-Quality-Assessment-on-AIGC/assets/15050507/70edc6f2-2740-47d2-b896-0977afda723a)
 
+
+# Introduction
+The official repo of [**AIGC Image Quality Assessment via Image-Prompt Correspondence**](https://openaccess.thecvf.com/content/CVPR2024W/NTIRE/papers/Peng_AIGC_Image_Quality_Assessment_via_Image-Prompt_Correspondence_CVPRW_2024_paper.pdf). (CVPRW2024, the first place in the image track of the NTIRE 2024 Quality Assessment for AI-Generated Content challenge)
+
 # Environment Installation
 * torch 1.8+
 * torchvision
