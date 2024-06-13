@@ -1,0 +1,595 @@
+name,prompt,adj1,adj2,style,mos_quality,std_quality,mos_align,std_align
+AttnGAN_normal_003.jpg,a cosmic universe,,,,1.075006252,0.256997016,0.207691414,0.461925764
+AttnGAN_normal_007.jpg,a cat doing karaoke,,,,0.80654015,0.393910643,0.397771485,0.412883462
+AttnGAN_normal_013.jpg,everything is a dream,,,,1.230273953,0.54561589,1.146784292,1.117565554
+AttnGAN_normal_017.jpg,tragedy of the commons,,,,1.006207915,0.554580887,0.751353207,0.657638334
+AttnGAN_normal_023.jpg,king kong on fighting,,,,0.949159982,0.506836937,0.422156431,0.363652825
+AttnGAN_normal_027.jpg,the large cresting waves,,,,0.934897999,0.496275127,0.726968261,0.798565759
+AttnGAN_normal_033.jpg,the pope had a rock band,,,,1.179543421,0.398577932,0.182860864,0.469014935
+AttnGAN_normal_037.jpg,demon queen with red eyes,,,,1.134741777,0.172072178,0.803624615,0.583353591
+AttnGAN_normal_043.jpg,a frog wearing police cap,,,,1.23918794,0.91838711,0.605682672,0.788806643
+AttnGAN_normal_047.jpg,stalin tapdancing on stage,,,,0.86802727,0.698879262,0.411989915,0.445736623
+AttnGAN_normal_053.jpg,castle from howl's sticker,,,,1.084556311,0.326742089,0.845084862,0.442218359
+AttnGAN_normal_057.jpg,sartre hugging a sad alien,,,,1.112367509,0.758240123,0.652605272,1.333069062
+AttnGAN_normal_063.jpg,"overwatch small hut building, abstract style",,,abstract style,0.986154364,0.339139321,0.70828361,0.497767609
+AttnGAN_normal_067.jpg,"a woman in newspaper clothes, realistic style",,,realistic style,1.042384048,0.356275928,0.457481316,0.655446631
+AttnGAN_normal_073.jpg,"otter making a disgusted face, abstract style",,,abstract style,1.269550286,0.538479111,0.452923825,0.51185974
+AttnGAN_normal_077.jpg,"a anthropomorphic cat warrior, realistic style",,,realistic style,1.119807896,0.414666646,0.257352514,0.453073617
+AttnGAN_normal_083.jpg,"eiffel tower drenched in blood, abstract style",,,abstract style,0.763087515,0.701361348,0.560448775,0.629124546
+AttnGAN_normal_087.jpg,"a tonalism portrait of a ghost , realistic style",,,realistic style,0.965602553,0.285318521,0.659590655,0.816063936
+AttnGAN_normal_093.jpg,"photo of tony danza eating chili, abstract style",,,abstract style,1.478164096,0.644720816,0.696883506,0.501431398
+AttnGAN_normal_097.jpg,"donald trump playing in the rain, realistic style",,,realistic style,0.895799678,0.396296943,0.170445589,0.476335408
+AttnGAN_normal_103.jpg,"a giant rock floating in the air, abstract style",,,abstract style,0.929924681,0.291859613,0.78808434,0.688698947
+AttnGAN_normal_107.jpg,"spritesheet game asset vector art, realistic style",,,realistic style,1.014269206,0.583958032,0.856484966,0.597655792
+AttnGAN_normal_113.jpg,"epic colourful scene from a dream, abstract style",,,abstract style,0.879514179,0.769726539,0.731596555,0.450480551
+AttnGAN_normal_117.jpg,"portrait of a cloaked female devil, realistic style",,,realistic style,1.012573225,0.694820241,0.929074763,0.943111693
+AttnGAN_normal_123.jpg,"anthropomorphic pine marten animal, elevation view",elevation view,,,1.041064722,0.342203242,0.850598208,1.119789335
+AttnGAN_normal_127.jpg,"robots building robots in a factory, hyper detail",hyper detail,,,0.663293231,0.75499726,0.283979284,0.492795873
+AttnGAN_normal_133.jpg,"a blue abyss underwater concept art, elevation view",elevation view,,,1.328588457,0.643622225,0.44196185,0.644100484
+AttnGAN_normal_137.jpg,"white fur furry mothman movie scene , hyper detail",hyper detail,,,0.943982102,0.523426012,0.537282046,0.542051647
+AttnGAN_normal_143.jpg,"portrait of squids swarming the ocean, elevation view",elevation view,,,0.735230234,0.365980305,0.653813422,0.536947976
+AttnGAN_normal_147.jpg,"bill gates and jason statham fight m , hyper detail",hyper detail,,,1.230273953,0.621344636,0.577911226,0.754104312
+AttnGAN_normal_153.jpg,"grumpy king in yellow sitting in a bar, elevation view",elevation view,,,0.862173603,0.49386126,0.575376803,0.311337579
+AttnGAN_normal_157.jpg,"spaceship flying over a strange planet, hyper detail",hyper detail,,,1.075006252,0.188849291,0.369089989,0.621180161
+AttnGAN_normal_163.jpg,"a portrait of girl boxer in a red dress, elevation view",elevation view,,,0.929411321,0.615798839,0.968570405,0.891154721
+AttnGAN_normal_167.jpg,"two women working in a recording studio, hyper detail",hyper detail,,,1.337589887,0.689156899,0.491681629,0.503353788
+AttnGAN_normal_173.jpg,"ancient japanese fantasy garden at night, elevation view",elevation view,,,1.197015678,0.463075247,0.970486009,0.802485632
+AttnGAN_normal_177.jpg,"a huge wooden carving sculpture of a fox, hyper detail",hyper detail,,,0.86802727,0.631159093,0.566059704,0.669367555
+AttnGAN_normal_183.jpg,"radioactive alien mushrooms in the forest , elevation view, abstract style",elevation view,,abstract style,1.871148587,0.586890464,1.471372759,1.007367299
+AttnGAN_normal_187.jpg,"softboy aesthetic in ancient greek clothing, hyper detail, realistic style",hyper detail,,realistic style,0.902526954,0.715325564,0.874199281,0.907045198
+AttnGAN_normal_193.jpg,"a portrait of a female robot made from code, elevation view, abstract style",elevation view,,abstract style,0.955535203,0.1238543,0.840870441,0.392620908
+AttnGAN_normal_197.jpg,"storm troopers cosplaying the power rangers , hyper detail, realistic style",hyper detail,,realistic style,0.831522735,0.407349,0.514481837,0.512651652
+AttnGAN_normal_203.jpg,"a beautiful brutalist concrete forest temple, elevation view, abstract style",elevation view,,abstract style,1.168900836,0.799221234,0.810884549,0.697284312
+AttnGAN_normal_207.jpg,"painting of a man farmer at work in the field, hyper detail, realistic style",hyper detail,,realistic style,1.195774268,0.506574777,1.075675159,0.681951823
+AttnGAN_normal_213.jpg,"a biomechanical hibiscus flower made of metal, elevation view, abstract style",elevation view,,abstract style,0.995940844,0.617118913,0.534118347,0.693631902
+AttnGAN_normal_217.jpg,"a portrait photo of a beautiful female android, hyper detail, realistic style",hyper detail,,realistic style,1.191989061,0.54613083,0.552148905,0.63796808
+AttnGAN_normal_223.jpg,"small group of nomads staying at ancient ruins, cold color, elevation view",cold color,elevation view,,0.779719895,0.815564871,1.389857248,1.377402426
+AttnGAN_normal_227.jpg,"a sketch drawing of a hamster in a fruit basket, cold color, long-shot",cold color,long-shot,,1.337589887,0.687628083,0.970486009,0.959774082
+AttnGAN_normal_233.jpg,"a penguin slipping on a banana in the antarctic , warm color, HDR lighting",warm color,HDR lighting,,0.269225899,0.675057729,0.38908069,0.543379109
+AttnGAN_normal_237.jpg,"portrait of terrified green ball gown young woman, top view, long-shot",top view,long-shot,,0.678279008,0.929294141,0.566059704,0.676281393
+AttnGAN_normal_243.jpg,"mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail",elevation view,hyper detail,,0.980694987,0.139765208,0.826722264,0.578560166
+AttnGAN_normal_247.jpg,"a saint noble high priestess pray for god in church, elevation view, HDR lighting",elevation view,HDR lighting,,1.077517831,0.332206581,0.726968261,0.556614721
+AttnGAN_normal_253.jpg,"a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting",close-up,HDR lighting,,1.3374464,0.403605475,1.399151384,0.812900782
+AttnGAN_normal_257.jpg,"dragons flyring around a snowcapped fantasy mountain, blurred detail, HDR lighting",blurred detail,HDR lighting,,1.126728573,0.297581066,0.890685279,0.964770893
+AttnGAN_normal_263.jpg,"cute animal character sleeping in the space station, cold color, elevation view, abstract style",cold color,elevation view,abstract style,0.729822753,0.68862615,0.652605272,0.443647082
+AttnGAN_normal_267.jpg,"beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style",cold color,long-shot,realistic style,1.112367509,0.767787552,0.902744335,1.074326235
+AttnGAN_normal_273.jpg,"exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style",warm color,HDR lighting,abstract style,0.731526985,0.367350535,1.759600793,1.125179591
+AttnGAN_normal_277.jpg,"plasticine sculptures of two lovers walking through paris, top view, long-shot, realistic style",top view,long-shot,realistic style,0.859637576,0.345503594,0.582882463,0.484328933
+AttnGAN_normal_283.jpg,"steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style",elevation view,hyper detail,abstract style,0.850777428,0.688058427,0.957159937,0.95038095
+AttnGAN_normal_287.jpg,"cute anthropomorphic lizard person portrait symmetrical axis, elevation view, HDR lighting, realistic style",elevation view,HDR lighting,realistic style,0.935417685,0.194863038,0.587962822,0.795238686
+AttnGAN_normal_293.jpg,"futuristic robot alien invasion award winning pixar movie poster , close-up, HDR lighting, abstract style",close-up,HDR lighting,abstract style,0.739960598,0.108312025,1.065188716,0.944952912
+AttnGAN_normal_297.jpg,"cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style",blurred detail,HDR lighting,realistic style,1.023275848,0.644284288,0.743832537,0.854635933
+DALLE2_normal_003.jpg,a cosmic universe,,,,3.274576995,0.51408255,3.641108818,0.286965548
+DALLE2_normal_007.jpg,a cat doing karaoke,,,,1.910721781,0.574075394,3.167161119,1.011091307
+DALLE2_normal_013.jpg,everything is a dream,,,,3.010422973,0.389494056,1.18708799,1.160976524
+DALLE2_normal_017.jpg,tragedy of the commons,,,,2.939794687,0.379931977,2.055944631,0.907742704
+DALLE2_normal_023.jpg,king kong on fighting,,,,2.679260682,0.619951524,2.403045646,0.900579927
+DALLE2_normal_027.jpg,the large cresting waves,,,,2.731010208,0.660265604,3.374870467,0.433080649
+DALLE2_normal_033.jpg,the pope had a rock band,,,,2.742340814,0.567100146,2.574726496,0.903119279
+DALLE2_normal_037.jpg,demon queen with red eyes,,,,3.645914271,0.651330986,3.658965437,0.455270145
+DALLE2_normal_043.jpg,a frog wearing police cap,,,,2.660597966,0.462006216,3.67754677,0.939010903
+DALLE2_normal_053.jpg,castle from howl's sticker,,,,2.405953874,0.643446948,2.919903841,1.108147358
+DALLE2_normal_057.jpg,sartre hugging a sad alien,,,,1.829599618,0.388165887,3.432908534,0.593375157
+DALLE2_normal_063.jpg,"overwatch small hut building, abstract style",,,abstract style,0.997965831,0.457119446,1.677453607,1.103444372
+DALLE2_normal_073.jpg,"otter making a disgusted face, abstract style",,,abstract style,2.899057018,0.614928119,3.124625168,0.770011767
+DALLE2_normal_077.jpg,"a anthropomorphic cat warrior, realistic style",,,realistic style,2.765509892,0.535754342,3.2326522,0.428753784
+DALLE2_normal_083.jpg,"eiffel tower drenched in blood, abstract style",,,abstract style,1.368272689,0.666101762,3.291909811,1.032780485
+DALLE2_normal_087.jpg,"a tonalism portrait of a ghost , realistic style",,,realistic style,1.834018423,1.006215574,2.414897168,1.165914841
+DALLE2_normal_093.jpg,"photo of tony danza eating chili, abstract style",,,abstract style,2.476240979,0.57620571,3.227706657,0.587682229
+DALLE2_normal_103.jpg,"a giant rock floating in the air, abstract style",,,abstract style,3.162256259,0.78356873,3.1259885,0.681765755
+DALLE2_normal_107.jpg,"spritesheet game asset vector art, realistic style",,,realistic style,2.713760366,0.440479774,2.971918712,0.213385477
+DALLE2_normal_113.jpg,"epic colourful scene from a dream, abstract style",,,abstract style,0.889332048,0.577938545,1.44367974,0.456340619
+DALLE2_normal_117.jpg,"portrait of a cloaked female devil, realistic style",,,realistic style,2.176839871,0.785229781,2.443074357,0.785800386
+DALLE2_normal_123.jpg,"anthropomorphic pine marten animal, elevation view",elevation view,,,2.060413207,0.551010356,1.692657167,0.925096364
+DALLE2_normal_127.jpg,"robots building robots in a factory, hyper detail",hyper detail,,,3.091620808,0.995929938,3.259317616,0.668779865
+DALLE2_normal_133.jpg,"a blue abyss underwater concept art, elevation view",elevation view,,,1.106041797,0.90218897,2.470491925,1.245727294
+DALLE2_normal_137.jpg,"white fur furry mothman movie scene , hyper detail",hyper detail,,,1.131619326,0.337375552,2.008581504,1.543083168
+DALLE2_normal_143.jpg,"portrait of squids swarming the ocean, elevation view",elevation view,,,1.463652872,0.501326651,1.805635978,0.501890153
+DALLE2_normal_153.jpg,"grumpy king in yellow sitting in a bar, elevation view",elevation view,,,2.960099613,0.803361859,3.336157521,0.522135682
+DALLE2_normal_157.jpg,"spaceship flying over a strange planet, hyper detail",hyper detail,,,2.432406235,0.447910594,2.958190852,0.763923536
+DALLE2_normal_163.jpg,"a portrait of girl boxer in a red dress, elevation view",elevation view,,,3.718303223,0.269369401,3.001128296,0.532322822
+DALLE2_normal_167.jpg,"two women working in a recording studio, hyper detail",hyper detail,,,2.321609349,0.438716814,2.78310259,1.059207108
+DALLE2_normal_173.jpg,"ancient japanese fantasy garden at night, elevation view",elevation view,,,3.034849246,0.442576692,3.191417702,0.753532223
+DALLE2_normal_177.jpg,"a huge wooden carving sculpture of a fox, hyper detail",hyper detail,,,2.524012104,0.759348523,3.244503722,0.350395238
+DALLE2_normal_183.jpg,"radioactive alien mushrooms in the forest , elevation view, abstract style",elevation view,,abstract style,1.785560751,1.055417817,2.6904737,0.742115236
+DALLE2_normal_187.jpg,"softboy aesthetic in ancient greek clothing, hyper detail, realistic style",hyper detail,,realistic style,2.657997659,0.814296348,1.672693868,0.722191936
+DALLE2_normal_193.jpg,"a portrait of a female robot made from code, elevation view, abstract style",elevation view,,abstract style,3.474165563,0.665936609,2.52206564,0.576255923
+DALLE2_normal_197.jpg,"storm troopers cosplaying the power rangers , hyper detail, realistic style",hyper detail,,realistic style,3.524062705,0.663198275,3.417300183,0.617227542
+DALLE2_normal_203.jpg,"a beautiful brutalist concrete forest temple, elevation view, abstract style",elevation view,,abstract style,1.868518107,0.812630472,1.597142136,0.538599655
+DALLE2_normal_207.jpg,"painting of a man farmer at work in the field, hyper detail, realistic style",hyper detail,,realistic style,2.899057018,0.754775389,3.536512459,0.460436218
+DALLE2_normal_213.jpg,"a biomechanical hibiscus flower made of metal, elevation view, abstract style",elevation view,,abstract style,2.523592728,0.627689441,2.51693257,0.797718944
+DALLE2_normal_217.jpg,"a portrait photo of a beautiful female android, hyper detail, realistic style",hyper detail,,realistic style,3.537280489,0.803367323,3.358399036,0.618031961
+DALLE2_normal_223.jpg,"small group of nomads staying at ancient ruins, cold color, elevation view",cold color,elevation view,,2.40326321,0.875915711,2.900809578,0.951452433
+DALLE2_normal_227.jpg,"a sketch drawing of a hamster in a fruit basket, cold color, long-shot",cold color,long-shot,,1.851568074,0.24652529,3.299094897,0.491717271
+DALLE2_normal_233.jpg,"a penguin slipping on a banana in the antarctic , warm color, HDR lighting",warm color,HDR lighting,,2.196265106,0.776078371,3.031176323,0.74358509
+DALLE2_normal_237.jpg,"portrait of terrified green ball gown young woman, top view, long-shot",top view,long-shot,,3.316649193,0.792363184,3.348349994,0.959123723
+DALLE2_normal_243.jpg,"mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail",elevation view,hyper detail,,2.446668218,1.05414724,2.958190852,0.387413657
+DALLE2_normal_247.jpg,"a saint noble high priestess pray for god in church, elevation view, HDR lighting",elevation view,HDR lighting,,1.493154926,0.470406429,2.218965969,0.779356992
+DALLE2_normal_253.jpg,"a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting",close-up,HDR lighting,,0.0,0.324752734,0.253699602,0.465981252
+DALLE2_normal_257.jpg,"dragons flyring around a snowcapped fantasy mountain, blurred detail, HDR lighting",blurred detail,HDR lighting,,2.157904831,0.47883484,3.118812912,1.060456819
+DALLE2_normal_263.jpg,"cute animal character sleeping in the space station, cold color, elevation view, abstract style",cold color,elevation view,abstract style,2.11262753,0.620894652,2.999433191,0.829883622
+DALLE2_normal_267.jpg,"beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style",cold color,long-shot,realistic style,2.912636241,0.385901778,3.358399036,0.585371596
+DALLE2_normal_273.jpg,"exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style",warm color,HDR lighting,abstract style,2.166977719,1.070715534,2.281498001,1.204507687
+DALLE2_normal_277.jpg,"plasticine sculptures of two lovers walking through paris, top view, long-shot, realistic style",top view,long-shot,realistic style,2.757389397,0.552756488,2.475299774,0.559521531
+DALLE2_normal_283.jpg,"steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style",elevation view,hyper detail,abstract style,2.625770283,0.712896903,3.035247107,0.789781547
+DALLE2_normal_287.jpg,"cute anthropomorphic lizard person portrait symmetrical axis, elevation view, HDR lighting, realistic style",elevation view,HDR lighting,realistic style,2.762534827,0.477452794,2.504517295,0.755971564
+DALLE2_normal_293.jpg,"futuristic robot alien invasion award winning pixar movie poster , close-up, HDR lighting, abstract style",close-up,HDR lighting,abstract style,2.448923322,0.707424507,2.901806096,0.551114801
+DALLE2_normal_297.jpg,"cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style",blurred detail,HDR lighting,realistic style,3.016410807,0.479175161,3.001128296,0.48642268
+glide_normal_003.jpg,a cosmic universe,,,,0.72412361,0.679821912,1.662380313,1.349794897
+glide_normal_007.jpg,a cat doing karaoke,,,,0.821435934,0.631626061,1.388019295,0.793575782
+glide_normal_013.jpg,everything is a dream,,,,0.862881799,0.757172769,1.231874682,0.931758647
+glide_normal_017.jpg,tragedy of the commons,,,,1.391281461,0.405474968,0.666005895,0.590813802
+glide_normal_023.jpg,king kong on fighting,,,,0.84859438,0.494118092,0.597640981,0.648196135
+glide_normal_027.jpg,the large cresting waves,,,,1.378485599,0.83958531,2.798535131,0.543410228
+glide_normal_033.jpg,the pope had a rock band,,,,1.421934412,0.671323314,1.10728726,0.970739104
+glide_normal_037.jpg,demon queen with red eyes,,,,0.991945932,0.582904548,0.422156431,0.428829097
+glide_normal_043.jpg,a frog wearing police cap,,,,1.677868451,0.495970421,0.6789357,0.736886716
+glide_normal_047.jpg,stalin tapdancing on stage,,,,1.49383774,0.267439768,0.265637574,0.468348897
+glide_normal_053.jpg,castle from howl's sticker,,,,1.012573225,0.744960462,0.981735619,0.592176071
+glide_normal_057.jpg,sartre hugging a sad alien,,,,0.0,1.012662656,0.293474693,0.479069102
+glide_normal_063.jpg,"overwatch small hut building, abstract style",,,abstract style,1.402772373,0.854983986,2.071203024,0.962921551
+glide_normal_067.jpg,"a woman in newspaper clothes, realistic style",,,realistic style,1.077517831,1.205676334,0.507503744,0.452524682
+glide_normal_073.jpg,"otter making a disgusted face, abstract style",,,abstract style,0.662833684,0.555022842,0.924885591,0.621933444
+glide_normal_077.jpg,"a anthropomorphic cat warrior, realistic style",,,realistic style,1.539115041,0.266201801,2.139899198,0.76685555
+glide_normal_083.jpg,"eiffel tower drenched in blood, abstract style",,,abstract style,1.388190702,0.342705919,1.435558842,0.236067451
+glide_normal_087.jpg,"a tonalism portrait of a ghost , realistic style",,,realistic style,1.931518323,0.575500634,1.328117093,0.783684031
+glide_normal_093.jpg,"photo of tony danza eating chili, abstract style",,,abstract style,0.986154364,0.43733238,1.050286739,0.483895995
+glide_normal_097.jpg,"donald trump playing in the rain, realistic style",,,realistic style,0.663293231,0.81142886,0.047005435,0.457883741
+glide_normal_103.jpg,"a giant rock floating in the air, abstract style",,,abstract style,0.45479692,0.254632895,1.721981963,0.869123171
+glide_normal_107.jpg,"spritesheet game asset vector art, realistic style",,,realistic style,1.056157156,0.525501471,1.578814508,1.183469649
+glide_normal_113.jpg,"epic colourful scene from a dream, abstract style",,,abstract style,0.298444431,0.273761388,2.41761037,1.472143015
+glide_normal_117.jpg,"portrait of a cloaked female devil, realistic style",,,realistic style,1.011545053,0.545776208,0.653301426,0.596414647
+glide_normal_123.jpg,"anthropomorphic pine marten animal, elevation view",elevation view,,,0.877850066,0.541582066,1.495094071,0.928247332
+glide_normal_127.jpg,"robots building robots in a factory, hyper detail",hyper detail,,,1.065861944,0.82674863,1.410283473,1.100739316
+glide_normal_133.jpg,"a blue abyss underwater concept art, elevation view",elevation view,,,1.056157156,0.380029646,1.184861428,0.645897237
+glide_normal_137.jpg,"white fur furry mothman movie scene , hyper detail",hyper detail,,,1.405543444,0.581477013,2.129102676,0.784282731
+glide_normal_143.jpg,"portrait of squids swarming the ocean, elevation view",elevation view,,,2.166977719,0.614305072,1.255488616,0.66933851
+glide_normal_147.jpg,"bill gates and jason statham fight m , hyper detail",hyper detail,,,1.048993865,0.437124392,0.56846611,0.274266954
+glide_normal_153.jpg,"grumpy king in yellow sitting in a bar, elevation view",elevation view,,,0.726381375,0.279671159,0.775754404,0.30926261
+glide_normal_157.jpg,"spaceship flying over a strange planet, hyper detail",hyper detail,,,1.269550286,0.510153989,1.098584983,0.826970715
+glide_normal_163.jpg,"a portrait of girl boxer in a red dress, elevation view",elevation view,,,1.761964787,0.581879537,0.59256494,0.642184299
+glide_normal_167.jpg,"two women working in a recording studio, hyper detail",hyper detail,,,0.747178209,0.329033038,0.78808434,0.337559331
+glide_normal_173.jpg,"ancient japanese fantasy garden at night, elevation view",elevation view,,,0.255168478,0.472382651,0.514481837,0.525405703
+glide_normal_177.jpg,"a huge wooden carving sculpture of a fox, hyper detail",hyper detail,,,0.128895573,0.376052061,0.341602936,0.402970126
+glide_normal_183.jpg,"radioactive alien mushrooms in the forest , elevation view, abstract style",elevation view,,abstract style,0.392090064,0.341478939,0.814784292,0.524473831
+glide_normal_187.jpg,"softboy aesthetic in ancient greek clothing, hyper detail, realistic style",hyper detail,,realistic style,1.782268897,0.605110388,1.502329958,0.842131387
+glide_normal_193.jpg,"a portrait of a female robot made from code, elevation view, abstract style",elevation view,,abstract style,0.970807385,0.584529286,1.02066036,0.826871359
+glide_normal_197.jpg,"storm troopers cosplaying the power rangers , hyper detail, realistic style",hyper detail,,realistic style,0.143533905,1.015388784,0.43569296,0.71121383
+glide_normal_203.jpg,"a beautiful brutalist concrete forest temple, elevation view, abstract style",elevation view,,abstract style,0.313378312,0.441314652,0.307013614,0.420944032
+glide_normal_207.jpg,"painting of a man farmer at work in the field, hyper detail, realistic style",hyper detail,,realistic style,0.641923698,0.461137921,0.927777366,0.611147875
+glide_normal_213.jpg,"a biomechanical hibiscus flower made of metal, elevation view, abstract style",elevation view,,abstract style,0.905232817,0.589974552,1.244551289,0.299826924
+glide_normal_217.jpg,"a portrait photo of a beautiful female android, hyper detail, realistic style",hyper detail,,realistic style,2.293266536,0.471957485,0.692100914,0.839354916
+glide_normal_223.jpg,"small group of nomads staying at ancient ruins, cold color, elevation view",cold color,elevation view,,1.853456865,0.523761349,2.011416275,0.742171718
+glide_normal_227.jpg,"a sketch drawing of a hamster in a fruit basket, cold color, long-shot",cold color,long-shot,,1.661236071,0.867837434,2.258761363,0.834957249
+glide_normal_233.jpg,"a penguin slipping on a banana in the antarctic , warm color, HDR lighting",warm color,HDR lighting,,1.558020951,0.557757786,1.502329958,0.783614863
+glide_normal_237.jpg,"portrait of terrified green ball gown young woman, top view, long-shot",top view,long-shot,,0.8493261,0.383957793,0.519696217,0.460561682
+glide_normal_243.jpg,"mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail",elevation view,hyper detail,,1.782268897,0.567550172,2.474154779,0.825546548
+glide_normal_247.jpg,"a saint noble high priestess pray for god in church, elevation view, HDR lighting",elevation view,HDR lighting,,0.358179955,0.247640471,0.59256494,0.375937078
+glide_normal_253.jpg,"a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting",close-up,HDR lighting,,0.60416837,0.522841763,0.642169337,0.528830708
+glide_normal_257.jpg,"dragons flyring around a snowcapped fantasy mountain, blurred detail, HDR lighting",blurred detail,HDR lighting,,0.64666085,0.763274847,0.349805353,0.460538251
+glide_normal_263.jpg,"cute animal character sleeping in the space station, cold color, elevation view, abstract style",cold color,elevation view,abstract style,0.0,0.175089206,0.021462288,0.312813479
+glide_normal_267.jpg,"beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style",cold color,long-shot,realistic style,1.269146708,0.425814488,0.654641315,0.396338658
+glide_normal_273.jpg,"exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style",warm color,HDR lighting,abstract style,1.063255848,0.500882455,1.812098374,1.046589067
+glide_normal_277.jpg,"plasticine sculptures of two lovers walking through paris, top view, long-shot, realistic style",top view,long-shot,realistic style,1.385522531,0.47347537,1.075675159,0.579956351
+glide_normal_283.jpg,"steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style",elevation view,hyper detail,abstract style,1.075025374,0.758286415,1.312705603,1.1853308
+glide_normal_287.jpg,"cute anthropomorphic lizard person portrait symmetrical axis, elevation view, HDR lighting, realistic style",elevation view,HDR lighting,realistic style,1.316523163,0.758410232,1.703805836,1.120564708
+glide_normal_293.jpg,"futuristic robot alien invasion award winning pixar movie poster , close-up, HDR lighting, abstract style",close-up,HDR lighting,abstract style,0.950510119,0.504860565,2.175713114,1.066693456
+glide_normal_297.jpg,"cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style",blurred detail,HDR lighting,realistic style,1.780593984,0.404588036,2.760673748,0.744259743
+midjourney_lowstep_003.jpg,a cosmic universe,,,,1.112671152,0.583817321,2.976904363,0.760166479
+midjourney_lowstep_007.jpg,a cat doing karaoke,,,,2.821971923,0.621457002,3.679897602,0.461713348
+midjourney_lowstep_013.jpg,everything is a dream,,,,0.862881799,0.786103358,1.047561688,0.706540313
+midjourney_lowstep_017.jpg,tragedy of the commons,,,,1.910721781,0.744763119,1.653161525,1.26287672
+midjourney_lowstep_023.jpg,king kong on fighting,,,,2.077045587,0.673925658,3.232987189,0.516480698
+midjourney_lowstep_027.jpg,the large cresting waves,,,,1.49383774,0.502659367,3.309820466,0.543355209
+midjourney_lowstep_033.jpg,the pope had a rock band,,,,2.165179579,0.624781709,2.44244092,0.570381404
+midjourney_lowstep_037.jpg,demon queen with red eyes,,,,2.972896262,0.545480585,3.238192633,0.632500712
+midjourney_lowstep_043.jpg,a frog wearing police cap,,,,3.231255627,0.49622256,3.256355245,0.815760489
+midjourney_lowstep_047.jpg,stalin tapdancing on stage,,,,2.896939758,0.501070911,4.056426674,0.386403509
+midjourney_lowstep_053.jpg,castle from howl's sticker,,,,1.696019687,0.87769098,2.841551967,0.632415009
+midjourney_lowstep_057.jpg,sartre hugging a sad alien,,,,3.031344688,0.512054623,3.609476773,0.409428947
+midjourney_lowstep_063.jpg,"overwatch small hut building, abstract style",,,abstract style,2.610261314,0.70406541,2.960067189,0.584609742
+midjourney_lowstep_067.jpg,"a woman in newspaper clothes, realistic style",,,realistic style,2.966953132,1.024947036,2.757266234,0.624717733
+midjourney_lowstep_073.jpg,"otter making a disgusted face, abstract style",,,abstract style,2.226737013,0.444608591,2.666882993,0.64142839
+midjourney_lowstep_077.jpg,"a anthropomorphic cat warrior, realistic style",,,realistic style,2.888789697,0.401168009,3.40931236,0.415427298
+midjourney_lowstep_087.jpg,"a tonalism portrait of a ghost , realistic style",,,realistic style,3.75546628,0.705646043,2.258697793,1.129046792
+midjourney_lowstep_093.jpg,"photo of tony danza eating chili, abstract style",,,abstract style,3.116981428,0.903665277,2.702148916,0.711977881
+midjourney_lowstep_097.jpg,"donald trump playing in the rain, realistic style",,,realistic style,2.86026573,0.471702186,2.628994077,0.783695298
+midjourney_lowstep_103.jpg,"a giant rock floating in the air, abstract style",,,abstract style,1.48681785,0.697328904,3.158021435,0.530670701
+midjourney_lowstep_107.jpg,"spritesheet game asset vector art, realistic style",,,realistic style,2.48951242,0.576377002,2.699333701,0.789405695
+midjourney_lowstep_113.jpg,"epic colourful scene from a dream, abstract style",,,abstract style,0.977683949,0.756180393,2.568031711,1.127569438
+midjourney_lowstep_117.jpg,"portrait of a cloaked female devil, realistic style",,,realistic style,3.008458905,0.492722201,3.048674194,0.65610737
+midjourney_lowstep_123.jpg,"anthropomorphic pine marten animal, elevation view",elevation view,,,2.349724191,0.466765879,1.722892891,0.816023003
+midjourney_lowstep_127.jpg,"robots building robots in a factory, hyper detail",hyper detail,,,0.60927964,0.74641888,1.194190381,1.103877657
+midjourney_lowstep_133.jpg,"a blue abyss underwater concept art, elevation view",elevation view,,,0.877850066,0.467036766,1.495094071,0.433459617
+midjourney_lowstep_137.jpg,"white fur furry mothman movie scene , hyper detail",hyper detail,,,1.541134741,0.552565501,2.178397609,0.848077185
+midjourney_lowstep_143.jpg,"portrait of squids swarming the ocean, elevation view",elevation view,,,1.731197672,0.713435659,1.688692578,1.096883662
+midjourney_lowstep_147.jpg,"bill gates and jason statham fight m , hyper detail",hyper detail,,,2.757389397,0.648647191,2.258697793,0.634811859
+midjourney_lowstep_153.jpg,"grumpy king in yellow sitting in a bar, elevation view",elevation view,,,2.80733647,0.537112557,2.827314446,0.780856526
+midjourney_lowstep_157.jpg,"spaceship flying over a strange planet, hyper detail",hyper detail,,,1.913944143,0.451256843,2.099096333,0.573492602
+midjourney_lowstep_163.jpg,"a portrait of girl boxer in a red dress, elevation view",elevation view,,,2.954193289,0.323190499,3.079505301,0.446891494
+midjourney_lowstep_167.jpg,"two women working in a recording studio, hyper detail",hyper detail,,,2.463857203,0.375794952,2.926636646,0.396438768
+midjourney_lowstep_173.jpg,"ancient japanese fantasy garden at night, elevation view",elevation view,,,1.794295116,0.435944596,2.601056923,0.954981303
+midjourney_lowstep_177.jpg,"a huge wooden carving sculpture of a fox, hyper detail",hyper detail,,,2.193472252,0.655902932,3.075004622,0.305986943
+midjourney_lowstep_183.jpg,"radioactive alien mushrooms in the forest , elevation view, abstract style",elevation view,,abstract style,2.747600946,0.269887622,3.038374121,0.714368708
+midjourney_lowstep_187.jpg,"softboy aesthetic in ancient greek clothing, hyper detail, realistic style",hyper detail,,realistic style,2.852156791,0.413610383,2.366720668,0.596493898
+midjourney_lowstep_193.jpg,"a portrait of a female robot made from code, elevation view, abstract style",elevation view,,abstract style,1.661520003,0.924624302,2.201569768,0.737790662
+midjourney_lowstep_197.jpg,"storm troopers cosplaying the power rangers , hyper detail, realistic style",hyper detail,,realistic style,3.386504205,0.377296185,3.244503722,0.793221862
+midjourney_lowstep_203.jpg,"a beautiful brutalist concrete forest temple, elevation view, abstract style",elevation view,,abstract style,2.493724965,0.38173282,2.144474319,0.776349955
+midjourney_lowstep_207.jpg,"painting of a man farmer at work in the field, hyper detail, realistic style",hyper detail,,realistic style,2.595585415,0.654013386,2.987495218,0.600217122
+midjourney_lowstep_213.jpg,"a biomechanical hibiscus flower made of metal, elevation view, abstract style",elevation view,,abstract style,2.475192184,0.805527476,3.202040316,0.38160961
+midjourney_lowstep_217.jpg,"a portrait photo of a beautiful female android, hyper detail, realistic style",hyper detail,,realistic style,2.851759102,1.022124178,3.268206767,0.42607834
+midjourney_lowstep_223.jpg,"small group of nomads staying at ancient ruins, cold color, elevation view",cold color,elevation view,,1.49383774,0.364534678,2.235402975,0.898426306
+midjourney_lowstep_227.jpg,"a sketch drawing of a hamster in a fruit basket, cold color, long-shot",cold color,long-shot,,2.437762894,0.458237405,2.782294356,0.568245665
+midjourney_lowstep_233.jpg,"a penguin slipping on a banana in the antarctic , warm color, HDR lighting",warm color,HDR lighting,,3.088457462,0.414700446,2.677763969,0.502767797
+midjourney_lowstep_237.jpg,"portrait of terrified green ball gown young woman, top view, long-shot",top view,long-shot,,3.324474137,0.611943012,3.351474113,0.64671228
+midjourney_lowstep_243.jpg,"mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail",elevation view,hyper detail,,1.337589887,0.672404755,1.90529456,0.705663083
+midjourney_lowstep_247.jpg,"a saint noble high priestess pray for god in church, elevation view, HDR lighting",elevation view,HDR lighting,,1.161274584,0.870232351,1.739360402,0.993663214
+midjourney_lowstep_253.jpg,"a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting",close-up,HDR lighting,,1.920267633,0.865558975,2.604521523,0.826342336
+midjourney_lowstep_257.jpg,"dragons flyring around a snowcapped fantasy mountain, blurred detail, HDR lighting",blurred detail,HDR lighting,,2.309898917,0.530867733,1.903300589,0.580027152
+midjourney_lowstep_263.jpg,"cute animal character sleeping in the space station, cold color, elevation view, abstract style",cold color,elevation view,abstract style,2.616815188,1.079163076,2.86290332,0.625978654
+midjourney_lowstep_267.jpg,"beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style",cold color,long-shot,realistic style,2.776694622,0.460433602,2.330906752,0.626118607
+midjourney_lowstep_273.jpg,"exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style",warm color,HDR lighting,abstract style,0.663293231,0.742893648,2.271926577,1.517237795
+midjourney_lowstep_277.jpg,"plasticine sculptures of two lovers walking through paris, top view, long-shot, realistic style",top view,long-shot,realistic style,2.532240117,0.441071522,2.689956442,0.633932193
+midjourney_lowstep_283.jpg,"steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style",elevation view,hyper detail,abstract style,1.20587568,0.520842304,1.653596222,1.220350086
+midjourney_lowstep_287.jpg,"cute anthropomorphic lizard person portrait symmetrical axis, elevation view, HDR lighting, realistic style",elevation view,HDR lighting,realistic style,2.837204233,0.513262583,3.001128296,0.474938243
+midjourney_lowstep_293.jpg,"futuristic robot alien invasion award winning pixar movie poster , close-up, HDR lighting, abstract style",close-up,HDR lighting,abstract style,2.274412771,0.707691444,2.579152811,1.044644798
+midjourney_lowstep_297.jpg,"cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style",blurred detail,HDR lighting,realistic style,2.827676501,0.346735676,3.375908012,0.682348558
+midjourney_normal_003.jpg,a cosmic universe,,,,2.788955814,0.905640435,3.543429565,0.84557205
+midjourney_normal_007.jpg,a cat doing karaoke,,,,3.658567698,0.360187657,3.410832372,1.035166179
+midjourney_normal_013.jpg,everything is a dream,,,,4.119921239,0.553005726,3.512765992,0.687413695
+midjourney_normal_017.jpg,tragedy of the commons,,,,3.252116811,1.194628036,3.280474413,0.363547724
+midjourney_normal_023.jpg,king kong on fighting,,,,3.822840391,0.255060702,4.093672499,0.465195587
+midjourney_normal_027.jpg,the large cresting waves,,,,3.657121751,0.847638231,3.720100101,0.554704306
+midjourney_normal_033.jpg,the pope had a rock band,,,,3.908627165,0.243365802,3.739587462,0.418155124
+midjourney_normal_037.jpg,demon queen with red eyes,,,,4.305784597,0.824311773,4.128221731,0.467201257
+midjourney_normal_043.jpg,a frog wearing police cap,,,,3.699236596,0.485243741,3.923113018,0.346015229
+midjourney_normal_047.jpg,stalin tapdancing on stage,,,,3.457533183,0.603171498,3.588447963,0.451391541
+midjourney_normal_053.jpg,castle from howl's sticker,,,,3.307841757,0.910429463,4.115056517,0.379821074
+midjourney_normal_057.jpg,sartre hugging a sad alien,,,,4.143844218,0.404732706,3.726316663,0.605461695
+midjourney_normal_063.jpg,"overwatch small hut building, abstract style",,,abstract style,3.700231162,0.507153164,3.369531125,1.067820653
+midjourney_normal_067.jpg,"a woman in newspaper clothes, realistic style",,,realistic style,3.757702826,0.408567695,2.844239553,0.866302306
+midjourney_normal_073.jpg,"otter making a disgusted face, abstract style",,,abstract style,4.029748353,0.69490508,3.165462896,0.560750396
+midjourney_normal_077.jpg,"a anthropomorphic cat warrior, realistic style",,,realistic style,3.645251835,0.497801412,3.754119177,0.282738251
+midjourney_normal_087.jpg,"a tonalism portrait of a ghost , realistic style",,,realistic style,2.758973195,0.775130189,2.75903949,0.534372539
+midjourney_normal_093.jpg,"photo of tony danza eating chili, abstract style",,,abstract style,3.956504603,1.006628303,3.588447963,0.635718282
+midjourney_normal_097.jpg,"donald trump playing in the rain, realistic style",,,realistic style,3.643633817,0.435575717,2.740407521,0.764291983
+midjourney_normal_103.jpg,"a giant rock floating in the air, abstract style",,,abstract style,2.821971923,0.417819862,3.548579908,0.575292504
+midjourney_normal_107.jpg,"spritesheet game asset vector art, realistic style",,,realistic style,2.931575646,0.585183079,3.17765537,0.524333997
+midjourney_normal_113.jpg,"epic colourful scene from a dream, abstract style",,,abstract style,3.401488261,0.590802517,3.73689006,0.500353722
+midjourney_normal_117.jpg,"portrait of a cloaked female devil, realistic style",,,realistic style,4.149074065,0.465611348,3.66091062,0.926996164
+midjourney_normal_123.jpg,"anthropomorphic pine marten animal, elevation view",elevation view,,,3.418088178,0.636413534,2.429699357,0.73630606
+midjourney_normal_127.jpg,"robots building robots in a factory, hyper detail",hyper detail,,,3.685179175,0.73886234,3.649510515,0.435199975
+midjourney_normal_133.jpg,"a blue abyss underwater concept art, elevation view",elevation view,,,3.727351438,0.548720487,3.3417077,0.596346055
+midjourney_normal_137.jpg,"white fur furry mothman movie scene , hyper detail",hyper detail,,,3.730246705,0.366204728,2.897228486,0.926279953
+midjourney_normal_143.jpg,"portrait of squids swarming the ocean, elevation view",elevation view,,,2.903508628,0.715033285,3.4459796,0.253458407
+midjourney_normal_147.jpg,"bill gates and jason statham fight m , hyper detail",hyper detail,,,3.939872222,0.686213821,2.508900426,0.860756441
+midjourney_normal_153.jpg,"grumpy king in yellow sitting in a bar, elevation view",elevation view,,,3.773032655,0.414347187,3.311772574,0.372194663
+midjourney_normal_157.jpg,"spaceship flying over a strange planet, hyper detail",hyper detail,,,4.036614698,0.376863946,3.66091062,0.657955632
+midjourney_normal_163.jpg,"a portrait of girl boxer in a red dress, elevation view",elevation view,,,3.741408859,0.422313642,2.62350113,0.798836876
+midjourney_normal_167.jpg,"two women working in a recording studio, hyper detail",hyper detail,,,3.550859712,0.525908235,3.658965437,0.606641784
+midjourney_normal_173.jpg,"ancient japanese fantasy garden at night, elevation view",elevation view,,,3.713294017,0.252976573,3.375908012,0.881169833
+midjourney_normal_177.jpg,"a huge wooden carving sculpture of a fox, hyper detail",hyper detail,,,3.701722739,0.365064393,3.836048921,0.383865762
+midjourney_normal_183.jpg,"radioactive alien mushrooms in the forest , elevation view, abstract style",elevation view,,abstract style,3.733237104,0.401074545,3.261849072,0.560023038
+midjourney_normal_187.jpg,"softboy aesthetic in ancient greek clothing, hyper detail, realistic style",hyper detail,,realistic style,4.180290975,0.496579398,2.60548011,0.930066458
+midjourney_normal_193.jpg,"a portrait of a female robot made from code, elevation view, abstract style",elevation view,,abstract style,4.289152216,0.778333692,3.785926171,0.844775648
+midjourney_normal_197.jpg,"storm troopers cosplaying the power rangers , hyper detail, realistic style",hyper detail,,realistic style,4.012553286,0.5098866,3.458587836,0.682991401
+midjourney_normal_203.jpg,"a beautiful brutalist concrete forest temple, elevation view, abstract style",elevation view,,abstract style,3.523701266,0.584049092,2.979908012,0.572701865
+midjourney_normal_207.jpg,"painting of a man farmer at work in the field, hyper detail, realistic style",hyper detail,,realistic style,4.436862351,0.382287812,3.811215295,0.771453814
+midjourney_normal_213.jpg,"a biomechanical hibiscus flower made of metal, elevation view, abstract style",elevation view,,abstract style,3.88997508,0.94687979,3.417300183,0.750622826
+midjourney_normal_217.jpg,"a portrait photo of a beautiful female android, hyper detail, realistic style",hyper detail,,realistic style,3.605176603,0.485338351,2.133869253,0.835634349
+midjourney_normal_223.jpg,"small group of nomads staying at ancient ruins, cold color, elevation view",cold color,elevation view,,3.25960126,0.457573012,3.031345691,0.665080209
+midjourney_normal_227.jpg,"a sketch drawing of a hamster in a fruit basket, cold color, long-shot",cold color,long-shot,,3.365299544,0.360563493,2.641294027,0.794735308
+midjourney_normal_233.jpg,"a penguin slipping on a banana in the antarctic , warm color, HDR lighting",warm color,HDR lighting,,3.509228886,0.586981562,2.529347845,0.675920552
+midjourney_normal_237.jpg,"portrait of terrified green ball gown young woman, top view, long-shot",top view,long-shot,,3.60083465,0.295704488,3.296107282,0.642840814
+midjourney_normal_243.jpg,"mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail",elevation view,hyper detail,,3.523701266,0.276396512,3.091228902,0.650744257
+midjourney_normal_247.jpg,"a saint noble high priestess pray for god in church, elevation view, HDR lighting",elevation view,HDR lighting,,3.766000729,0.645519275,3.280058289,0.92802827
+midjourney_normal_253.jpg,"a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting",close-up,HDR lighting,,3.558662387,0.342620207,3.318907491,0.814583404
+midjourney_normal_257.jpg,"dragons flyring around a snowcapped fantasy mountain, blurred detail, HDR lighting",blurred detail,HDR lighting,,3.994442435,0.484202539,3.227706657,0.817072992
+midjourney_normal_263.jpg,"cute animal character sleeping in the space station, cold color, elevation view, abstract style",cold color,elevation view,abstract style,3.748170985,0.317511956,3.025958846,0.544569191
+midjourney_normal_267.jpg,"beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style",cold color,long-shot,realistic style,3.92991447,0.318910194,3.360542467,0.932845712
+midjourney_normal_273.jpg,"exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style",warm color,HDR lighting,abstract style,2.455012736,1.062236918,3.161543067,0.759091366
+midjourney_normal_277.jpg,"plasticine sculptures of two lovers walking through paris, top view, long-shot, realistic style",top view,long-shot,realistic style,3.285220668,0.494788471,2.951467196,0.75428476
+midjourney_normal_283.jpg,"steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style",elevation view,hyper detail,abstract style,3.790180796,0.982271684,2.903856842,0.875220657
+midjourney_normal_287.jpg,"cute anthropomorphic lizard person portrait symmetrical axis, elevation view, HDR lighting, realistic style",elevation view,HDR lighting,realistic style,3.55403053,0.254184878,2.814899171,0.883620635
+midjourney_normal_293.jpg,"futuristic robot alien invasion award winning pixar movie poster , close-up, HDR lighting, abstract style",close-up,HDR lighting,abstract style,3.347801074,0.504889847,3.056705093,0.728562281
+midjourney_normal_297.jpg,"cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style",blurred detail,HDR lighting,realistic style,3.306433702,0.686359867,3.235946058,0.682740129
+sd1.5_highcorr_003.jpg,a cosmic universe,,,,2.760431848,0.416397822,3.336157521,0.434636544
+sd1.5_highcorr_007.jpg,a cat doing karaoke,,,,3.12288234,0.48840896,2.258697793,0.5263155
+sd1.5_highcorr_013.jpg,everything is a dream,,,,0.120426254,0.422839449,1.650442341,1.464131141
+sd1.5_highcorr_017.jpg,tragedy of the commons,,,,2.396625776,0.914284139,1.510472273,0.878983413
+sd1.5_highcorr_023.jpg,king kong on fighting,,,,3.169097903,0.436420921,3.608269769,0.74851976
+sd1.5_highcorr_027.jpg,the large cresting waves,,,,3.375915916,0.449940811,3.923113018,0.378377349
+sd1.5_highcorr_033.jpg,the pope had a rock band,,,,2.911873639,0.682064028,2.069982669,0.70418382
+sd1.5_highcorr_037.jpg,demon queen with red eyes,,,,0.550374317,0.336533677,0.970486009,0.528936184
+sd1.5_highcorr_043.jpg,a frog wearing police cap,,,,3.455805152,0.596598709,3.703493793,0.415965946
+sd1.5_highcorr_047.jpg,stalin tapdancing on stage,,,,3.145006417,0.386283181,2.616373046,0.962984816
+sd1.5_highcorr_053.jpg,castle from howl's sticker,,,,2.803217798,1.340229125,3.470274726,0.349137299
+sd1.5_highcorr_057.jpg,sartre hugging a sad alien,,,,2.628129896,0.359560217,1.734770243,1.110217995
+sd1.5_highcorr_063.jpg,"overwatch small hut building, abstract style",,,abstract style,2.157904831,0.473940152,2.700983887,1.460210061
+sd1.5_highcorr_067.jpg,"a woman in newspaper clothes, realistic style",,,realistic style,2.791787056,0.748437822,1.996643532,1.147252049
+sd1.5_highcorr_073.jpg,"otter making a disgusted face, abstract style",,,abstract style,3.048428469,0.535107707,2.47896401,1.132938519
+sd1.5_highcorr_077.jpg,"a anthropomorphic cat warrior, realistic style",,,realistic style,3.017147546,0.669231435,3.433697306,0.254206561
+sd1.5_highcorr_083.jpg,"eiffel tower drenched in blood, abstract style",,,abstract style,2.195092561,0.620702392,3.387308117,0.71568793
+sd1.5_highcorr_087.jpg,"a tonalism portrait of a ghost , realistic style",,,realistic style,0.621134369,0.284509809,1.702366115,1.271379617
+sd1.5_highcorr_093.jpg,"photo of tony danza eating chili, abstract style",,,abstract style,2.986543045,0.505309462,2.355533995,0.683890224
+sd1.5_highcorr_097.jpg,"donald trump playing in the rain, realistic style",,,realistic style,2.432406235,0.492548024,2.848458594,0.549211296
+sd1.5_highcorr_103.jpg,"a giant rock floating in the air, abstract style",,,abstract style,1.590623463,0.378844548,2.133296646,0.438013678
+sd1.5_highcorr_107.jpg,"spritesheet game asset vector art, realistic style",,,realistic style,2.701232452,0.561306758,2.54579025,1.03244652
+sd1.5_highcorr_113.jpg,"epic colourful scene from a dream, abstract style",,,abstract style,0.64666085,0.724729776,1.705822381,0.893907526
+sd1.5_highcorr_117.jpg,"portrait of a cloaked female devil, realistic style",,,realistic style,3.438253731,0.770307068,3.054879367,0.664427953
+sd1.5_highcorr_123.jpg,"anthropomorphic pine marten animal, elevation view",elevation view,,,1.928001564,0.54246134,2.213097376,1.058981242
+sd1.5_highcorr_127.jpg,"robots building robots in a factory, hyper detail",hyper detail,,,2.671047584,0.477838158,2.486100389,0.614058715
+sd1.5_highcorr_133.jpg,"a blue abyss underwater concept art, elevation view",elevation view,,,0.970807385,0.803834703,2.000284186,1.581545127
+sd1.5_highcorr_137.jpg,"white fur furry mothman movie scene , hyper detail",hyper detail,,,2.518838781,0.420306696,2.957643834,0.641997943
+sd1.5_highcorr_143.jpg,"portrait of squids swarming the ocean, elevation view",elevation view,,,1.956105243,0.517525479,1.883753543,0.832936621
+sd1.5_highcorr_147.jpg,"bill gates and jason statham fight m , hyper detail",hyper detail,,,2.771446817,0.605996792,3.079505301,0.946566129
+sd1.5_highcorr_153.jpg,"grumpy king in yellow sitting in a bar, elevation view",elevation view,,,3.300254995,0.827669868,1.300854081,0.723531489
+sd1.5_highcorr_157.jpg,"spaceship flying over a strange planet, hyper detail",hyper detail,,,2.926078447,0.57711193,2.965504258,0.469408875
+sd1.5_highcorr_163.jpg,"a portrait of girl boxer in a red dress, elevation view",elevation view,,,2.33566677,0.441435942,1.848294038,0.766983256
+sd1.5_highcorr_167.jpg,"two women working in a recording studio, hyper detail",hyper detail,,,2.782759734,0.468796599,3.291909811,0.488210145
+sd1.5_highcorr_173.jpg,"ancient japanese fantasy garden at night, elevation view",elevation view,,,3.143483028,0.596522821,3.180285613,0.682360181
+sd1.5_highcorr_177.jpg,"a huge wooden carving sculpture of a fox, hyper detail",hyper detail,,,2.630872609,0.817683258,2.931303945,0.825641471
+sd1.5_highcorr_183.jpg,"radioactive alien mushrooms in the forest , elevation view, abstract style",elevation view,,abstract style,2.746509754,0.767713103,2.330906752,0.739087182
+sd1.5_highcorr_187.jpg,"softboy aesthetic in ancient greek clothing, hyper detail, realistic style",hyper detail,,realistic style,3.590592228,0.670322525,2.232430935,1.195146127
+sd1.5_highcorr_193.jpg,"a portrait of a female robot made from code, elevation view, abstract style",elevation view,,abstract style,2.489938377,0.597990521,2.283154863,0.880313623
+sd1.5_highcorr_197.jpg,"storm troopers cosplaying the power rangers , hyper detail, realistic style",hyper detail,,realistic style,2.475192184,0.733376882,2.311989774,0.921485671
+sd1.5_highcorr_203.jpg,"a beautiful brutalist concrete forest temple, elevation view, abstract style",elevation view,,abstract style,2.988623579,0.578410425,2.226642462,1.129916005
+sd1.5_highcorr_207.jpg,"painting of a man farmer at work in the field, hyper detail, realistic style",hyper detail,,realistic style,3.395484412,0.576487468,3.679897602,0.444152618
+sd1.5_highcorr_213.jpg,"a biomechanical hibiscus flower made of metal, elevation view, abstract style",elevation view,,abstract style,2.702799302,0.539177263,2.405195095,0.891164772
+sd1.5_highcorr_217.jpg,"a portrait photo of a beautiful female android, hyper detail, realistic style",hyper detail,,realistic style,2.39306082,0.571121739,2.75903949,0.720240584
+sd1.5_highcorr_223.jpg,"small group of nomads staying at ancient ruins, cold color, elevation view",cold color,elevation view,,3.442225929,0.842234152,2.701605789,1.023385486
+sd1.5_highcorr_227.jpg,"a sketch drawing of a hamster in a fruit basket, cold color, long-shot",cold color,long-shot,,2.654631009,0.740134455,2.345378943,1.012924831
+sd1.5_highcorr_233.jpg,"a penguin slipping on a banana in the antarctic , warm color, HDR lighting",warm color,HDR lighting,,2.980532355,0.754941242,1.989152097,0.632881825
+sd1.5_highcorr_237.jpg,"portrait of terrified green ball gown young woman, top view, long-shot",top view,long-shot,,2.265379665,0.466205156,2.509500087,0.792044448
+sd1.5_highcorr_243.jpg,"mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail",elevation view,hyper detail,,3.045671512,0.476602268,3.299580101,0.746475379
+sd1.5_highcorr_247.jpg,"a saint noble high priestess pray for god in church, elevation view, HDR lighting",elevation view,HDR lighting,,2.610261314,0.302305892,2.971918712,0.493376819
+sd1.5_highcorr_253.jpg,"a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting",close-up,HDR lighting,,3.44620302,0.785345922,3.239106761,0.809848391
+sd1.5_highcorr_257.jpg,"dragons flyring around a snowcapped fantasy mountain, blurred detail, HDR lighting",blurred detail,HDR lighting,,3.091080213,0.526274828,2.69074642,0.879305792
+sd1.5_highcorr_263.jpg,"cute animal character sleeping in the space station, cold color, elevation view, abstract style",cold color,elevation view,abstract style,3.170641474,0.586946266,3.158021435,0.713386071
+sd1.5_highcorr_267.jpg,"beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style",cold color,long-shot,realistic style,3.129903806,0.395976573,3.291606502,0.57459786
+sd1.5_highcorr_273.jpg,"exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style",warm color,HDR lighting,abstract style,3.374371279,1.268934248,3.311978472,1.152118558
+sd1.5_highcorr_277.jpg,"plasticine sculptures of two lovers walking through paris, top view, long-shot, realistic style",top view,long-shot,realistic style,2.478101113,0.967828689,2.389907299,0.933577356
+sd1.5_highcorr_283.jpg,"steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style",elevation view,hyper detail,abstract style,3.541752783,0.388083258,2.557115434,1.011975105
+sd1.5_highcorr_287.jpg,"cute anthropomorphic lizard person portrait symmetrical axis, elevation view, HDR lighting, realistic style",elevation view,HDR lighting,realistic style,3.659493494,0.579176041,2.757266234,0.429057936
+sd1.5_highcorr_293.jpg,"futuristic robot alien invasion award winning pixar movie poster , close-up, HDR lighting, abstract style",close-up,HDR lighting,abstract style,3.124885569,0.59022201,3.483126252,0.689502114
+sd1.5_highcorr_297.jpg,"cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style",blurred detail,HDR lighting,realistic style,2.210104633,0.72110922,2.508900426,1.028168339
+sd1.5_lowcorr_003.jpg,a cosmic universe,,,,3.906607461,0.646229035,3.720100101,0.682847415
+sd1.5_lowcorr_007.jpg,a cat doing karaoke,,,,2.354106472,0.475679937,1.972767588,0.643913468
+sd1.5_lowcorr_013.jpg,everything is a dream,,,,2.771446817,0.730046325,2.669101547,0.649559483
+sd1.5_lowcorr_017.jpg,tragedy of the commons,,,,2.80733647,0.886549681,3.112865772,0.709039588
+sd1.5_lowcorr_023.jpg,king kong on fighting,,,,2.339014038,0.411558082,2.629356055,0.485742541
+sd1.5_lowcorr_027.jpg,the large cresting waves,,,,2.161765422,0.485685397,3.576346344,0.556044309
+sd1.5_lowcorr_033.jpg,the pope had a rock band,,,,2.524012104,0.423985312,2.971918712,0.727334424
+sd1.5_lowcorr_037.jpg,demon queen with red eyes,,,,0.578489159,0.338629699,1.289688929,1.503517138
+sd1.5_lowcorr_043.jpg,a frog wearing police cap,,,,1.76550155,0.509767547,3.238192633,0.523450869
+sd1.5_lowcorr_047.jpg,stalin tapdancing on stage,,,,2.689121932,0.534780838,3.336157521,0.323391175
+sd1.5_lowcorr_053.jpg,castle from howl's sticker,,,,3.307841757,0.791820938,3.50945668,0.85249769
+sd1.5_lowcorr_057.jpg,sartre hugging a sad alien,,,,2.765509892,0.497543111,1.62084518,1.122546083
+sd1.5_lowcorr_063.jpg,"overwatch small hut building, abstract style",,,abstract style,3.374371279,0.848518036,2.561561282,0.901862108
+sd1.5_lowcorr_067.jpg,"a woman in newspaper clothes, realistic style",,,realistic style,2.23076479,1.103444836,0.957159937,0.39527749
+sd1.5_lowcorr_073.jpg,"otter making a disgusted face, abstract style",,,abstract style,3.374823956,0.524537699,2.305872894,0.543444195
+sd1.5_lowcorr_077.jpg,"a anthropomorphic cat warrior, realistic style",,,realistic style,2.966953132,0.700603358,3.436323658,0.410341054
+sd1.5_lowcorr_083.jpg,"eiffel tower drenched in blood, abstract style",,,abstract style,2.293266536,0.836387204,2.508900426,0.481758248
+sd1.5_lowcorr_087.jpg,"a tonalism portrait of a ghost , realistic style",,,realistic style,2.010516065,0.740772782,2.377248288,0.870247219
+sd1.5_lowcorr_093.jpg,"photo of tony danza eating chili, abstract style",,,abstract style,3.150815738,0.488077234,2.330703444,0.989466456
+sd1.5_lowcorr_097.jpg,"donald trump playing in the rain, realistic style",,,realistic style,2.351513684,0.454838935,2.794145879,0.775762641
+sd1.5_lowcorr_103.jpg,"a giant rock floating in the air, abstract style",,,abstract style,3.257944615,0.674756139,2.785369917,0.891633127
+sd1.5_lowcorr_107.jpg,"spritesheet game asset vector art, realistic style",,,realistic style,2.377839033,0.987196057,2.885703528,0.627325418
+sd1.5_lowcorr_113.jpg,"epic colourful scene from a dream, abstract style",,,abstract style,3.150815738,1.002826357,3.820536448,0.38622845
+sd1.5_lowcorr_117.jpg,"portrait of a cloaked female devil, realistic style",,,realistic style,3.576593619,0.585149894,3.094936968,0.640179845
+sd1.5_lowcorr_123.jpg,"anthropomorphic pine marten animal, elevation view",elevation view,,,2.673044871,0.662659695,2.06489602,0.767698516
+sd1.5_lowcorr_127.jpg,"robots building robots in a factory, hyper detail",hyper detail,,,3.501131449,0.657529943,3.608269769,0.502365438
+sd1.5_lowcorr_133.jpg,"a blue abyss underwater concept art, elevation view",elevation view,,,3.395484412,0.661752847,2.056333393,1.616123325
+sd1.5_lowcorr_137.jpg,"white fur furry mothman movie scene , hyper detail",hyper detail,,,1.446080182,0.559929568,2.178397609,1.12171001
+sd1.5_lowcorr_143.jpg,"portrait of squids swarming the ocean, elevation view",elevation view,,,2.600314118,0.808938022,2.968775923,0.672392872
+sd1.5_lowcorr_147.jpg,"bill gates and jason statham fight m , hyper detail",hyper detail,,,2.478791084,0.564328295,1.548541117,0.701366909
+sd1.5_lowcorr_153.jpg,"grumpy king in yellow sitting in a bar, elevation view",elevation view,,,0.313378312,0.135405029,0.753963515,0.767215156
+sd1.5_lowcorr_157.jpg,"spaceship flying over a strange planet, hyper detail",hyper detail,,,3.424268421,1.244113196,3.27248283,0.956352744
+sd1.5_lowcorr_163.jpg,"a portrait of girl boxer in a red dress, elevation view",elevation view,,,2.785504238,0.702297217,1.916694664,0.507977233
+sd1.5_lowcorr_167.jpg,"two women working in a recording studio, hyper detail",hyper detail,,,1.866501955,0.475149339,2.926636646,0.37306119
+sd1.5_lowcorr_173.jpg,"ancient japanese fantasy garden at night, elevation view",elevation view,,,3.544604966,0.298876066,2.509500087,0.973290956
+sd1.5_lowcorr_177.jpg,"a huge wooden carving sculpture of a fox, hyper detail",hyper detail,,,3.270286787,0.508810222,3.857782273,0.545872101
+sd1.5_lowcorr_183.jpg,"radioactive alien mushrooms in the forest , elevation view, abstract style",elevation view,,abstract style,1.633735176,0.92493173,1.763328481,1.127249682
+sd1.5_lowcorr_187.jpg,"softboy aesthetic in ancient greek clothing, hyper detail, realistic style",hyper detail,,realistic style,2.375358302,0.508196995,2.592416657,0.492229952
+sd1.5_lowcorr_193.jpg,"a portrait of a female robot made from code, elevation view, abstract style",elevation view,,abstract style,0.464252554,0.356801533,0.861085466,1.270212361
+sd1.5_lowcorr_197.jpg,"storm troopers cosplaying the power rangers , hyper detail, realistic style",hyper detail,,realistic style,2.882341659,0.486793389,2.617418083,1.181537933
+sd1.5_lowcorr_203.jpg,"a beautiful brutalist concrete forest temple, elevation view, abstract style",elevation view,,abstract style,2.46452189,0.951017549,2.189529698,1.043666853
+sd1.5_lowcorr_207.jpg,"painting of a man farmer at work in the field, hyper detail, realistic style",hyper detail,,realistic style,2.524012104,0.5449999,2.900809578,0.398583656
+sd1.5_lowcorr_213.jpg,"a biomechanical hibiscus flower made of metal, elevation view, abstract style",elevation view,,abstract style,2.940135868,0.632578221,2.976904363,0.631673282
+sd1.5_lowcorr_217.jpg,"a portrait photo of a beautiful female android, hyper detail, realistic style",hyper detail,,realistic style,2.559384627,0.744919197,2.666882993,0.913319979
+sd1.5_lowcorr_223.jpg,"small group of nomads staying at ancient ruins, cold color, elevation view",cold color,elevation view,,2.625770283,0.46352709,2.557728222,0.925736259
+sd1.5_lowcorr_227.jpg,"a sketch drawing of a hamster in a fruit basket, cold color, long-shot",cold color,long-shot,,2.939794687,0.702781828,3.068964724,0.422895166
+sd1.5_lowcorr_233.jpg,"a penguin slipping on a banana in the antarctic , warm color, HDR lighting",warm color,HDR lighting,,3.700231162,0.807087703,2.256322232,0.766780057
+sd1.5_lowcorr_237.jpg,"portrait of terrified green ball gown young woman, top view, long-shot",top view,long-shot,,2.674859949,0.834530422,2.677763969,1.029200822
+sd1.5_lowcorr_243.jpg,"mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail",elevation view,hyper detail,,3.136939761,0.449872485,3.170706135,0.637981427
+sd1.5_lowcorr_247.jpg,"a saint noble high priestess pray for god in church, elevation view, HDR lighting",elevation view,HDR lighting,,3.252116811,1.167819683,3.057832635,1.319926117
+sd1.5_lowcorr_253.jpg,"a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting",close-up,HDR lighting,,3.12288234,0.86229865,2.805902798,1.044551598
+sd1.5_lowcorr_257.jpg,"dragons flyring around a snowcapped fantasy mountain, blurred detail, HDR lighting",blurred detail,HDR lighting,,3.244560073,0.727863108,2.068271365,0.365686952
+sd1.5_lowcorr_263.jpg,"cute animal character sleeping in the space station, cold color, elevation view, abstract style",cold color,elevation view,abstract style,2.643063777,0.458128347,2.343118719,0.829923704
+sd1.5_lowcorr_267.jpg,"beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style",cold color,long-shot,realistic style,2.871898573,0.647675507,2.467831921,0.601759429
+sd1.5_lowcorr_273.jpg,"exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style",warm color,HDR lighting,abstract style,3.046278569,0.527509559,3.373586547,0.77789193
+sd1.5_lowcorr_277.jpg,"plasticine sculptures of two lovers walking through paris, top view, long-shot, realistic style",top view,long-shot,realistic style,1.264773637,0.810292103,0.980862981,0.852200336
+sd1.5_lowcorr_283.jpg,"steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style",elevation view,hyper detail,abstract style,2.888789697,0.861217028,3.153270423,0.53016004
+sd1.5_lowcorr_287.jpg,"cute anthropomorphic lizard person portrait symmetrical axis, elevation view, HDR lighting, realistic style",elevation view,HDR lighting,realistic style,2.610261314,0.606237113,2.805997401,0.703568835
+sd1.5_lowcorr_293.jpg,"futuristic robot alien invasion award winning pixar movie poster , close-up, HDR lighting, abstract style",close-up,HDR lighting,abstract style,2.508658847,0.218494491,3.001128296,0.190016423
+sd1.5_lowcorr_297.jpg,"cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style",blurred detail,HDR lighting,realistic style,2.851759102,0.819932129,3.351167422,0.514653534
+sd1.5_lowstep_003.jpg,a cosmic universe,,,,2.004546739,0.865384403,3.287387628,0.518378878
+sd1.5_lowstep_007.jpg,a cat doing karaoke,,,,3.214375205,0.430991709,2.163775142,0.257010202
+sd1.5_lowstep_013.jpg,everything is a dream,,,,2.67293154,0.64884122,3.646722598,0.698647445
+sd1.5_lowstep_017.jpg,tragedy of the commons,,,,2.166977719,0.845650652,1.700092683,1.144708255
+sd1.5_lowstep_023.jpg,king kong on fighting,,,,3.162256259,0.811380507,3.185246111,0.75253959
+sd1.5_lowstep_027.jpg,the large cresting waves,,,,1.97566987,0.70280171,3.146889346,0.889781994
+sd1.5_lowstep_033.jpg,the pope had a rock band,,,,3.758770672,0.493223859,2.092525257,1.370166106
+sd1.5_lowstep_037.jpg,demon queen with red eyes,,,,3.024257523,0.464251279,3.102285456,0.460362887
+sd1.5_lowstep_043.jpg,a frog wearing police cap,,,,2.73141732,0.3781469,1.698194229,0.354414098
+sd1.5_lowstep_047.jpg,stalin tapdancing on stage,,,,2.625914149,0.66030894,2.719543848,0.396426043
+sd1.5_lowstep_053.jpg,castle from howl's sticker,,,,3.973136983,0.652712499,3.943908737,0.406662073
+sd1.5_lowstep_057.jpg,sartre hugging a sad alien,,,,2.671047584,0.671895488,2.056333393,1.069018893
+sd1.5_lowstep_063.jpg,"overwatch small hut building, abstract style",,,abstract style,3.333743653,0.567562364,3.136505822,0.477019823
+sd1.5_lowstep_067.jpg,"a woman in newspaper clothes, realistic style",,,realistic style,2.785504238,0.592610287,2.201697271,0.789768267
+sd1.5_lowstep_073.jpg,"otter making a disgusted face, abstract style",,,abstract style,2.715217134,0.57973726,2.70330186,0.511054154
+sd1.5_lowstep_077.jpg,"a anthropomorphic cat warrior, realistic style",,,realistic style,2.46452189,0.940010961,2.7906625,0.632632737
+sd1.5_lowstep_083.jpg,"eiffel tower drenched in blood, abstract style",,,abstract style,3.197799919,0.887237802,2.746134145,0.817352845
+sd1.5_lowstep_087.jpg,"a tonalism portrait of a ghost , realistic style",,,realistic style,2.195092561,0.570442354,2.327098418,1.138633875
+sd1.5_lowstep_093.jpg,"photo of tony danza eating chili, abstract style",,,abstract style,2.351513684,0.66449215,2.154163679,0.826343689
+sd1.5_lowstep_097.jpg,"donald trump playing in the rain, realistic style",,,realistic style,3.207226865,0.591369715,2.395499044,0.621791439
+sd1.5_lowstep_103.jpg,"a giant rock floating in the air, abstract style",,,abstract style,0.676891105,0.549546942,1.460690493,1.059285728
+sd1.5_lowstep_107.jpg,"spritesheet game asset vector art, realistic style",,,realistic style,2.957803829,0.470691892,2.891991441,0.620136906
+sd1.5_lowstep_113.jpg,"epic colourful scene from a dream, abstract style",,,abstract style,1.079441167,0.57578861,3.046700546,1.260452188
+sd1.5_lowstep_117.jpg,"portrait of a cloaked female devil, realistic style",,,realistic style,3.438253731,0.752850955,3.398573511,0.469478862
+sd1.5_lowstep_123.jpg,"anthropomorphic pine marten animal, elevation view",elevation view,,,1.827559877,0.672210903,2.377248288,0.79494098
+sd1.5_lowstep_127.jpg,"robots building robots in a factory, hyper detail",hyper detail,,,2.989757839,0.44009768,3.102285456,0.772295947
+sd1.5_lowstep_133.jpg,"a blue abyss underwater concept art, elevation view",elevation view,,,2.749685568,0.860031087,2.545756544,1.519557482
+sd1.5_lowstep_137.jpg,"white fur furry mothman movie scene , hyper detail",hyper detail,,,2.896939758,0.378800605,3.050789396,0.497480398
+sd1.5_lowstep_143.jpg,"portrait of squids swarming the ocean, elevation view",elevation view,,,2.851759102,0.894127491,2.166015202,0.550344023
+sd1.5_lowstep_147.jpg,"bill gates and jason statham fight m , hyper detail",hyper detail,,,2.478101113,0.616176591,1.432547651,0.929152242
+sd1.5_lowstep_153.jpg,"grumpy king in yellow sitting in a bar, elevation view",elevation view,,,2.643063777,0.510322754,2.64108532,0.515475513
+sd1.5_lowstep_157.jpg,"spaceship flying over a strange planet, hyper detail",hyper detail,,,2.560764083,0.831476228,2.702148916,1.381448226
+sd1.5_lowstep_163.jpg,"a portrait of girl boxer in a red dress, elevation view",elevation view,,,2.224915104,0.508448699,1.399557817,0.686077772
+sd1.5_lowstep_167.jpg,"two women working in a recording studio, hyper detail",hyper detail,,,2.532418004,0.710765635,2.568020722,1.033538605
+sd1.5_lowstep_173.jpg,"ancient japanese fantasy garden at night, elevation view",elevation view,,,3.316649193,0.489481515,3.165462896,0.693726418
+sd1.5_lowstep_177.jpg,"a huge wooden carving sculpture of a fox, hyper detail",hyper detail,,,3.231255627,0.635984485,3.623752433,0.213621079
+sd1.5_lowstep_183.jpg,"radioactive alien mushrooms in the forest , elevation view, abstract style",elevation view,,abstract style,2.573155672,0.92173072,2.456699832,0.964490573
+sd1.5_lowstep_187.jpg,"softboy aesthetic in ancient greek clothing, hyper detail, realistic style",hyper detail,,realistic style,0.739960598,0.744842911,1.009528271,0.691204646
+sd1.5_lowstep_193.jpg,"a portrait of a female robot made from code, elevation view, abstract style",elevation view,,abstract style,2.237264824,0.551252915,2.657701443,0.482807899
+sd1.5_lowstep_197.jpg,"storm troopers cosplaying the power rangers , hyper detail, realistic style",hyper detail,,realistic style,2.760431848,0.740003158,2.933805906,0.543835158
+sd1.5_lowstep_203.jpg,"a beautiful brutalist concrete forest temple, elevation view, abstract style",elevation view,,abstract style,2.293736737,0.672163287,2.462224445,0.79451797
+sd1.5_lowstep_207.jpg,"painting of a man farmer at work in the field, hyper detail, realistic style",hyper detail,,realistic style,3.773548415,0.57898848,3.522621893,0.644443149
+sd1.5_lowstep_213.jpg,"a biomechanical hibiscus flower made of metal, elevation view, abstract style",elevation view,,abstract style,3.288125226,0.963405506,3.080115584,0.73786776
+sd1.5_lowstep_217.jpg,"a portrait photo of a beautiful female android, hyper detail, realistic style",hyper detail,,realistic style,3.800500414,0.670896597,3.564494822,0.477698654
+sd1.5_lowstep_223.jpg,"small group of nomads staying at ancient ruins, cold color, elevation view",cold color,elevation view,,3.033265998,0.472668359,2.390596612,0.833934141
+sd1.5_lowstep_227.jpg,"a sketch drawing of a hamster in a fruit basket, cold color, long-shot",cold color,long-shot,,2.701232452,0.446919051,2.366720668,0.539459209
+sd1.5_lowstep_233.jpg,"a penguin slipping on a banana in the antarctic , warm color, HDR lighting",warm color,HDR lighting,,3.283005153,0.575345294,2.106757591,0.642661497
+sd1.5_lowstep_237.jpg,"portrait of terrified green ball gown young woman, top view, long-shot",top view,long-shot,,3.1806835,0.413262504,2.181720144,0.872532542
+sd1.5_lowstep_243.jpg,"mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail",elevation view,hyper detail,,3.001476926,0.447169931,2.827314446,0.832921859
+sd1.5_lowstep_247.jpg,"a saint noble high priestess pray for god in church, elevation view, HDR lighting",elevation view,HDR lighting,,2.193472252,0.73513259,2.75903949,0.673630312
+sd1.5_lowstep_253.jpg,"a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting",close-up,HDR lighting,,2.632073999,1.408632936,2.90942096,0.901483566
+sd1.5_lowstep_257.jpg,"dragons flyring around a snowcapped fantasy mountain, blurred detail, HDR lighting",blurred detail,HDR lighting,,2.029986761,1.075600267,2.37877521,1.026255237
+sd1.5_lowstep_263.jpg,"cute animal character sleeping in the space station, cold color, elevation view, abstract style",cold color,elevation view,abstract style,1.528177025,0.577520298,1.995457086,1.066772828
+sd1.5_lowstep_267.jpg,"beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style",cold color,long-shot,realistic style,3.195617381,0.426949656,2.678331145,0.537606169
+sd1.5_lowstep_273.jpg,"exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style",warm color,HDR lighting,abstract style,3.494295005,0.684522826,3.634307323,0.638156861
+sd1.5_lowstep_277.jpg,"plasticine sculptures of two lovers walking through paris, top view, long-shot, realistic style",top view,long-shot,realistic style,2.715217134,0.546356392,2.258697793,1.031770828
+sd1.5_lowstep_283.jpg,"steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style",elevation view,hyper detail,abstract style,3.958236395,0.440408113,3.158021435,1.134802748
+sd1.5_lowstep_287.jpg,"cute anthropomorphic lizard person portrait symmetrical axis, elevation view, HDR lighting, realistic style",elevation view,HDR lighting,realistic style,3.150815738,0.67261686,2.529347845,1.007230535
+sd1.5_lowstep_293.jpg,"futuristic robot alien invasion award winning pixar movie poster , close-up, HDR lighting, abstract style",close-up,HDR lighting,abstract style,3.091620808,0.881929566,3.022343767,0.541225371
+sd1.5_lowstep_297.jpg,"cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style",blurred detail,HDR lighting,realistic style,2.65898745,0.799456869,2.874303424,1.211120302
+sd1.5_normal_003.jpg,a cosmic universe,,,,2.92075847,0.730680424,3.398573511,0.507844946
+sd1.5_normal_007.jpg,a cat doing karaoke,,,,3.419625599,0.438529777,3.001128296,0.551710795
+sd1.5_normal_013.jpg,everything is a dream,,,,2.874527714,0.705562312,2.616801603,0.453937889
+sd1.5_normal_017.jpg,tragedy of the commons,,,,2.429568642,0.784404918,1.495248703,1.499120066
+sd1.5_normal_023.jpg,king kong on fighting,,,,2.523592728,0.397561401,3.001128296,0.935792274
+sd1.5_normal_027.jpg,the large cresting waves,,,,1.678769845,0.674854537,2.379342601,0.963561553
+sd1.5_normal_033.jpg,the pope had a rock band,,,,3.389757837,0.349260762,2.318288169,0.638001823
+sd1.5_normal_037.jpg,demon queen with red eyes,,,,2.883906185,0.698594008,3.683710828,0.360479723
+sd1.5_normal_043.jpg,a frog wearing police cap,,,,2.776844014,0.579217535,3.191417702,0.750123733
+sd1.5_normal_047.jpg,stalin tapdancing on stage,,,,2.233367001,0.327660304,2.820363609,1.368970073
+sd1.5_normal_053.jpg,castle from howl's sticker,,,,2.817259418,0.861971668,3.315612856,1.217579403
+sd1.5_normal_057.jpg,sartre hugging a sad alien,,,,2.420011295,0.705383824,1.631692057,0.612355424
+sd1.5_normal_063.jpg,"overwatch small hut building, abstract style",,,abstract style,2.883906185,0.800125638,2.840103111,0.869061311
+sd1.5_normal_067.jpg,"a woman in newspaper clothes, realistic style",,,realistic style,3.058356047,0.696130168,1.77164845,0.973993727
+sd1.5_normal_073.jpg,"otter making a disgusted face, abstract style",,,abstract style,2.517978134,0.422201523,2.64118655,0.83780352
+sd1.5_normal_077.jpg,"a anthropomorphic cat warrior, realistic style",,,realistic style,2.560585504,0.676818123,2.840103111,0.905552315
+sd1.5_normal_083.jpg,"eiffel tower drenched in blood, abstract style",,,abstract style,2.041016527,0.932921526,3.161543067,1.001215529
+sd1.5_normal_087.jpg,"a tonalism portrait of a ghost , realistic style",,,realistic style,2.831160905,0.632531523,2.991040101,0.542488853
+sd1.5_normal_093.jpg,"photo of tony danza eating chili, abstract style",,,abstract style,2.776844014,0.98511615,2.7906625,0.871787195
+sd1.5_normal_097.jpg,"donald trump playing in the rain, realistic style",,,realistic style,2.646335983,0.386111938,2.458299452,1.147638213
+sd1.5_normal_103.jpg,"a giant rock floating in the air, abstract style",,,abstract style,2.716324886,0.355940919,1.841449895,0.700515704
+sd1.5_normal_107.jpg,"spritesheet game asset vector art, realistic style",,,realistic style,2.85831935,0.573974455,2.835190856,0.982562334
+sd1.5_normal_113.jpg,"epic colourful scene from a dream, abstract style",,,abstract style,2.66201084,0.984634049,3.1259885,0.904725988
+sd1.5_normal_117.jpg,"portrait of a cloaked female devil, realistic style",,,realistic style,2.391896453,0.794684475,2.78310259,0.556961473
+sd1.5_normal_123.jpg,"anthropomorphic pine marten animal, elevation view",elevation view,,,2.74826005,0.272559117,1.857875624,0.586668292
+sd1.5_normal_127.jpg,"robots building robots in a factory, hyper detail",hyper detail,,,3.320022242,0.478221653,3.345634382,0.748730296
+sd1.5_normal_133.jpg,"a blue abyss underwater concept art, elevation view",elevation view,,,3.045671512,0.950457984,3.226425262,0.85415302
+sd1.5_normal_137.jpg,"white fur furry mothman movie scene , hyper detail",hyper detail,,,2.363781612,0.69973155,2.794502694,0.736477591
+sd1.5_normal_143.jpg,"portrait of squids swarming the ocean, elevation view",elevation view,,,2.309898917,1.086186803,1.890135375,0.861333496
+sd1.5_normal_147.jpg,"bill gates and jason statham fight m , hyper detail",hyper detail,,,3.131243411,0.627204933,1.787713427,0.752952995
+sd1.5_normal_153.jpg,"grumpy king in yellow sitting in a bar, elevation view",elevation view,,,2.46452189,0.509300923,2.389907299,0.405857172
+sd1.5_normal_157.jpg,"spaceship flying over a strange planet, hyper detail",hyper detail,,,3.657121751,0.859199936,3.364639327,0.604619871
+sd1.5_normal_163.jpg,"a portrait of girl boxer in a red dress, elevation view",elevation view,,,3.031344688,0.69441181,2.44244092,0.783055121
+sd1.5_normal_167.jpg,"two women working in a recording studio, hyper detail",hyper detail,,,2.888789697,0.890036097,3.628776877,0.530361359
+sd1.5_normal_173.jpg,"ancient japanese fantasy garden at night, elevation view",elevation view,,,3.255352906,0.663616483,1.846507718,0.931447291
+sd1.5_normal_177.jpg,"a huge wooden carving sculpture of a fox, hyper detail",hyper detail,,,3.773548415,1.093912215,3.469961038,0.882058808
+sd1.5_normal_183.jpg,"radioactive alien mushrooms in the forest , elevation view, abstract style",elevation view,,abstract style,2.717645898,0.24582392,3.14107795,0.346104967
+sd1.5_normal_187.jpg,"softboy aesthetic in ancient greek clothing, hyper detail, realistic style",hyper detail,,realistic style,3.131243411,0.830152306,2.531454291,1.012180968
+sd1.5_normal_193.jpg,"a portrait of a female robot made from code, elevation view, abstract style",elevation view,,abstract style,2.135311817,0.421956447,2.864560271,0.332631124
+sd1.5_normal_197.jpg,"storm troopers cosplaying the power rangers , hyper detail, realistic style",hyper detail,,realistic style,3.066652656,0.35225924,3.318907491,0.477540931
+sd1.5_normal_203.jpg,"a beautiful brutalist concrete forest temple, elevation view, abstract style",elevation view,,abstract style,1.777662735,0.854961235,1.903300589,0.553548415
+sd1.5_normal_207.jpg,"painting of a man farmer at work in the field, hyper detail, realistic style",hyper detail,,realistic style,2.505259558,0.572524654,2.846322945,0.270583557
+sd1.5_normal_213.jpg,"a biomechanical hibiscus flower made of metal, elevation view, abstract style",elevation view,,abstract style,3.062007692,0.688503851,3.080096813,0.958341747
+sd1.5_normal_217.jpg,"a portrait photo of a beautiful female android, hyper detail, realistic style",hyper detail,,realistic style,3.682240656,0.54019769,3.763463406,0.736879517
+sd1.5_normal_223.jpg,"small group of nomads staying at ancient ruins, cold color, elevation view",cold color,elevation view,,3.075586915,1.003221948,2.957643834,0.761789044
+sd1.5_normal_227.jpg,"a sketch drawing of a hamster in a fruit basket, cold color, long-shot",cold color,long-shot,,2.269716748,0.444607835,2.66591587,0.563242349
+sd1.5_normal_233.jpg,"a penguin slipping on a banana in the antarctic , warm color, HDR lighting",warm color,HDR lighting,,3.320012924,0.803239303,1.788774497,0.689856201
+sd1.5_normal_237.jpg,"portrait of terrified green ball gown young woman, top view, long-shot",top view,long-shot,,2.213514948,0.434251294,2.74673979,0.590534876
+sd1.5_normal_243.jpg,"mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail",elevation view,hyper detail,,3.231255627,0.505835019,3.5526433,0.525396963
+sd1.5_normal_247.jpg,"a saint noble high priestess pray for god in church, elevation view, HDR lighting",elevation view,HDR lighting,,2.776694622,0.592133389,2.891991441,0.405324674
+sd1.5_normal_253.jpg,"a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting",close-up,HDR lighting,,2.546528083,1.049419824,2.828703007,0.942818741
+sd1.5_normal_257.jpg,"dragons flyring around a snowcapped fantasy mountain, blurred detail, HDR lighting",blurred detail,HDR lighting,,3.787887693,0.642646931,1.853387867,0.509687207
+sd1.5_normal_263.jpg,"cute animal character sleeping in the space station, cold color, elevation view, abstract style",cold color,elevation view,abstract style,2.654631009,0.362165215,2.668209522,0.849660676
+sd1.5_normal_267.jpg,"beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style",cold color,long-shot,realistic style,2.888789697,0.603255329,1.824290847,0.818954368
+sd1.5_normal_273.jpg,"exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style",warm color,HDR lighting,abstract style,3.202553327,0.811436076,3.37273494,0.612155107
+sd1.5_normal_277.jpg,"plasticine sculptures of two lovers walking through paris, top view, long-shot, realistic style",top view,long-shot,realistic style,2.625770283,0.529518124,2.963619274,0.536068947
+sd1.5_normal_283.jpg,"steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style",elevation view,hyper detail,abstract style,3.333743653,0.337819985,2.62350113,0.631014642
+sd1.5_normal_287.jpg,"cute anthropomorphic lizard person portrait symmetrical axis, elevation view, HDR lighting, realistic style",elevation view,HDR lighting,realistic style,2.613196015,0.495986647,2.579008945,0.953350571
+sd1.5_normal_293.jpg,"futuristic robot alien invasion award winning pixar movie poster , close-up, HDR lighting, abstract style",close-up,HDR lighting,abstract style,3.374329815,0.462911252,3.124625168,0.437349893
+sd1.5_normal_297.jpg,"cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style",blurred detail,HDR lighting,realistic style,2.996365552,0.689686281,3.273307074,0.800394186
+xl2.2_normal_003.jpg,a cosmic universe,,,,3.184220697,1.124471208,3.425191569,0.724002858
+xl2.2_normal_007.jpg,a cat doing karaoke,,,,3.490797944,0.938736911,3.575282749,0.710863625
+xl2.2_normal_013.jpg,everything is a dream,,,,4.31612288,0.23337979,2.187651086,1.212306542
+xl2.2_normal_017.jpg,tragedy of the commons,,,,3.835000098,0.614133655,1.087526681,1.207144479
+xl2.2_normal_023.jpg,king kong on fighting,,,,3.62187092,0.240052245,3.381448298,0.991859966
+xl2.2_normal_027.jpg,the large cresting waves,,,,3.008458905,1.055804681,3.548952321,0.469385366
+xl2.2_normal_033.jpg,the pope had a rock band,,,,3.344956193,0.755393501,1.722354968,0.940277679
+xl2.2_normal_037.jpg,demon queen with red eyes,,,,3.9689969,0.447164098,3.679897602,0.68220337
+xl2.2_normal_043.jpg,a frog wearing police cap,,,,3.038537814,0.808497686,3.626710307,0.867953799
+xl2.2_normal_047.jpg,stalin tapdancing on stage,,,,3.800500414,0.609227857,3.813376788,0.609634754
+xl2.2_normal_053.jpg,castle from howl's sticker,,,,3.700231162,0.590692769,3.480852014,0.811836447
+xl2.2_normal_057.jpg,sartre hugging a sad alien,,,,2.897963605,0.481181578,2.78310259,0.585748437
+xl2.2_normal_063.jpg,"overwatch small hut building, abstract style",,,abstract style,3.334754679,0.385216799,3.2326522,0.99288332
+xl2.2_normal_067.jpg,"a woman in newspaper clothes, realistic style",,,realistic style,3.613766055,0.424919691,3.572230948,0.340805983
+xl2.2_normal_073.jpg,"otter making a disgusted face, abstract style",,,abstract style,2.518413241,0.632678054,3.056705093,0.57348578
+xl2.2_normal_077.jpg,"a anthropomorphic cat warrior, realistic style",,,realistic style,3.345173159,0.411776319,3.592199458,0.4937446
+xl2.2_normal_083.jpg,"eiffel tower drenched in blood, abstract style",,,abstract style,3.214375205,0.680825826,3.72764949,0.39379
+xl2.2_normal_087.jpg,"a tonalism portrait of a ghost , realistic style",,,realistic style,3.352004521,0.80586692,2.877106534,1.195024311
+xl2.2_normal_093.jpg,"photo of tony danza eating chili, abstract style",,,abstract style,3.531316317,0.495127609,2.820363609,0.600809989
+xl2.2_normal_097.jpg,"donald trump playing in the rain, realistic style",,,realistic style,2.509487485,0.655945537,2.719543848,0.552042948
+xl2.2_normal_103.jpg,"a giant rock floating in the air, abstract style",,,abstract style,2.803217798,0.610697304,3.482467199,0.523919182
+xl2.2_normal_107.jpg,"spritesheet game asset vector art, realistic style",,,realistic style,3.235341707,0.554705545,2.794502694,1.079455403
+xl2.2_normal_113.jpg,"epic colourful scene from a dream, abstract style",,,abstract style,2.586734895,0.977837348,3.380663214,0.480103284
+xl2.2_normal_117.jpg,"portrait of a cloaked female devil, realistic style",,,realistic style,3.145006417,0.697237104,3.244503722,0.613284584
+xl2.2_normal_123.jpg,"anthropomorphic pine marten animal, elevation view",elevation view,,,2.687102292,0.536410522,1.928094768,0.651806516
+xl2.2_normal_127.jpg,"robots building robots in a factory, hyper detail",hyper detail,,,3.225485144,0.524247796,3.174942147,0.446691696
+xl2.2_normal_133.jpg,"a blue abyss underwater concept art, elevation view",elevation view,,,3.241312234,1.170228187,2.364083074,0.680616639
+xl2.2_normal_137.jpg,"white fur furry mothman movie scene , hyper detail",hyper detail,,,3.074988427,0.700525707,3.153995905,0.871004093
+xl2.2_normal_143.jpg,"portrait of squids swarming the ocean, elevation view",elevation view,,,3.024480393,0.675445922,2.680501651,0.718605819
+xl2.2_normal_147.jpg,"bill gates and jason statham fight m , hyper detail",hyper detail,,,4.205990313,0.865700504,2.087613583,0.924420663
+xl2.2_normal_153.jpg,"grumpy king in yellow sitting in a bar, elevation view",elevation view,,,3.080710077,0.524864484,3.02250478,0.658478693
+xl2.2_normal_157.jpg,"spaceship flying over a strange planet, hyper detail",hyper detail,,,3.787887693,0.519417717,3.405324243,0.405153653
+xl2.2_normal_163.jpg,"a portrait of girl boxer in a red dress, elevation view",elevation view,,,3.541752783,0.726907296,3.161543067,0.884764444
+xl2.2_normal_167.jpg,"two women working in a recording studio, hyper detail",hyper detail,,,3.578018157,0.48788932,3.647833348,0.385462045
+xl2.2_normal_173.jpg,"ancient japanese fantasy garden at night, elevation view",elevation view,,,3.610752151,0.697232294,2.888958056,0.914331912
+xl2.2_normal_177.jpg,"a huge wooden carving sculpture of a fox, hyper detail",hyper detail,,,3.835000098,0.77531894,2.308233468,1.009455158
+xl2.2_normal_183.jpg,"radioactive alien mushrooms in the forest , elevation view, abstract style",elevation view,,abstract style,2.643063777,0.570203449,3.224603247,0.765005376
+xl2.2_normal_187.jpg,"softboy aesthetic in ancient greek clothing, hyper detail, realistic style",hyper detail,,realistic style,3.673198773,0.479241731,2.251027408,1.089632117
+xl2.2_normal_193.jpg,"a portrait of a female robot made from code, elevation view, abstract style",elevation view,,abstract style,3.169097903,0.563733083,2.509976334,0.653713982
+xl2.2_normal_197.jpg,"storm troopers cosplaying the power rangers , hyper detail, realistic style",hyper detail,,realistic style,3.530547546,0.339310672,3.26190697,0.793731985
+xl2.2_normal_203.jpg,"a beautiful brutalist concrete forest temple, elevation view, abstract style",elevation view,,abstract style,2.851759102,0.728298418,2.071203024,1.209477601
+xl2.2_normal_207.jpg,"painting of a man farmer at work in the field, hyper detail, realistic style",hyper detail,,realistic style,2.897963605,0.562955703,2.988304467,1.102488072
+xl2.2_normal_213.jpg,"a biomechanical hibiscus flower made of metal, elevation view, abstract style",elevation view,,abstract style,3.501131449,0.511026851,3.035247107,0.945919807
+xl2.2_normal_217.jpg,"a portrait photo of a beautiful female android, hyper detail, realistic style",hyper detail,,realistic style,3.658936789,0.193393978,3.506852145,0.418503563
+xl2.2_normal_223.jpg,"small group of nomads staying at ancient ruins, cold color, elevation view",cold color,elevation view,,3.273863243,0.412937897,3.080115584,0.331007859
+xl2.2_normal_227.jpg,"a sketch drawing of a hamster in a fruit basket, cold color, long-shot",cold color,long-shot,,3.214375205,0.497681183,3.094936968,0.465359536
+xl2.2_normal_233.jpg,"a penguin slipping on a banana in the antarctic , warm color, HDR lighting",warm color,HDR lighting,,2.389187797,0.630522606,2.144474319,0.328039184
+xl2.2_normal_237.jpg,"portrait of terrified green ball gown young woman, top view, long-shot",top view,long-shot,,3.878442297,0.440048059,3.715711518,0.63769118
+xl2.2_normal_243.jpg,"mushrooms and moss on a tree in a fairytale forest, elevation view, hyper detail",elevation view,hyper detail,,3.853868226,0.430409638,3.090905405,0.781611806
+xl2.2_normal_247.jpg,"a saint noble high priestess pray for god in church, elevation view, HDR lighting",elevation view,HDR lighting,,3.30015455,0.235737977,2.740407521,0.595617653
+xl2.2_normal_253.jpg,"a biomechanical cyborg torso abandoned in a factory, close-up, HDR lighting",close-up,HDR lighting,,3.88997508,0.749950937,3.127665478,0.868465101
+xl2.2_normal_257.jpg,"dragons flyring around a snowcapped fantasy mountain, blurred detail, HDR lighting",blurred detail,HDR lighting,,2.80733647,1.083840651,2.901806096,0.768019716
+xl2.2_normal_263.jpg,"cute animal character sleeping in the space station, cold color, elevation view, abstract style",cold color,elevation view,abstract style,3.317504837,0.450908201,2.960067189,1.069410427
+xl2.2_normal_267.jpg,"beautiful viking woman surrounded by treasure and gold, cold color, long-shot, realistic style",cold color,long-shot,realistic style,3.852708154,0.401786007,2.628670045,0.727831046
+xl2.2_normal_273.jpg,"exploring an epic organic and colourful underground city, warm color, HDR lighting, abstract style",warm color,HDR lighting,abstract style,2.996365552,0.492369506,3.079505301,1.041156944
+xl2.2_normal_277.jpg,"plasticine sculptures of two lovers walking through paris, top view, long-shot, realistic style",top view,long-shot,realistic style,3.593502309,0.824398423,2.85340349,0.990854754
+xl2.2_normal_283.jpg,"steampunk pocketwatch owl inside a glass jar buried in sand, elevation view, hyper detail, abstract style",elevation view,hyper detail,abstract style,3.240419025,0.585058829,2.914221371,0.521864492
+xl2.2_normal_287.jpg,"cute anthropomorphic lizard person portrait symmetrical axis, elevation view, HDR lighting, realistic style",elevation view,HDR lighting,realistic style,3.472753415,0.905046133,3.410425033,0.687718541
+xl2.2_normal_293.jpg,"futuristic robot alien invasion award winning pixar movie poster , close-up, HDR lighting, abstract style",close-up,HDR lighting,abstract style,3.369254363,0.789161621,3.149691545,0.554060621
+xl2.2_normal_297.jpg,"cute fluffy baby cheetah lion hybrid mixed creature character concept, blurred detail, HDR lighting, realistic style",blurred detail,HDR lighting,realistic style,3.174029361,0.760292768,3.10450053,0.523543539

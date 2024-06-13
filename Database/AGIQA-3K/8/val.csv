@@ -1,0 +1,599 @@
+name,prompt,adj1,adj2,style,mos_quality,std_quality,mos_align,std_align
+AttnGAN_normal_001.jpg,a tray of sushi,,,,1.361853219,0.645422466,0.428796637,0.667071153
+AttnGAN_normal_002.jpg,man lost in space,,,,0.195283431,0.949402643,0.506802093,0.723514494
+AttnGAN_normal_011.jpg,the prince of the sun,,,,1.373098268,0.432051187,0.647652682,0.72337619
+AttnGAN_normal_012.jpg,life bar and mana bar,,,,1.337589887,0.548578888,0.936285696,0.523195868
+AttnGAN_normal_021.jpg,portrait of mecha robot,,,,1.448560438,0.717877486,0.444707156,0.584535149
+AttnGAN_normal_022.jpg,panda chef in a kitchen,,,,1.428382741,0.692444828,0.784257411,0.776146893
+AttnGAN_normal_031.jpg,black mickey mouse skull,,,,0.821435934,0.354271932,0.742358137,0.980585945
+AttnGAN_normal_032.jpg,an emo portrait painting,,,,1.057775532,0.612666679,0.803090148,0.525455468
+AttnGAN_normal_041.jpg,a raspberry made of metal,,,,1.079102747,0.745080493,0.389300995,0.489332456
+AttnGAN_normal_042.jpg,a man jumping off a cliff,,,,1.253245361,0.403445987,1.004686321,1.301381217
+AttnGAN_normal_051.jpg,hanging gardens of babylon,,,,1.062470367,0.623660348,0.981735619,0.76164381
+AttnGAN_normal_052.jpg,concept art of giant ogres,,,,1.168900836,0.472985683,0.845084862,0.641668615
+AttnGAN_normal_061.jpg,"a yellow rendition of venom, sci-fi style",,,sci-fi style,0.678182301,0.409283535,0.409963958,0.28187264
+AttnGAN_normal_062.jpg,"a colour portrait of a king, realistic style",,,realistic style,0.901809839,0.404428381,0.833684757,0.435066391
+AttnGAN_normal_071.jpg,"smart sri lanka buddhist monk, sci-fi style",,,sci-fi style,0.578348419,0.396731195,0.629428475,0.549204173
+AttnGAN_normal_072.jpg,"painted portrait of snake man, realistic style",,,realistic style,1.086342024,0.356270515,0.623776738,0.597267351
+AttnGAN_normal_081.jpg,"large purple lovecraftian void, sci-fi style",,,sci-fi style,0.955535203,0.23871129,0.406335814,0.601449218
+AttnGAN_normal_082.jpg,"lanky young half - orc warrior, realistic style",,,realistic style,0.905232817,0.414046621,0.516334989,0.532775663
+AttnGAN_normal_091.jpg,"ufo ignoring the laws of phyics, sci-fi style",,,sci-fi style,0.863588083,0.400213922,0.702583315,0.420071168
+AttnGAN_normal_092.jpg,"steampunk walter white portrait , realistic style",,,realistic style,0.845580156,0.476308659,0.54868215,0.600504075
+AttnGAN_normal_101.jpg,"a man playing an invisible cello, sci-fi style",,,sci-fi style,0.829617037,0.668279123,0.994900832,0.744714303
+AttnGAN_normal_102.jpg,"a grand stag in a fantasy forest, realistic style",,,realistic style,0.799027902,0.749671265,1.087526681,1.192546223
+AttnGAN_normal_111.jpg,"grand canyon full of potato salad, sci-fi style",,,sci-fi style,1.178897031,0.887921448,0.534118347,0.439784078
+AttnGAN_normal_112.jpg,"gorgeous young scandanavian woman, realistic style",,,realistic style,0.789350472,0.257226969,0.594282567,0.459973271
+AttnGAN_normal_121.jpg,"cute green tabby cat made of leaves, cold color",cold color,,,0.8493261,0.471642938,0.470926324,0.469024804
+AttnGAN_normal_122.jpg,"chinese demon god character design, top view",top view,,,1.1267749,0.730391994,0.672723404,0.802221475
+AttnGAN_normal_131.jpg,"cute fluffy baby panda lion hybrid , cold color",cold color,,,0.971526322,0.722197991,0.471247526,0.514682855
+AttnGAN_normal_132.jpg,"a girl with rainbow in white shirt , top view",top view,,,1.29901447,0.844875178,0.158030314,0.446677932
+AttnGAN_normal_141.jpg,"a portrait of girl bard in red dress, cold color",cold color,,,0.749492217,0.418028146,0.775738154,1.200086593
+AttnGAN_normal_142.jpg,"a biomechanical passion fruit flower, top view",top view,,,0.807856712,0.451747229,0.842546938,0.900876161
+AttnGAN_normal_151.jpg,"photo of a white fashion jewelry store, cold color",cold color,,,1.147337281,0.594769093,0.786886493,0.61450857
+AttnGAN_normal_152.jpg,"grumpy the elder gods sitting in a bar, top view",top view,,,0.735230234,0.416405875,0.678198368,0.436174359
+AttnGAN_normal_161.jpg,"cute fluffy baby lop eared bunny rabbit, cold color",cold color,,,0.780698266,0.525135047,0.486320092,0.359803384
+AttnGAN_normal_162.jpg,"an industrial geometric temple lab room, top view",top view,,,0.747278376,0.737136097,0.767535581,0.443774969
+AttnGAN_normal_171.jpg,"grumpy disney princess sitting in a cave, cold color",cold color,,,1.1267749,0.730365211,0.720129493,0.825266215
+AttnGAN_normal_172.jpg,"art of a mimic from dungeons and dragons, top view",top view,,,0.940601322,0.307129064,1.101591216,0.223370827
+AttnGAN_normal_181.jpg,"an underwater photo of coral in the ocean, cold color, sci-fi style",cold color,,sci-fi style,1.212161793,0.579393772,0.626274844,0.706989487
+AttnGAN_normal_182.jpg,"a female warrior in charming phenix armor, top view, realistic style",top view,,realistic style,1.010879855,0.442529208,0.373079324,0.430669632
+AttnGAN_normal_191.jpg,"cute fluffy golden teddy bear eating bagels, cold color, sci-fi style",cold color,,sci-fi style,0.776328629,0.39143248,0.828455166,0.743423843
+AttnGAN_normal_192.jpg,"beautiful ancient temple in a formal garden, top view, realistic style",top view,,realistic style,1.144024742,0.561674132,0.957159937,0.733296098
+AttnGAN_normal_201.jpg,"a gummy bear performing at woodstock concert, cold color, sci-fi style",cold color,,sci-fi style,0.672064484,0.409695534,0.798018582,0.978404505
+AttnGAN_normal_202.jpg,"a biomechanical blue raspberry made of metal, top view, realistic style",top view,,realistic style,1.182958257,0.405681272,0.434681107,0.539991721
+AttnGAN_normal_211.jpg,"a woman in a trench coat looking out a window, cold color, sci-fi style",cold color,,sci-fi style,0.807856712,0.398430572,0.60877307,0.677532635
+AttnGAN_normal_212.jpg,"a glass vase of pink and white dahlia flowers, top view, realistic style",top view,,realistic style,0.002134902,0.509602458,0.366280482,0.545963954
+AttnGAN_normal_221.jpg,"goose being zipped - up by man in orange shirt, warm color, elevation view",warm color,elevation view,,1.195774268,0.774368242,0.589762748,0.678976019
+AttnGAN_normal_222.jpg,"interior of cosmic highway created by the gods, cold color, top view",cold color,top view,,0.970807385,1.059752382,0.653301426,0.533368493
+AttnGAN_normal_231.jpg,"a dramatic photo of a lion made of cotton candy, cold color, hyper detail",cold color,hyper detail,,0.863588083,0.378085918,0.714775788,0.575998171
+AttnGAN_normal_232.jpg,"steampunk owl inside a glass jar buried in sand, warm color, soft lighting",warm color,soft lighting,,1.144024742,0.718163993,0.897902326,0.773252807
+AttnGAN_normal_241.jpg,"breaking moon as seen from the surface of the moon, top view, hyper detail",top view,hyper detail,,1.023275848,0.748274315,0.577911226,0.58592282
+AttnGAN_normal_242.jpg,"a living room with a black and white chevron floor, elevation view, blurred detail",elevation view,blurred detail,,0.865931916,0.347716294,0.344259439,0.634741668
+AttnGAN_normal_251.jpg,"a brain with eyeballs peaking out between the folds, long-shot, hyper detail",long-shot,hyper detail,,1.252358797,0.4640501,0.719280515,0.977929443
+AttnGAN_normal_252.jpg,"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",close-up,soft lighting,,0.749492217,0.431557706,0.909855359,1.120639411
+AttnGAN_normal_261.jpg,"epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style",warm color,elevation view,sci-fi style,0.865931916,0.354303591,0.828455166,0.356401086
+AttnGAN_normal_262.jpg,"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",cold color,top view,realistic style,1.075025374,0.536841317,0.672723404,0.629217401
+AttnGAN_normal_271.jpg,"the gold skull coming out from open cracked marble head, cold color, hyper detail, sci-fi style",cold color,hyper detail,sci-fi style,0.712778692,0.720126386,1.123081248,1.206849974
+AttnGAN_normal_272.jpg,"frontal portrait of female adult twins in the apocalypse, warm color, soft lighting, realistic style",warm color,soft lighting,realistic style,0.79958578,0.384147354,0.432769184,0.469000019
+AttnGAN_normal_281.jpg,"portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style",top view,hyper detail,sci-fi style,0.971526322,0.709038661,0.696426448,0.757725798
+AttnGAN_normal_282.jpg,"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",elevation view,blurred detail,realistic style,1.128999889,0.681000061,1.008066046,0.454621569
+AttnGAN_normal_291.jpg,"oil painting portrait of anthropomorphic female green fox animal, long-shot, hyper detail, sci-fi style",long-shot,hyper detail,sci-fi style,1.133758058,0.710835617,0.753490226,0.92476458
+AttnGAN_normal_292.jpg,"a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style",close-up,soft lighting,realistic style,1.006026006,0.731788712,1.158635814,0.946042119
+DALLE2_normal_001.jpg,a tray of sushi,,,,3.135881857,0.868484694,3.472908747,1.158868083
+DALLE2_normal_002.jpg,man lost in space,,,,2.855791343,0.640929112,2.908503737,0.836745771
+DALLE2_normal_011.jpg,the prince of the sun,,,,3.430745058,0.365402584,0.983010198,0.671414952
+DALLE2_normal_012.jpg,life bar and mana bar,,,,2.792237956,1.089499638,2.69321342,0.892229676
+DALLE2_normal_021.jpg,portrait of mecha robot,,,,2.147166571,0.476594059,3.080115584,0.612075669
+DALLE2_normal_022.jpg,panda chef in a kitchen,,,,2.568394371,0.508204609,4.118503049,0.567993321
+DALLE2_normal_031.jpg,black mickey mouse skull,,,,1.977251303,1.140480122,2.495735212,0.93269573
+DALLE2_normal_032.jpg,an emo portrait painting,,,,2.478791084,1.026343194,2.777653346,0.550424752
+DALLE2_normal_041.jpg,a raspberry made of metal,,,,2.532418004,0.80740896,3.491984103,0.700947549
+DALLE2_normal_042.jpg,a man jumping off a cliff,,,,3.231077294,0.860222223,2.958190852,1.293121376
+DALLE2_normal_051.jpg,hanging gardens of babylon,,,,2.927618961,0.96837507,2.139899198,1.298750507
+DALLE2_normal_052.jpg,concept art of giant ogres,,,,2.92075847,0.767190259,3.078582412,0.9195149
+DALLE2_normal_061.jpg,"a yellow rendition of venom, sci-fi style",,,sci-fi style,1.815542197,0.590795755,2.486699878,0.790906117
+DALLE2_normal_062.jpg,"a colour portrait of a king, realistic style",,,realistic style,3.401488261,0.709113958,3.547644548,0.949342644
+DALLE2_normal_071.jpg,"smart sri lanka buddhist monk, sci-fi style",,,sci-fi style,3.0785433,0.294893564,3.082998995,0.828123302
+DALLE2_normal_072.jpg,"painted portrait of snake man, realistic style",,,realistic style,3.174029361,0.63508014,2.37295214,0.948266639
+DALLE2_normal_081.jpg,"large purple lovecraftian void, sci-fi style",,,sci-fi style,1.523022688,0.421786868,2.951467196,1.209974957
+DALLE2_normal_082.jpg,"lanky young half - orc warrior, realistic style",,,realistic style,1.821700312,0.411716488,1.809261893,1.02549582
+DALLE2_normal_091.jpg,"ufo ignoring the laws of phyics, sci-fi style",,,sci-fi style,3.369254363,0.875017465,2.723036745,0.894760281
+DALLE2_normal_092.jpg,"steampunk walter white portrait , realistic style",,,realistic style,2.974361596,0.553719554,2.433914506,1.0900711
+DALLE2_normal_101.jpg,"a man playing an invisible cello, sci-fi style",,,sci-fi style,2.731907882,0.45636461,2.202257515,0.988189209
+DALLE2_normal_102.jpg,"a grand stag in a fantasy forest, realistic style",,,realistic style,3.352004521,0.898085543,3.374870467,0.48128529
+DALLE2_normal_111.jpg,"grand canyon full of potato salad, sci-fi style",,,sci-fi style,2.580492981,0.448099293,1.316179121,0.478965237
+DALLE2_normal_112.jpg,"gorgeous young scandanavian woman, realistic style",,,realistic style,2.64254653,0.588156894,2.93018727,1.060021121
+DALLE2_normal_121.jpg,"cute green tabby cat made of leaves, cold color",cold color,,,2.657997659,0.824010943,3.001128296,1.614171826
+DALLE2_normal_122.jpg,"chinese demon god character design, top view",top view,,,1.961760789,1.252515082,2.092525257,1.360204547
+DALLE2_normal_131.jpg,"cute fluffy baby panda lion hybrid , cold color",cold color,,,3.387959109,0.378517324,3.153270423,0.916821172
+DALLE2_normal_132.jpg,"a girl with rainbow in white shirt , top view",top view,,,3.402221092,1.008400409,3.64096935,0.458670749
+DALLE2_normal_141.jpg,"a portrait of girl bard in red dress, cold color",cold color,,,2.058266369,0.579100256,2.474154779,0.797689169
+DALLE2_normal_142.jpg,"a biomechanical passion fruit flower, top view",top view,,,2.14357511,0.892794556,2.443074357,0.883925442
+DALLE2_normal_151.jpg,"photo of a white fashion jewelry store, cold color",cold color,,,3.041723666,0.892926011,2.917022056,0.776004298
+DALLE2_normal_152.jpg,"grumpy the elder gods sitting in a bar, top view",top view,,,2.80733647,0.40600933,1.933414643,0.811384761
+DALLE2_normal_161.jpg,"cute fluffy baby lop eared bunny rabbit, cold color",cold color,,,2.956675282,0.502636758,3.708798973,0.379960879
+DALLE2_normal_171.jpg,"grumpy disney princess sitting in a cave, cold color",cold color,,,1.956116406,0.428474341,2.771702485,1.037614916
+DALLE2_normal_172.jpg,"art of a mimic from dungeons and dragons, top view",top view,,,3.359435142,0.432799213,1.763328481,1.503791291
+DALLE2_normal_181.jpg,"an underwater photo of coral in the ocean, cold color, sci-fi style",cold color,,sci-fi style,2.758973195,0.730085994,3.114500264,0.42331136
+DALLE2_normal_182.jpg,"a female warrior in charming phenix armor, top view, realistic style",top view,,realistic style,2.939794687,0.768642655,3.035568457,0.662470489
+DALLE2_normal_191.jpg,"cute fluffy golden teddy bear eating bagels, cold color, sci-fi style",cold color,,sci-fi style,2.420011295,0.427927441,2.62350113,0.505574073
+DALLE2_normal_192.jpg,"beautiful ancient temple in a formal garden, top view, realistic style",top view,,realistic style,3.108728168,0.453790697,3.644083685,0.405556266
+DALLE2_normal_201.jpg,"a gummy bear performing at woodstock concert, cold color, sci-fi style",cold color,,sci-fi style,1.880615311,0.858079912,2.846322945,0.906980131
+DALLE2_normal_202.jpg,"a biomechanical blue raspberry made of metal, top view, realistic style",top view,,realistic style,2.459590343,1.029855935,2.838030773,1.130269964
+DALLE2_normal_211.jpg,"a woman in a trench coat looking out a window, cold color, sci-fi style",cold color,,sci-fi style,3.304929808,0.856104313,3.059123051,0.574435956
+DALLE2_normal_212.jpg,"a glass vase of pink and white dahlia flowers, top view, realistic style",top view,,realistic style,3.169097903,0.347911267,3.130750884,0.695654268
+DALLE2_normal_221.jpg,"goose being zipped - up by man in orange shirt, warm color, elevation view",warm color,elevation view,,3.075586915,0.760846743,2.512360277,0.968202572
+DALLE2_normal_222.jpg,"interior of cosmic highway created by the gods, cold color, top view",cold color,top view,,1.120303781,0.571813668,1.726751061,1.125012818
+DALLE2_normal_231.jpg,"a dramatic photo of a lion made of cotton candy, cold color, hyper detail",cold color,hyper detail,,1.829599618,0.347346055,2.46389967,0.973584352
+DALLE2_normal_232.jpg,"steampunk owl inside a glass jar buried in sand, warm color, soft lighting",warm color,soft lighting,,2.687102292,0.934906841,3.410108325,0.785431684
+DALLE2_normal_241.jpg,"breaking moon as seen from the surface of the moon, top view, hyper detail",top view,hyper detail,,0.905232817,0.525554647,1.901139755,1.32623788
+DALLE2_normal_242.jpg,"a living room with a black and white chevron floor, elevation view, blurred detail",elevation view,blurred detail,,0.820802133,0.380746294,1.470709125,0.889649052
+DALLE2_normal_251.jpg,"a brain with eyeballs peaking out between the folds, long-shot, hyper detail",long-shot,hyper detail,,2.74826005,0.593008739,3.161543067,0.721982566
+DALLE2_normal_252.jpg,"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",close-up,soft lighting,,2.462183558,0.643627595,2.452499565,0.523719054
+DALLE2_normal_261.jpg,"epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style",warm color,elevation view,sci-fi style,2.803217798,0.627126511,3.092308057,0.724857985
+DALLE2_normal_262.jpg,"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",cold color,top view,realistic style,3.380391978,0.62088835,3.118812912,0.633122495
+DALLE2_normal_271.jpg,"the gold skull coming out from open cracked marble head, cold color, hyper detail, sci-fi style",cold color,hyper detail,sci-fi style,2.980532355,1.066636797,3.291606502,0.701478391
+DALLE2_normal_281.jpg,"portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style",top view,hyper detail,sci-fi style,3.576252467,0.627926608,3.078582412,0.751783888
+DALLE2_normal_282.jpg,"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",elevation view,blurred detail,realistic style,2.616815188,0.649527204,2.452499565,1.104207328
+DALLE2_normal_291.jpg,"oil painting portrait of anthropomorphic female green fox animal, long-shot, hyper detail, sci-fi style",long-shot,hyper detail,sci-fi style,2.628129896,0.875404836,2.36794927,0.813282345
+DALLE2_normal_292.jpg,"a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style",close-up,soft lighting,realistic style,2.505259558,0.873800794,3.180285613,0.687353059
+glide_normal_001.jpg,a tray of sushi,,,,1.177351713,1.051160634,2.397337086,1.610692851
+glide_normal_002.jpg,man lost in space,,,,0.508202054,0.913728813,0.902085383,0.586784713
+glide_normal_011.jpg,the prince of the sun,,,,1.719307075,1.034112523,1.848675793,0.983798401
+glide_normal_012.jpg,life bar and mana bar,,,,1.010879855,0.226619409,0.731218487,0.967764084
+glide_normal_021.jpg,portrait of mecha robot,,,,1.960618923,0.51534107,2.877526414,0.940454187
+glide_normal_022.jpg,panda chef in a kitchen,,,,1.527555519,0.522455718,0.909339471,0.608624901
+glide_normal_031.jpg,black mickey mouse skull,,,,1.328588457,0.54927107,0.915909549,0.742299026
+glide_normal_032.jpg,an emo portrait painting,,,,1.55289045,0.22121462,1.585786942,1.307099671
+glide_normal_041.jpg,a raspberry made of metal,,,,1.759312513,0.456202562,1.82549383,0.740571076
+glide_normal_042.jpg,a man jumping off a cliff,,,,0.536272256,0.262779761,0.742358137,0.626394756
+glide_normal_051.jpg,hanging gardens of babylon,,,,1.428382741,0.578207009,1.60050067,1.386441329
+glide_normal_052.jpg,concept art of giant ogres,,,,1.177351713,0.539715068,1.446324178,0.886446827
+glide_normal_061.jpg,"a yellow rendition of venom, sci-fi style",,,sci-fi style,1.494912264,0.667057786,1.231874682,0.530558064
+glide_normal_062.jpg,"a colour portrait of a king, realistic style",,,realistic style,2.376428439,0.669542476,1.732152809,0.905865958
+glide_normal_071.jpg,"smart sri lanka buddhist monk, sci-fi style",,,sci-fi style,1.299273321,0.632344587,0.81494167,0.948246729
+glide_normal_072.jpg,"painted portrait of snake man, realistic style",,,realistic style,0.693938742,0.437094032,1.316179121,0.805591297
+glide_normal_081.jpg,"large purple lovecraftian void, sci-fi style",,,sci-fi style,0.972096944,0.477226561,1.152887677,0.551809779
+glide_normal_082.jpg,"lanky young half - orc warrior, realistic style",,,realistic style,0.69922293,0.430660377,0.653301426,0.873003168
+glide_normal_091.jpg,"ufo ignoring the laws of phyics, sci-fi style",,,sci-fi style,0.574779956,0.868042726,1.751211925,1.199376722
+glide_normal_092.jpg,"steampunk walter white portrait , realistic style",,,realistic style,0.91586726,0.714305492,1.118687364,1.239855938
+glide_normal_101.jpg,"a man playing an invisible cello, sci-fi style",,,sci-fi style,0.0,0.201756042,0.190499441,0.154827399
+glide_normal_102.jpg,"a grand stag in a fantasy forest, realistic style",,,realistic style,0.223775025,0.263707727,0.431166364,0.344089767
+glide_normal_111.jpg,"grand canyon full of potato salad, sci-fi style",,,sci-fi style,1.419805428,0.530972454,1.202474715,0.621929457
+glide_normal_112.jpg,"gorgeous young scandanavian woman, realistic style",,,realistic style,1.006207915,0.483646191,0.519696217,0.427905339
+glide_normal_121.jpg,"cute green tabby cat made of leaves, cold color",cold color,,,1.511544645,0.714213013,2.206100508,1.164050731
+glide_normal_122.jpg,"chinese demon god character design, top view",top view,,,1.328588457,0.612021554,2.034952727,1.208356226
+glide_normal_131.jpg,"cute fluffy baby panda lion hybrid , cold color",cold color,,,1.594706548,0.4927619,2.127109224,0.980757529
+glide_normal_132.jpg,"a girl with rainbow in white shirt , top view",top view,,,1.717163144,0.384809747,1.250574517,0.684631068
+glide_normal_141.jpg,"a portrait of girl bard in red dress, cold color",cold color,,,1.989267001,0.641625154,0.447544482,0.508058408
+glide_normal_142.jpg,"a biomechanical passion fruit flower, top view",top view,,,1.391281461,0.524722086,2.433914506,0.913868924
+glide_normal_151.jpg,"photo of a white fashion jewelry store, cold color",cold color,,,1.787427355,0.492877787,2.06489602,0.880226787
+glide_normal_152.jpg,"grumpy the elder gods sitting in a bar, top view",top view,,,0.887752418,0.424835218,1.26688872,0.774552914
+glide_normal_161.jpg,"cute fluffy baby lop eared bunny rabbit, cold color",cold color,,,1.609770477,0.59722743,2.035648457,0.775939134
+glide_normal_162.jpg,"an industrial geometric temple lab room, top view",top view,,,1.309475045,0.549154226,1.255488616,0.659273528
+glide_normal_171.jpg,"grumpy disney princess sitting in a cave, cold color",cold color,,,0.212533273,0.929852104,0.518653615,0.616824934
+glide_normal_172.jpg,"art of a mimic from dungeons and dragons, top view",top view,,,0.392090064,0.386079014,0.277575547,0.480763569
+glide_normal_181.jpg,"an underwater photo of coral in the ocean, cold color, sci-fi style",cold color,,sci-fi style,0.641923698,0.349148726,2.430025645,1.348894623
+glide_normal_182.jpg,"a female warrior in charming phenix armor, top view, realistic style",top view,,realistic style,1.255971063,0.644909035,1.354623028,1.099963697
+glide_normal_191.jpg,"cute fluffy golden teddy bear eating bagels, cold color, sci-fi style",cold color,,sci-fi style,1.948511424,0.481397747,1.599528985,0.554946006
+glide_normal_192.jpg,"beautiful ancient temple in a formal garden, top view, realistic style",top view,,realistic style,0.879514179,0.741091111,1.732152809,0.829841522
+glide_normal_201.jpg,"a gummy bear performing at woodstock concert, cold color, sci-fi style",cold color,,sci-fi style,1.461647503,0.537758994,2.508900426,0.827085646
+glide_normal_202.jpg,"a biomechanical blue raspberry made of metal, top view, realistic style",top view,,realistic style,0.612055936,0.412538319,1.511295292,1.005887899
+glide_normal_211.jpg,"a woman in a trench coat looking out a window, cold color, sci-fi style",cold color,,sci-fi style,1.305709562,0.592560576,0.836700519,0.314714632
+glide_normal_212.jpg,"a glass vase of pink and white dahlia flowers, top view, realistic style",top view,,realistic style,1.537956569,0.400488835,2.852144996,1.09201758
+glide_normal_221.jpg,"goose being zipped - up by man in orange shirt, warm color, elevation view",warm color,elevation view,,0.686725341,0.23395544,0.753963515,0.236059203
+glide_normal_222.jpg,"interior of cosmic highway created by the gods, cold color, top view",cold color,top view,,1.461647503,0.595324829,1.389857248,1.102855681
+glide_normal_231.jpg,"a dramatic photo of a lion made of cotton candy, cold color, hyper detail",cold color,hyper detail,,1.358005834,0.351998219,1.566876536,0.616766924
+glide_normal_232.jpg,"steampunk owl inside a glass jar buried in sand, warm color, soft lighting",warm color,soft lighting,,0.775293051,0.206843695,0.594282567,0.598729336
+glide_normal_241.jpg,"breaking moon as seen from the surface of the moon, top view, hyper detail",top view,hyper detail,,1.312728533,0.694136759,2.104085281,0.639823541
+glide_normal_242.jpg,"a living room with a black and white chevron floor, elevation view, blurred detail",elevation view,blurred detail,,1.191989061,0.313013087,1.686256257,0.867478935
+glide_normal_251.jpg,"a brain with eyeballs peaking out between the folds, long-shot, hyper detail",long-shot,hyper detail,,0.60416837,0.537162432,1.087452894,0.969988713
+glide_normal_252.jpg,"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",close-up,soft lighting,,2.060642411,0.647826564,2.094813219,0.67915997
+glide_normal_261.jpg,"epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style",warm color,elevation view,sci-fi style,0.929411321,0.712814789,1.113387757,1.181230179
+glide_normal_262.jpg,"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",cold color,top view,realistic style,0.820802133,0.45551633,0.556273636,0.81694682
+glide_normal_271.jpg,"the gold skull coming out from open cracked marble head, cold color, hyper detail, sci-fi style",cold color,hyper detail,sci-fi style,1.554207475,0.619729642,1.519124647,0.641990608
+glide_normal_272.jpg,"frontal portrait of female adult twins in the apocalypse, warm color, soft lighting, realistic style",warm color,soft lighting,realistic style,1.575270793,0.674070612,1.016417548,1.494094922
+glide_normal_281.jpg,"portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style",top view,hyper detail,sci-fi style,0.701659223,0.395138781,0.679471865,0.475188836
+glide_normal_282.jpg,"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",elevation view,blurred detail,realistic style,0.754308478,0.451027092,0.958039958,0.892057087
+glide_normal_291.jpg,"oil painting portrait of anthropomorphic female green fox animal, long-shot, hyper detail, sci-fi style",long-shot,hyper detail,sci-fi style,1.816768581,0.61724461,2.166015202,0.787201407
+glide_normal_292.jpg,"a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style",close-up,soft lighting,realistic style,0.156054019,0.419366831,0.419527558,0.559305916
+midjourney_lowstep_001.jpg,a tray of sushi,,,,2.610261314,0.762893836,3.481534167,0.674440876
+midjourney_lowstep_002.jpg,man lost in space,,,,2.576017007,0.636710141,3.259317616,0.610354445
+midjourney_lowstep_011.jpg,the prince of the sun,,,,2.315150439,0.708509956,3.080096813,0.88535704
+midjourney_lowstep_012.jpg,life bar and mana bar,,,,2.610261314,0.490237202,1.976390846,1.182303538
+midjourney_lowstep_021.jpg,portrait of mecha robot,,,,1.844192258,0.743062154,2.903856842,0.766218644
+midjourney_lowstep_022.jpg,panda chef in a kitchen,,,,2.686140018,0.485625473,3.72764949,0.448157575
+midjourney_lowstep_031.jpg,black mickey mouse skull,,,,3.389757837,0.321436009,2.951467196,0.533848304
+midjourney_lowstep_032.jpg,an emo portrait painting,,,,2.941741401,0.528265518,2.579008945,0.442937276
+midjourney_lowstep_041.jpg,a raspberry made of metal,,,,1.943986542,0.78098823,2.614222137,1.170639312
+midjourney_lowstep_042.jpg,a man jumping off a cliff,,,,2.64254653,0.428792262,1.890135375,1.319796989
+midjourney_lowstep_051.jpg,hanging gardens of babylon,,,,2.323921604,0.648105458,3.369510326,0.622170435
+midjourney_lowstep_052.jpg,concept art of giant ogres,,,,1.527555519,0.27642482,2.890851301,0.756954899
+midjourney_lowstep_061.jpg,"a yellow rendition of venom, sci-fi style",,,sci-fi style,3.165054602,0.626977397,3.706511037,0.514244187
+midjourney_lowstep_062.jpg,"a colour portrait of a king, realistic style",,,realistic style,2.55346049,0.493727777,2.740407521,0.475325254
+midjourney_lowstep_071.jpg,"smart sri lanka buddhist monk, sci-fi style",,,sci-fi style,3.108253189,0.757687086,3.246152402,0.35911157
+midjourney_lowstep_072.jpg,"painted portrait of snake man, realistic style",,,realistic style,2.844740127,0.723248592,2.846322945,0.67661553
+midjourney_lowstep_081.jpg,"large purple lovecraftian void, sci-fi style",,,sci-fi style,1.433419401,0.57752649,2.268627069,1.725818411
+midjourney_lowstep_082.jpg,"lanky young half - orc warrior, realistic style",,,realistic style,2.855791343,0.278071525,2.714701964,0.673135419
+midjourney_lowstep_091.jpg,"ufo ignoring the laws of phyics, sci-fi style",,,sci-fi style,2.326531297,0.870211283,2.719543848,0.79240443
+midjourney_lowstep_092.jpg,"steampunk walter white portrait , realistic style",,,realistic style,3.007007681,0.537773339,3.481534167,0.288748979
+midjourney_lowstep_101.jpg,"a man playing an invisible cello, sci-fi style",,,sci-fi style,3.143483028,0.82549973,2.768398323,0.798830013
+midjourney_lowstep_102.jpg,"a grand stag in a fantasy forest, realistic style",,,realistic style,2.73141732,0.645471592,3.345634382,0.506887645
+midjourney_lowstep_111.jpg,"grand canyon full of potato salad, sci-fi style",,,sci-fi style,1.761030355,0.89489989,2.11394401,1.043523894
+midjourney_lowstep_112.jpg,"gorgeous young scandanavian woman, realistic style",,,realistic style,3.231255627,0.563412826,3.410425033,0.605335419
+midjourney_lowstep_121.jpg,"cute green tabby cat made of leaves, cold color",cold color,,,2.632073999,0.419532253,3.116693004,0.725113931
+midjourney_lowstep_122.jpg,"chinese demon god character design, top view",top view,,,3.007007681,0.515410263,3.374870467,0.699379452
+midjourney_lowstep_131.jpg,"cute fluffy baby panda lion hybrid , cold color",cold color,,,2.980532355,1.083276837,2.712737878,0.808511307
+midjourney_lowstep_132.jpg,"a girl with rainbow in white shirt , top view",top view,,,2.442957962,0.471319936,2.838030773,0.618081757
+midjourney_lowstep_141.jpg,"a portrait of girl bard in red dress, cold color",cold color,,,2.817259418,0.256599604,2.782294356,0.799222141
+midjourney_lowstep_142.jpg,"a biomechanical passion fruit flower, top view",top view,,,2.777468708,0.528018944,3.249433797,0.933364258
+midjourney_lowstep_151.jpg,"photo of a white fashion jewelry store, cold color",cold color,,,2.355888108,0.792922947,2.946511745,1.130432113
+midjourney_lowstep_152.jpg,"grumpy the elder gods sitting in a bar, top view",top view,,,2.301571217,0.381178874,2.857455034,0.658174918
+midjourney_lowstep_161.jpg,"cute fluffy baby lop eared bunny rabbit, cold color",cold color,,,2.060413207,0.640432575,2.811700345,0.863234587
+midjourney_lowstep_162.jpg,"an industrial geometric temple lab room, top view",top view,,,1.505377327,1.051558806,2.60460913,0.683496427
+midjourney_lowstep_171.jpg,"grumpy disney princess sitting in a cave, cold color",cold color,,,2.444661076,0.270523329,3.202378717,0.599633921
+midjourney_lowstep_172.jpg,"art of a mimic from dungeons and dragons, top view",top view,,,1.821700312,0.568021286,1.474049467,1.138108673
+midjourney_lowstep_181.jpg,"an underwater photo of coral in the ocean, cold color, sci-fi style",cold color,,sci-fi style,2.376428439,0.954005209,2.140274438,0.584992483
+midjourney_lowstep_182.jpg,"a female warrior in charming phenix armor, top view, realistic style",top view,,realistic style,2.374253916,0.463461571,2.51693257,0.666409779
+midjourney_lowstep_191.jpg,"cute fluffy golden teddy bear eating bagels, cold color, sci-fi style",cold color,,sci-fi style,2.476240979,0.442333971,2.965504258,0.163300553
+midjourney_lowstep_192.jpg,"beautiful ancient temple in a formal garden, top view, realistic style",top view,,realistic style,1.597692094,0.78038786,3.137696322,0.255024718
+midjourney_lowstep_201.jpg,"a gummy bear performing at woodstock concert, cold color, sci-fi style",cold color,,sci-fi style,2.460930201,0.490981876,2.897228486,0.640848076
+midjourney_lowstep_202.jpg,"a biomechanical blue raspberry made of metal, top view, realistic style",top view,,realistic style,2.616815188,0.302958524,2.965504258,0.715560625
+midjourney_lowstep_211.jpg,"a woman in a trench coat looking out a window, cold color, sci-fi style",cold color,,sci-fi style,3.374371279,0.672106964,3.377804541,0.677078007
+midjourney_lowstep_212.jpg,"a glass vase of pink and white dahlia flowers, top view, realistic style",top view,,realistic style,2.532470662,0.718097356,2.395499044,0.440262611
+midjourney_lowstep_221.jpg,"goose being zipped - up by man in orange shirt, warm color, elevation view",warm color,elevation view,,2.276634155,0.861944562,2.443074357,0.600978799
+midjourney_lowstep_222.jpg,"interior of cosmic highway created by the gods, cold color, top view",cold color,top view,,1.3429134,0.502555949,3.094936968,0.636551644
+midjourney_lowstep_231.jpg,"a dramatic photo of a lion made of cotton candy, cold color, hyper detail",cold color,hyper detail,,2.478791084,0.705633541,2.51693257,0.755849566
+midjourney_lowstep_232.jpg,"steampunk owl inside a glass jar buried in sand, warm color, soft lighting",warm color,soft lighting,,2.600314118,0.831019588,2.90198339,0.88317074
+midjourney_lowstep_241.jpg,"breaking moon as seen from the surface of the moon, top view, hyper detail",top view,hyper detail,,1.116526892,0.398720002,2.307030807,1.107058793
+midjourney_lowstep_242.jpg,"a living room with a black and white chevron floor, elevation view, blurred detail",elevation view,blurred detail,,2.668210231,0.699627025,2.601416989,1.059530092
+midjourney_lowstep_251.jpg,"a brain with eyeballs peaking out between the folds, long-shot, hyper detail",long-shot,hyper detail,,2.209981223,0.810178006,2.169304869,0.688908522
+midjourney_lowstep_252.jpg,"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",close-up,soft lighting,,2.041016527,0.505244646,3.114136978,0.863650497
+midjourney_lowstep_261.jpg,"epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style",warm color,elevation view,sci-fi style,1.776898668,0.457404324,2.727992245,0.474377754
+midjourney_lowstep_262.jpg,"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",cold color,top view,realistic style,2.785504238,0.277066746,2.520900191,0.56568677
+midjourney_lowstep_271.jpg,"the gold skull coming out from open cracked marble head, cold color, hyper detail, sci-fi style",cold color,hyper detail,sci-fi style,3.30238721,0.501766543,2.860651067,0.963354327
+midjourney_lowstep_272.jpg,"frontal portrait of female adult twins in the apocalypse, warm color, soft lighting, realistic style",warm color,soft lighting,realistic style,3.320012924,0.721461272,3.503116192,0.619248002
+midjourney_lowstep_281.jpg,"portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style",top view,hyper detail,sci-fi style,2.869008944,0.45541488,2.877106534,0.227716101
+midjourney_lowstep_282.jpg,"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",elevation view,blurred detail,realistic style,2.196265106,0.433113326,2.770442834,0.590231935
+midjourney_lowstep_291.jpg,"oil painting portrait of anthropomorphic female green fox animal, long-shot, hyper detail, sci-fi style",long-shot,hyper detail,sci-fi style,2.844740127,0.279359227,3.046700546,0.517116539
+midjourney_lowstep_292.jpg,"a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style",close-up,soft lighting,realistic style,2.224915104,1.12764683,3.112865772,0.770640884
+midjourney_normal_001.jpg,a tray of sushi,,,,3.537280489,0.696301426,3.83707886,0.738674494
+midjourney_normal_002.jpg,man lost in space,,,,3.912443678,0.2383012,3.609476773,0.425648521
+midjourney_normal_011.jpg,the prince of the sun,,,,3.825753384,0.835835845,3.113705614,1.275609717
+midjourney_normal_012.jpg,life bar and mana bar,,,,3.530547546,0.486796202,0.993286217,1.03687994
+midjourney_normal_021.jpg,portrait of mecha robot,,,,3.887128521,0.401811153,3.921396233,0.429048001
+midjourney_normal_022.jpg,panda chef in a kitchen,,,,3.605176603,0.589711699,3.948399749,0.332678014
+midjourney_normal_031.jpg,black mickey mouse skull,,,,4.37231412,0.756369971,3.825421812,0.967820386
+midjourney_normal_032.jpg,an emo portrait painting,,,,3.195617381,0.608302957,2.603839495,0.805435538
+midjourney_normal_041.jpg,a raspberry made of metal,,,,3.917498726,0.31863116,4.004060194,0.328519145
+midjourney_normal_042.jpg,a man jumping off a cliff,,,,4.076497886,0.641375104,3.137840023,0.916460342
+midjourney_normal_051.jpg,hanging gardens of babylon,,,,3.878442297,0.288003288,3.847029211,0.318315498
+midjourney_normal_052.jpg,concept art of giant ogres,,,,3.524162768,0.49081556,2.790068621,1.537157932
+midjourney_normal_061.jpg,"a yellow rendition of venom, sci-fi style",,,sci-fi style,2.994111578,0.984666704,3.62556917,0.516253325
+midjourney_normal_062.jpg,"a colour portrait of a king, realistic style",,,realistic style,3.839810805,0.464018123,3.524109368,0.804895291
+midjourney_normal_071.jpg,"smart sri lanka buddhist monk, sci-fi style",,,sci-fi style,3.966327593,0.421680561,3.318907491,1.192990071
+midjourney_normal_072.jpg,"painted portrait of snake man, realistic style",,,realistic style,3.330911176,0.700210869,2.360759667,1.07685647
+midjourney_normal_081.jpg,"large purple lovecraftian void, sci-fi style",,,sci-fi style,2.742340814,0.567789616,3.364639327,0.713031127
+midjourney_normal_082.jpg,"lanky young half - orc warrior, realistic style",,,realistic style,3.449493362,0.80687651,2.839729721,1.367512393
+midjourney_normal_091.jpg,"ufo ignoring the laws of phyics, sci-fi style",,,sci-fi style,3.344956193,0.837870988,3.485324022,0.565165134
+midjourney_normal_092.jpg,"steampunk walter white portrait , realistic style",,,realistic style,3.593502309,0.601946937,3.754119177,0.515938828
+midjourney_normal_101.jpg,"a man playing an invisible cello, sci-fi style",,,sci-fi style,3.740283654,0.730270465,3.167161119,0.826453571
+midjourney_normal_102.jpg,"a grand stag in a fantasy forest, realistic style",,,realistic style,4.162747096,0.794430273,3.718564611,0.481717094
+midjourney_normal_111.jpg,"grand canyon full of potato salad, sci-fi style",,,sci-fi style,2.92075847,0.823313652,2.106757591,1.043626471
+midjourney_normal_112.jpg,"gorgeous young scandanavian woman, realistic style",,,realistic style,4.191246327,0.582222135,3.717911141,0.962136034
+midjourney_normal_121.jpg,"cute green tabby cat made of leaves, cold color",cold color,,,4.076716372,0.442244523,4.056426674,0.326161347
+midjourney_normal_122.jpg,"chinese demon god character design, top view",top view,,,3.387909038,0.582215558,3.291606502,0.969510924
+midjourney_normal_131.jpg,"cute fluffy baby panda lion hybrid , cold color",cold color,,,3.401488261,0.30973113,2.16726552,1.357272333
+midjourney_normal_132.jpg,"a girl with rainbow in white shirt , top view",top view,,,3.896040489,0.581125791,3.900312809,0.505798439
+midjourney_normal_141.jpg,"a portrait of girl bard in red dress, cold color",cold color,,,4.195383409,0.451440792,2.414472557,0.54056665
+midjourney_normal_142.jpg,"a biomechanical passion fruit flower, top view",top view,,,3.605176603,0.436461386,2.90198339,1.203525056
+midjourney_normal_151.jpg,"photo of a white fashion jewelry store, cold color",cold color,,,2.233675103,0.691106348,2.868587123,0.833646187
+midjourney_normal_152.jpg,"grumpy the elder gods sitting in a bar, top view",top view,,,3.357738899,0.805816426,3.430465396,0.72053618
+midjourney_normal_161.jpg,"cute fluffy baby lop eared bunny rabbit, cold color",cold color,,,3.516223883,0.665541805,3.715711518,0.527201215
+midjourney_normal_162.jpg,"an industrial geometric temple lab room, top view",top view,,,3.305628811,0.325193793,3.239106761,0.722688396
+midjourney_normal_171.jpg,"grumpy disney princess sitting in a cave, cold color",cold color,,,3.008458905,0.511018394,2.969682911,0.661814686
+midjourney_normal_172.jpg,"art of a mimic from dungeons and dragons, top view",top view,,,3.208047473,0.912775819,3.088169836,0.940454187
+midjourney_normal_181.jpg,"an underwater photo of coral in the ocean, cold color, sci-fi style",cold color,,sci-fi style,3.143483028,1.209072657,3.402927392,0.661578125
+midjourney_normal_182.jpg,"a female warrior in charming phenix armor, top view, realistic style",top view,,realistic style,3.541752783,0.722994669,3.066730889,0.944390611
+midjourney_normal_191.jpg,"cute fluffy golden teddy bear eating bagels, cold color, sci-fi style",cold color,,sci-fi style,3.840077938,0.903595709,3.496291466,0.79295017
+midjourney_normal_192.jpg,"beautiful ancient temple in a formal garden, top view, realistic style",top view,,realistic style,3.806813177,0.914128652,3.917578309,0.592072241
+midjourney_normal_201.jpg,"a gummy bear performing at woodstock concert, cold color, sci-fi style",cold color,,sci-fi style,3.863181835,0.559230408,3.592172903,0.950059449
+midjourney_normal_202.jpg,"a biomechanical blue raspberry made of metal, top view, realistic style",top view,,realistic style,3.416483075,0.768394039,2.982575799,1.04749759
+midjourney_normal_211.jpg,"a woman in a trench coat looking out a window, cold color, sci-fi style",cold color,,sci-fi style,4.239255074,0.756955721,4.220378228,0.404162637
+midjourney_normal_212.jpg,"a glass vase of pink and white dahlia flowers, top view, realistic style",top view,,realistic style,3.143483028,0.812978089,3.158021435,1.017637634
+midjourney_normal_221.jpg,"goose being zipped - up by man in orange shirt, warm color, elevation view",warm color,elevation view,,3.319686232,0.338248218,3.10230551,0.649101566
+midjourney_normal_222.jpg,"interior of cosmic highway created by the gods, cold color, top view",cold color,top view,,3.024480393,0.920084687,3.410108325,0.421397505
+midjourney_normal_231.jpg,"a dramatic photo of a lion made of cotton candy, cold color, hyper detail",cold color,hyper detail,,3.742610392,0.54630171,1.507186675,1.40998647
+midjourney_normal_232.jpg,"steampunk owl inside a glass jar buried in sand, warm color, soft lighting",warm color,soft lighting,,3.673754131,0.806486852,3.522621893,0.559008113
+midjourney_normal_241.jpg,"breaking moon as seen from the surface of the moon, top view, hyper detail",top view,hyper detail,,3.091080213,0.952930378,3.274264347,1.157470532
+midjourney_normal_242.jpg,"a living room with a black and white chevron floor, elevation view, blurred detail",elevation view,blurred detail,,3.80790651,0.749185461,2.41761037,0.624680239
+midjourney_normal_251.jpg,"a brain with eyeballs peaking out between the folds, long-shot, hyper detail",long-shot,hyper detail,,3.673754131,0.873088384,3.10133505,1.300595582
+midjourney_normal_252.jpg,"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",close-up,soft lighting,,3.347801074,0.750706387,3.432908534,0.857000187
+midjourney_normal_261.jpg,"epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style",warm color,elevation view,sci-fi style,3.757702826,0.517482639,3.297882494,0.298507965
+midjourney_normal_262.jpg,"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",cold color,top view,realistic style,3.781706499,0.390710651,3.52538037,0.497385914
+midjourney_normal_271.jpg,"the gold skull coming out from open cracked marble head, cold color, hyper detail, sci-fi style",cold color,hyper detail,sci-fi style,3.989769364,0.778207299,3.746430529,0.573303753
+midjourney_normal_272.jpg,"frontal portrait of female adult twins in the apocalypse, warm color, soft lighting, realistic style",warm color,soft lighting,realistic style,3.598832173,0.410260019,3.423247647,0.422974577
+midjourney_normal_281.jpg,"portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style",top view,hyper detail,sci-fi style,3.815818605,0.412404276,3.494659672,0.656487449
+midjourney_normal_282.jpg,"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",elevation view,blurred detail,realistic style,3.539096649,0.614388057,2.318288169,0.702413236
+midjourney_normal_291.jpg,"oil painting portrait of anthropomorphic female green fox animal, long-shot, hyper detail, sci-fi style",long-shot,hyper detail,sci-fi style,3.915652487,0.297851951,3.762894082,0.554082591
+midjourney_normal_292.jpg,"a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style",close-up,soft lighting,realistic style,3.509228886,0.522888869,3.497739298,0.698934582
+sd1.5_highcorr_001.jpg,a tray of sushi,,,,0.563498947,0.786175875,2.061283155,1.760674264
+sd1.5_highcorr_002.jpg,man lost in space,,,,3.688435461,0.345028023,3.311510172,0.505871675
+sd1.5_highcorr_011.jpg,the prince of the sun,,,,2.742340814,0.790415043,3.430465396,0.794066568
+sd1.5_highcorr_012.jpg,life bar and mana bar,,,,3.093256891,0.410565617,2.059351502,1.156654434
+sd1.5_highcorr_021.jpg,portrait of mecha robot,,,,2.960099613,0.843352341,3.348349994,0.749796846
+sd1.5_highcorr_022.jpg,panda chef in a kitchen,,,,2.5465021,0.633350225,3.506852145,0.366757999
+sd1.5_highcorr_031.jpg,black mickey mouse skull,,,,2.92075847,0.561490012,3.031176323,0.711475471
+sd1.5_highcorr_032.jpg,an emo portrait painting,,,,2.389620285,0.517439159,2.653379023,1.355114235
+sd1.5_highcorr_041.jpg,a raspberry made of metal,,,,2.489938377,0.257658021,2.199589058,0.445485749
+sd1.5_highcorr_042.jpg,a man jumping off a cliff,,,,2.927618961,0.508914931,3.787339351,0.573071204
+sd1.5_highcorr_051.jpg,hanging gardens of babylon,,,,3.645914271,0.477898507,3.514248281,1.056068743
+sd1.5_highcorr_052.jpg,concept art of giant ogres,,,,3.063450866,0.553394699,3.369510326,0.702509894
+sd1.5_highcorr_061.jpg,"a yellow rendition of venom, sci-fi style",,,sci-fi style,2.774693831,0.722920973,2.836266121,0.718025029
+sd1.5_highcorr_062.jpg,"a colour portrait of a king, realistic style",,,realistic style,3.292854479,0.465777148,3.180285613,0.930060704
+sd1.5_highcorr_071.jpg,"smart sri lanka buddhist monk, sci-fi style",,,sci-fi style,3.150997182,0.440860751,3.147905927,0.584290545
+sd1.5_highcorr_072.jpg,"painted portrait of snake man, realistic style",,,realistic style,1.954767317,0.897682803,2.687482179,0.587787579
+sd1.5_highcorr_081.jpg,"large purple lovecraftian void, sci-fi style",,,sci-fi style,2.23076479,0.871842915,2.474154779,1.003016435
+sd1.5_highcorr_082.jpg,"lanky young half - orc warrior, realistic style",,,realistic style,0.4524598,0.325296124,0.886412125,0.52887676
+sd1.5_highcorr_091.jpg,"ufo ignoring the laws of phyics, sci-fi style",,,sci-fi style,3.43455948,0.569380474,3.609476773,0.73686929
+sd1.5_highcorr_092.jpg,"steampunk walter white portrait , realistic style",,,realistic style,3.460260441,0.430027694,3.18210624,0.773456044
+sd1.5_highcorr_101.jpg,"a man playing an invisible cello, sci-fi style",,,sci-fi style,2.308829171,0.515926101,2.796487664,0.481584786
+sd1.5_highcorr_102.jpg,"a grand stag in a fantasy forest, realistic style",,,realistic style,3.305628811,0.421683211,3.18210624,0.754461624
+sd1.5_highcorr_111.jpg,"grand canyon full of potato salad, sci-fi style",,,sci-fi style,2.722527122,0.667997494,1.621793163,0.668996225
+sd1.5_highcorr_112.jpg,"gorgeous young scandanavian woman, realistic style",,,realistic style,2.86026573,0.440992951,2.628994077,1.036316266
+sd1.5_highcorr_121.jpg,"cute green tabby cat made of leaves, cold color",cold color,,,3.744508689,0.4437334,2.275412354,1.203754617
+sd1.5_highcorr_122.jpg,"chinese demon god character design, top view",top view,,,0.331720329,0.164938718,1.089357651,0.891027716
+sd1.5_highcorr_131.jpg,"cute fluffy baby panda lion hybrid , cold color",cold color,,,3.208047473,1.012928204,2.890691628,1.19892577
+sd1.5_highcorr_132.jpg,"a girl with rainbow in white shirt , top view",top view,,,2.822270352,0.68537227,1.784431343,0.801535975
+sd1.5_highcorr_141.jpg,"a portrait of girl bard in red dress, cold color",cold color,,,3.157062251,0.408411168,2.846322945,0.909865663
+sd1.5_highcorr_142.jpg,"a biomechanical passion fruit flower, top view",top view,,,2.592649388,1.01832015,2.258761363,1.300187271
+sd1.5_highcorr_151.jpg,"photo of a white fashion jewelry store, cold color",cold color,,,3.018173564,0.566524025,3.703773546,0.397585389
+sd1.5_highcorr_152.jpg,"grumpy the elder gods sitting in a bar, top view",top view,,,3.386504205,0.644463833,1.549736047,0.846464713
+sd1.5_highcorr_161.jpg,"cute fluffy baby lop eared bunny rabbit, cold color",cold color,,,3.438253731,0.641002899,3.090433934,1.195349784
+sd1.5_highcorr_162.jpg,"an industrial geometric temple lab room, top view",top view,,,3.359435142,0.430096954,2.653379023,0.965316204
+sd1.5_highcorr_171.jpg,"grumpy disney princess sitting in a cave, cold color",cold color,,,3.007007681,0.431612519,2.711185223,0.680634317
+sd1.5_highcorr_172.jpg,"art of a mimic from dungeons and dragons, top view",top view,,,1.92623748,0.659518234,1.995491019,0.863633346
+sd1.5_highcorr_181.jpg,"an underwater photo of coral in the ocean, cold color, sci-fi style",cold color,,sci-fi style,1.960618923,0.746618178,2.8643612,0.857362231
+sd1.5_highcorr_182.jpg,"a female warrior in charming phenix armor, top view, realistic style",top view,,realistic style,3.214005785,0.487492188,2.486006301,0.899949787
+sd1.5_highcorr_191.jpg,"cute fluffy golden teddy bear eating bagels, cold color, sci-fi style",cold color,,sci-fi style,3.008458905,0.4852896,2.772204703,1.127775468
+sd1.5_highcorr_192.jpg,"beautiful ancient temple in a formal garden, top view, realistic style",top view,,realistic style,3.116981428,0.953992013,3.543429565,0.546592727
+sd1.5_highcorr_201.jpg,"a gummy bear performing at woodstock concert, cold color, sci-fi style",cold color,,sci-fi style,2.955258155,0.485083175,2.699333701,0.682568682
+sd1.5_highcorr_202.jpg,"a biomechanical blue raspberry made of metal, top view, realistic style",top view,,realistic style,2.434068716,0.932946916,2.076296124,1.084759347
+sd1.5_highcorr_211.jpg,"a woman in a trench coat looking out a window, cold color, sci-fi style",cold color,,sci-fi style,2.58928805,0.615695794,2.787496228,0.823255579
+sd1.5_highcorr_212.jpg,"a glass vase of pink and white dahlia flowers, top view, realistic style",top view,,realistic style,3.274744941,0.507018036,2.880053469,1.147006976
+sd1.5_highcorr_221.jpg,"goose being zipped - up by man in orange shirt, warm color, elevation view",warm color,elevation view,,2.343163678,0.499687656,1.692657167,1.001261566
+sd1.5_highcorr_222.jpg,"interior of cosmic highway created by the gods, cold color, top view",cold color,top view,,3.108253189,0.823332793,3.114500264,0.489105108
+sd1.5_highcorr_231.jpg,"a dramatic photo of a lion made of cotton candy, cold color, hyper detail",cold color,hyper detail,,3.380391978,0.552474867,2.844239553,0.861828786
+sd1.5_highcorr_232.jpg,"steampunk owl inside a glass jar buried in sand, warm color, soft lighting",warm color,soft lighting,,3.530547546,0.314600815,3.02250478,0.606152192
+sd1.5_highcorr_241.jpg,"breaking moon as seen from the surface of the moon, top view, hyper detail",top view,hyper detail,,3.34717137,0.580715112,3.269342324,0.697386254
+sd1.5_highcorr_242.jpg,"a living room with a black and white chevron floor, elevation view, blurred detail",elevation view,blurred detail,,3.150815738,0.258144905,2.839729721,0.408636425
+sd1.5_highcorr_251.jpg,"a brain with eyeballs peaking out between the folds, long-shot, hyper detail",long-shot,hyper detail,,2.420513052,0.876794552,2.367491079,0.920064215
+sd1.5_highcorr_252.jpg,"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",close-up,soft lighting,,2.782759734,0.673960326,3.315612856,0.625153811
+sd1.5_highcorr_261.jpg,"epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style",warm color,elevation view,sci-fi style,2.746169865,0.461928786,2.677763969,0.610014902
+sd1.5_highcorr_262.jpg,"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",cold color,top view,realistic style,3.428646707,0.7757438,3.436323658,0.718756838
+sd1.5_highcorr_271.jpg,"the gold skull coming out from open cracked marble head, cold color, hyper detail, sci-fi style",cold color,hyper detail,sci-fi style,2.776844014,1.106535569,2.545756544,1.255025022
+sd1.5_highcorr_272.jpg,"frontal portrait of female adult twins in the apocalypse, warm color, soft lighting, realistic style",warm color,soft lighting,realistic style,2.989757839,0.739284785,3.078582412,0.691078164
+sd1.5_highcorr_281.jpg,"portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style",top view,hyper detail,sci-fi style,2.821971923,0.243836146,2.868115497,0.897718702
+sd1.5_highcorr_282.jpg,"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",elevation view,blurred detail,realistic style,1.750409116,0.482943362,2.784549692,0.649201238
+sd1.5_highcorr_291.jpg,"oil painting portrait of anthropomorphic female green fox animal, long-shot, hyper detail, sci-fi style",long-shot,hyper detail,sci-fi style,2.883906185,0.554387059,2.86290332,0.565141121
+sd1.5_highcorr_292.jpg,"a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style",close-up,soft lighting,realistic style,2.110748036,0.790278689,2.657701443,0.510665765
+sd1.5_lowcorr_001.jpg,a tray of sushi,,,,3.407636041,0.599272665,3.772760957,0.536885198
+sd1.5_lowcorr_002.jpg,man lost in space,,,,2.659178911,0.756436473,2.956517697,0.896497904
+sd1.5_lowcorr_011.jpg,the prince of the sun,,,,3.116324583,0.41998477,2.979908012,0.639901652
+sd1.5_lowcorr_012.jpg,life bar and mana bar,,,,2.627511156,0.492987338,1.454923869,0.835780542
+sd1.5_lowcorr_021.jpg,portrait of mecha robot,,,,2.974361596,0.589694776,2.677763969,1.020991354
+sd1.5_lowcorr_022.jpg,panda chef in a kitchen,,,,3.257944615,0.886491428,2.877526414,0.460652316
+sd1.5_lowcorr_031.jpg,black mickey mouse skull,,,,2.426325581,0.736445946,1.916465803,1.581185354
+sd1.5_lowcorr_032.jpg,an emo portrait painting,,,,3.240419025,0.585332937,2.951467196,0.381386511
+sd1.5_lowcorr_041.jpg,a raspberry made of metal,,,,2.874527714,0.657026325,2.177872569,0.724892681
+sd1.5_lowcorr_042.jpg,a man jumping off a cliff,,,,3.335114676,0.75794871,2.330906752,1.063907569
+sd1.5_lowcorr_051.jpg,hanging gardens of babylon,,,,3.630412823,0.479711494,3.055730638,0.810248273
+sd1.5_lowcorr_052.jpg,concept art of giant ogres,,,,3.229467639,0.491495294,3.72764949,0.430043653
+sd1.5_lowcorr_061.jpg,"a yellow rendition of venom, sci-fi style",,,sci-fi style,2.576017007,0.791252523,2.732709062,1.084038937
+sd1.5_lowcorr_062.jpg,"a colour portrait of a king, realistic style",,,realistic style,3.419625599,0.646762789,3.671553148,0.510074716
+sd1.5_lowcorr_071.jpg,"smart sri lanka buddhist monk, sci-fi style",,,sci-fi style,2.791787056,0.725822303,2.283154863,0.407959494
+sd1.5_lowcorr_072.jpg,"painted portrait of snake man, realistic style",,,realistic style,2.598262134,0.454270375,2.628670045,0.940463711
+sd1.5_lowcorr_081.jpg,"large purple lovecraftian void, sci-fi style",,,sci-fi style,2.455012736,0.628208702,2.308233468,1.211470878
+sd1.5_lowcorr_082.jpg,"lanky young half - orc warrior, realistic style",,,realistic style,2.423784221,0.450350728,2.968775923,0.684165507
+sd1.5_lowcorr_091.jpg,"ufo ignoring the laws of phyics, sci-fi style",,,sci-fi style,1.946610757,0.662234932,2.760673748,0.716725644
+sd1.5_lowcorr_092.jpg,"steampunk walter white portrait , realistic style",,,realistic style,3.263456549,0.258187736,2.988304467,0.527167538
+sd1.5_lowcorr_101.jpg,"a man playing an invisible cello, sci-fi style",,,sci-fi style,3.374371279,1.006049033,2.390413502,0.421096661
+sd1.5_lowcorr_102.jpg,"a grand stag in a fantasy forest, realistic style",,,realistic style,2.761602188,0.618467558,2.509976334,0.722559049
+sd1.5_lowcorr_111.jpg,"grand canyon full of potato salad, sci-fi style",,,sci-fi style,2.713760366,0.704018572,1.526033003,0.981476179
+sd1.5_lowcorr_112.jpg,"gorgeous young scandanavian woman, realistic style",,,realistic style,3.714251203,0.556010456,3.5526433,0.920783175
+sd1.5_lowcorr_121.jpg,"cute green tabby cat made of leaves, cold color",cold color,,,3.091620808,0.901731985,2.271926577,0.804286955
+sd1.5_lowcorr_122.jpg,"chinese demon god character design, top view",top view,,,3.041723666,0.844090638,3.351474113,0.650915208
+sd1.5_lowcorr_131.jpg,"cute fluffy baby panda lion hybrid , cold color",cold color,,,2.980532355,0.603574748,2.723869967,0.4276736
+sd1.5_lowcorr_132.jpg,"a girl with rainbow in white shirt , top view",top view,,,0.713190373,0.723813015,1.416187676,0.982283038
+sd1.5_lowcorr_141.jpg,"a portrait of girl bard in red dress, cold color",cold color,,,1.971039124,0.504680821,2.194135419,0.680119664
+sd1.5_lowcorr_142.jpg,"a biomechanical passion fruit flower, top view",top view,,,2.559384627,0.809880346,2.798535131,1.033574331
+sd1.5_lowcorr_151.jpg,"photo of a white fashion jewelry store, cold color",cold color,,,2.911873639,0.551772,3.510154573,0.609056439
+sd1.5_lowcorr_152.jpg,"grumpy the elder gods sitting in a bar, top view",top view,,,2.11262753,0.485970622,2.31896878,0.892387839
+sd1.5_lowcorr_161.jpg,"cute fluffy baby lop eared bunny rabbit, cold color",cold color,,,2.776694622,0.537814837,3.130750884,0.745565268
+sd1.5_lowcorr_162.jpg,"an industrial geometric temple lab room, top view",top view,,,3.14151795,1.122545346,2.996013339,1.164068976
+sd1.5_lowcorr_171.jpg,"grumpy disney princess sitting in a cave, cold color",cold color,,,1.860824639,0.555100191,2.429909143,1.057197034
+sd1.5_lowcorr_172.jpg,"art of a mimic from dungeons and dragons, top view",top view,,,2.681789454,0.873922316,2.879719212,1.371679293
+sd1.5_lowcorr_181.jpg,"an underwater photo of coral in the ocean, cold color, sci-fi style",cold color,,sci-fi style,3.094767498,0.729081056,3.045304988,0.857184731
+sd1.5_lowcorr_182.jpg,"a female warrior in charming phenix armor, top view, realistic style",top view,,realistic style,3.074195478,0.287917391,2.202257515,0.929140436
+sd1.5_lowcorr_191.jpg,"cute fluffy golden teddy bear eating bagels, cold color, sci-fi style",cold color,,sci-fi style,2.389187797,0.546879103,2.603839495,0.670862586
+sd1.5_lowcorr_192.jpg,"beautiful ancient temple in a formal garden, top view, realistic style",top view,,realistic style,2.689121932,0.975464223,3.299580101,0.351749682
+sd1.5_lowcorr_201.jpg,"a gummy bear performing at woodstock concert, cold color, sci-fi style",cold color,,sci-fi style,3.074988427,1.006652733,2.706378634,1.112722203
+sd1.5_lowcorr_202.jpg,"a biomechanical blue raspberry made of metal, top view, realistic style",top view,,realistic style,2.426325581,1.043680837,2.140274438,0.767244276
+sd1.5_lowcorr_211.jpg,"a woman in a trench coat looking out a window, cold color, sci-fi style",cold color,,sci-fi style,2.782759734,0.455600158,2.841551967,0.793816327
+sd1.5_lowcorr_212.jpg,"a glass vase of pink and white dahlia flowers, top view, realistic style",top view,,realistic style,2.671047584,0.832447817,2.641294027,1.071829561
+sd1.5_lowcorr_221.jpg,"goose being zipped - up by man in orange shirt, warm color, elevation view",warm color,elevation view,,2.237264824,0.946940694,1.449290389,0.646932401
+sd1.5_lowcorr_222.jpg,"interior of cosmic highway created by the gods, cold color, top view",cold color,top view,,1.991888058,1.144725849,3.094936968,0.940674948
+sd1.5_lowcorr_231.jpg,"a dramatic photo of a lion made of cotton candy, cold color, hyper detail",cold color,hyper detail,,3.530578941,0.649965296,2.251027408,1.049773444
+sd1.5_lowcorr_232.jpg,"steampunk owl inside a glass jar buried in sand, warm color, soft lighting",warm color,soft lighting,,3.524062705,0.659239873,3.469961038,0.638353867
+sd1.5_lowcorr_241.jpg,"breaking moon as seen from the surface of the moon, top view, hyper detail",top view,hyper detail,,2.538526609,1.147092215,3.174942147,0.867566243
+sd1.5_lowcorr_242.jpg,"a living room with a black and white chevron floor, elevation view, blurred detail",elevation view,blurred detail,,3.723651273,0.923835854,3.022343767,1.51905941
+sd1.5_lowcorr_251.jpg,"a brain with eyeballs peaking out between the folds, long-shot, hyper detail",long-shot,hyper detail,,2.523592728,0.654779214,1.585786942,0.519769725
+sd1.5_lowcorr_252.jpg,"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",close-up,soft lighting,,2.448126137,0.580309637,2.634901234,0.468996724
+sd1.5_lowcorr_261.jpg,"epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style",warm color,elevation view,sci-fi style,3.048428469,0.693877117,2.857455034,0.963858726
+sd1.5_lowcorr_262.jpg,"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",cold color,top view,realistic style,3.283005153,0.594159354,3.3393159,0.340031865
+sd1.5_lowcorr_271.jpg,"the gold skull coming out from open cracked marble head, cold color, hyper detail, sci-fi style",cold color,hyper detail,sci-fi style,2.882005876,0.645213215,2.554178395,0.510227002
+sd1.5_lowcorr_272.jpg,"frontal portrait of female adult twins in the apocalypse, warm color, soft lighting, realistic style",warm color,soft lighting,realistic style,2.474845943,1.025894557,2.784549692,0.710307937
+sd1.5_lowcorr_281.jpg,"portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style",top view,hyper detail,sci-fi style,1.676521125,0.58418893,1.934023105,0.891791895
+sd1.5_lowcorr_282.jpg,"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",elevation view,blurred detail,realistic style,1.991888058,0.389753051,1.996643532,0.882399331
+sd1.5_lowcorr_291.jpg,"oil painting portrait of anthropomorphic female green fox animal, long-shot, hyper detail, sci-fi style",long-shot,hyper detail,sci-fi style,3.045671512,0.555571682,3.189847843,0.615950628
+sd1.5_lowcorr_292.jpg,"a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style",close-up,soft lighting,realistic style,0.943982102,0.519215869,2.349898627,0.867475865
+sd1.5_lowstep_001.jpg,a tray of sushi,,,,3.703369342,0.307984991,4.192994699,0.373920151
+sd1.5_lowstep_002.jpg,man lost in space,,,,2.941741401,0.587283324,3.584646223,0.413518818
+sd1.5_lowstep_011.jpg,the prince of the sun,,,,1.977251303,0.616732069,2.11394401,0.853111778
+sd1.5_lowstep_012.jpg,life bar and mana bar,,,,2.093677968,0.599045989,1.758483236,1.173974248
+sd1.5_lowstep_021.jpg,portrait of mecha robot,,,,2.982308131,0.697198129,3.831912184,0.617656375
+sd1.5_lowstep_022.jpg,panda chef in a kitchen,,,,2.776694622,0.598887109,2.462224445,1.077395701
+sd1.5_lowstep_031.jpg,black mickey mouse skull,,,,0.620661421,0.217660999,2.315698314,1.462896946
+sd1.5_lowstep_032.jpg,an emo portrait painting,,,,2.274412771,0.587751302,2.389907299,0.734107688
+sd1.5_lowstep_041.jpg,a raspberry made of metal,,,,2.804002459,0.457795087,2.456699832,0.610503627
+sd1.5_lowstep_042.jpg,a man jumping off a cliff,,,,3.231077294,0.69448833,3.787279028,0.592418874
+sd1.5_lowstep_051.jpg,hanging gardens of babylon,,,,3.34717137,0.596652105,3.581040815,0.700610184
+sd1.5_lowstep_052.jpg,concept art of giant ogres,,,,2.867071995,0.446989912,3.808121173,0.43081433
+sd1.5_lowstep_061.jpg,"a yellow rendition of venom, sci-fi style",,,sci-fi style,2.871898573,0.572156501,3.135757257,0.198365644
+sd1.5_lowstep_062.jpg,"a colour portrait of a king, realistic style",,,realistic style,3.059933495,0.269612213,3.189847843,0.592214113
+sd1.5_lowstep_071.jpg,"smart sri lanka buddhist monk, sci-fi style",,,sci-fi style,2.747600946,0.604099624,2.169304869,0.689175386
+sd1.5_lowstep_072.jpg,"painted portrait of snake man, realistic style",,,realistic style,2.671047584,0.465007827,2.342844724,1.04191989
+sd1.5_lowstep_081.jpg,"large purple lovecraftian void, sci-fi style",,,sci-fi style,1.642493738,0.8376555,3.398417097,0.493691075
+sd1.5_lowstep_082.jpg,"lanky young half - orc warrior, realistic style",,,realistic style,2.687102292,0.591023703,2.726102068,1.00112242
+sd1.5_lowstep_091.jpg,"ufo ignoring the laws of phyics, sci-fi style",,,sci-fi style,2.852156791,0.464188588,3.33369641,0.789315051
+sd1.5_lowstep_092.jpg,"steampunk walter white portrait , realistic style",,,realistic style,2.991826524,0.643467635,3.075004622,0.754976498
+sd1.5_lowstep_101.jpg,"a man playing an invisible cello, sci-fi style",,,sci-fi style,2.588700346,0.635772991,2.076296124,0.791971763
+sd1.5_lowstep_102.jpg,"a grand stag in a fantasy forest, realistic style",,,realistic style,3.361858495,0.420831429,3.353107804,0.498555214
+sd1.5_lowstep_111.jpg,"grand canyon full of potato salad, sci-fi style",,,sci-fi style,2.523592728,0.541352835,1.511295292,0.879871317
+sd1.5_lowstep_112.jpg,"gorgeous young scandanavian woman, realistic style",,,realistic style,3.490797944,0.912805822,3.351474113,0.324961291
+sd1.5_lowstep_121.jpg,"cute green tabby cat made of leaves, cold color",cold color,,,3.685179175,0.464854496,2.281498001,0.556046536
+sd1.5_lowstep_122.jpg,"chinese demon god character design, top view",top view,,,2.842135098,0.668887702,3.404134969,0.553780594
+sd1.5_lowstep_131.jpg,"cute fluffy baby panda lion hybrid , cold color",cold color,,,3.252116811,1.123322952,3.10236099,0.819761074
+sd1.5_lowstep_132.jpg,"a girl with rainbow in white shirt , top view",top view,,,2.610261314,0.458517849,2.367491079,0.843111741
+sd1.5_lowstep_141.jpg,"a portrait of girl bard in red dress, cold color",cold color,,,2.602757767,0.394982854,2.760302381,0.519789852
+sd1.5_lowstep_142.jpg,"a biomechanical passion fruit flower, top view",top view,,,2.391896453,1.003197909,2.851503215,0.987421654
+sd1.5_lowstep_151.jpg,"photo of a white fashion jewelry store, cold color",cold color,,,3.369254363,0.404220506,3.386721989,0.501477969
+sd1.5_lowstep_152.jpg,"grumpy the elder gods sitting in a bar, top view",top view,,,1.765019055,0.870493067,1.952687802,0.64453293
+sd1.5_lowstep_161.jpg,"cute fluffy baby lop eared bunny rabbit, cold color",cold color,,,2.559576449,0.644300361,2.245190143,0.760073972
+sd1.5_lowstep_162.jpg,"an industrial geometric temple lab room, top view",top view,,,3.490797944,0.855612096,2.732709062,1.381894283
+sd1.5_lowstep_171.jpg,"grumpy disney princess sitting in a cave, cold color",cold color,,,2.45975351,0.514876387,2.31896878,0.717925545
+sd1.5_lowstep_172.jpg,"art of a mimic from dungeons and dragons, top view",top view,,,3.490003257,0.670690795,3.220800678,0.431044548
+sd1.5_lowstep_181.jpg,"an underwater photo of coral in the ocean, cold color, sci-fi style",cold color,,sci-fi style,2.161765422,0.668476306,2.877106534,0.630485448
+sd1.5_lowstep_182.jpg,"a female warrior in charming phenix armor, top view, realistic style",top view,,realistic style,3.221284286,0.74670814,2.988304467,0.624263807
+sd1.5_lowstep_191.jpg,"cute fluffy golden teddy bear eating bagels, cold color, sci-fi style",cold color,,sci-fi style,2.58928805,0.433221289,2.543646764,1.164572195
+sd1.5_lowstep_192.jpg,"beautiful ancient temple in a formal garden, top view, realistic style",top view,,realistic style,2.883906185,0.51102625,3.296107282,0.389751567
+sd1.5_lowstep_201.jpg,"a gummy bear performing at woodstock concert, cold color, sci-fi style",cold color,,sci-fi style,3.058356047,0.621872604,2.93018727,0.503406257
+sd1.5_lowstep_202.jpg,"a biomechanical blue raspberry made of metal, top view, realistic style",top view,,realistic style,2.418144251,0.609566903,2.092525257,0.800317764
+sd1.5_lowstep_211.jpg,"a woman in a trench coat looking out a window, cold color, sci-fi style",cold color,,sci-fi style,2.509487485,0.588762855,2.798535131,0.517787363
+sd1.5_lowstep_212.jpg,"a glass vase of pink and white dahlia flowers, top view, realistic style",top view,,realistic style,3.636963354,0.405327804,3.369510326,0.621899982
+sd1.5_lowstep_221.jpg,"goose being zipped - up by man in orange shirt, warm color, elevation view",warm color,elevation view,,3.374329815,0.495455533,2.111605076,1.294266083
+sd1.5_lowstep_222.jpg,"interior of cosmic highway created by the gods, cold color, top view",cold color,top view,,2.875399859,1.0679301,2.943352484,1.246660021
+sd1.5_lowstep_231.jpg,"a dramatic photo of a lion made of cotton candy, cold color, hyper detail",cold color,hyper detail,,3.685179175,0.448159721,2.737502173,0.519092617
+sd1.5_lowstep_232.jpg,"steampunk owl inside a glass jar buried in sand, warm color, soft lighting",warm color,soft lighting,,1.971039124,0.788795803,2.653500595,1.272977784
+sd1.5_lowstep_241.jpg,"breaking moon as seen from the surface of the moon, top view, hyper detail",top view,hyper detail,,0.143533905,0.95191775,0.589762748,0.512151847
+sd1.5_lowstep_242.jpg,"a living room with a black and white chevron floor, elevation view, blurred detail",elevation view,blurred detail,,3.671121754,0.418177472,2.988304467,1.043499654
+sd1.5_lowstep_251.jpg,"a brain with eyeballs peaking out between the folds, long-shot, hyper detail",long-shot,hyper detail,,3.093256891,0.700533529,3.3393159,0.428205936
+sd1.5_lowstep_252.jpg,"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",close-up,soft lighting,,3.673501579,0.396052881,2.504517295,0.376394706
+sd1.5_lowstep_261.jpg,"epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style",warm color,elevation view,sci-fi style,3.066652656,0.681147103,3.02250478,0.851429514
+sd1.5_lowstep_262.jpg,"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",cold color,top view,realistic style,2.613196015,0.447013669,3.150111597,0.362314336
+sd1.5_lowstep_271.jpg,"the gold skull coming out from open cracked marble head, cold color, hyper detail, sci-fi style",cold color,hyper detail,sci-fi style,4.04445907,0.631752941,3.202378717,0.631780127
+sd1.5_lowstep_272.jpg,"frontal portrait of female adult twins in the apocalypse, warm color, soft lighting, realistic style",warm color,soft lighting,realistic style,3.416483075,0.836991395,3.348349994,0.521865864
+sd1.5_lowstep_281.jpg,"portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style",top view,hyper detail,sci-fi style,2.975194143,0.689814161,3.61477839,0.577026476
+sd1.5_lowstep_282.jpg,"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",elevation view,blurred detail,realistic style,2.127265738,0.764236275,1.454923869,1.231673229
+sd1.5_lowstep_291.jpg,"oil painting portrait of anthropomorphic female green fox animal, long-shot, hyper detail, sci-fi style",long-shot,hyper detail,sci-fi style,2.687102292,0.478992916,2.817302903,0.58992336
+sd1.5_lowstep_292.jpg,"a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style",close-up,soft lighting,realistic style,3.045671512,0.670328759,2.848458594,0.928836011
+sd1.5_normal_001.jpg,a tray of sushi,,,,3.516316957,0.885299333,3.860433867,0.594770906
+sd1.5_normal_002.jpg,man lost in space,,,,2.7089479,0.842461074,3.191417702,0.482472292
+sd1.5_normal_011.jpg,the prince of the sun,,,,2.203182133,0.422209804,2.486100389,1.168908991
+sd1.5_normal_012.jpg,life bar and mana bar,,,,2.989757839,0.429197186,2.142312157,1.000489566
+sd1.5_normal_021.jpg,portrait of mecha robot,,,,3.29157139,0.445269554,3.763511558,0.591859564
+sd1.5_normal_022.jpg,panda chef in a kitchen,,,,2.600314118,0.917060762,2.868587123,0.984522835
+sd1.5_normal_031.jpg,black mickey mouse skull,,,,2.851759102,0.698872865,2.74673979,0.746797429
+sd1.5_normal_032.jpg,an emo portrait painting,,,,2.355888108,0.526639961,2.824058767,0.538260639
+sd1.5_normal_041.jpg,a raspberry made of metal,,,,3.274744941,0.755657843,1.9250157,0.822831973
+sd1.5_normal_042.jpg,a man jumping off a cliff,,,,2.763264791,0.736226076,3.447455747,0.535980761
+sd1.5_normal_051.jpg,hanging gardens of babylon,,,,3.279275256,0.519982969,3.592172903,0.418834137
+sd1.5_normal_052.jpg,concept art of giant ogres,,,,2.852156791,0.68146831,2.462224445,1.29259016
+sd1.5_normal_061.jpg,"a yellow rendition of venom, sci-fi style",,,sci-fi style,2.14357511,0.835865144,2.548396068,1.29137607
+sd1.5_normal_062.jpg,"a colour portrait of a king, realistic style",,,realistic style,3.221284286,0.503981296,3.307507387,0.490634808
+sd1.5_normal_071.jpg,"smart sri lanka buddhist monk, sci-fi style",,,sci-fi style,3.386504205,0.489863113,2.841551967,0.57283613
+sd1.5_normal_072.jpg,"painted portrait of snake man, realistic style",,,realistic style,2.359796059,0.648336764,2.11394401,0.999357393
+sd1.5_normal_081.jpg,"large purple lovecraftian void, sci-fi style",,,sci-fi style,1.237266363,0.741880859,2.629356055,1.251352555
+sd1.5_normal_082.jpg,"lanky young half - orc warrior, realistic style",,,realistic style,3.00308113,0.370702737,3.059123051,0.863088579
+sd1.5_normal_091.jpg,"ufo ignoring the laws of phyics, sci-fi style",,,sci-fi style,2.423784221,0.834796164,2.968775923,0.55618542
+sd1.5_normal_092.jpg,"steampunk walter white portrait , realistic style",,,realistic style,3.210551263,0.347661639,3.112865772,0.532267172
+sd1.5_normal_101.jpg,"a man playing an invisible cello, sci-fi style",,,sci-fi style,2.542752246,0.542004527,2.969682911,0.81350221
+sd1.5_normal_102.jpg,"a grand stag in a fantasy forest, realistic style",,,realistic style,3.490003257,0.797304639,3.374870467,0.58025695
+sd1.5_normal_111.jpg,"grand canyon full of potato salad, sci-fi style",,,sci-fi style,3.138913035,0.590777354,1.829511923,0.320232364
+sd1.5_normal_112.jpg,"gorgeous young scandanavian woman, realistic style",,,realistic style,3.127756575,0.598706097,3.054879367,0.714209477
+sd1.5_normal_121.jpg,"cute green tabby cat made of leaves, cold color",cold color,,,3.685179175,0.360482027,2.247297688,0.767187268
+sd1.5_normal_122.jpg,"chinese demon god character design, top view",top view,,,2.996365552,0.732795705,2.70330186,0.853829344
+sd1.5_normal_131.jpg,"cute fluffy baby panda lion hybrid , cold color",cold color,,,3.718303223,0.466944517,1.933414643,1.403902789
+sd1.5_normal_132.jpg,"a girl with rainbow in white shirt , top view",top view,,,2.090510173,0.533239076,3.038374121,1.377258381
+sd1.5_normal_141.jpg,"a portrait of girl bard in red dress, cold color",cold color,,,0.407182498,0.144939979,1.59075248,0.531859053
+sd1.5_normal_142.jpg,"a biomechanical passion fruit flower, top view",top view,,,3.129903806,0.806908325,3.00217219,1.173924227
+sd1.5_normal_151.jpg,"photo of a white fashion jewelry store, cold color",cold color,,,3.127756575,0.347850329,3.351167422,0.353034727
+sd1.5_normal_152.jpg,"grumpy the elder gods sitting in a bar, top view",top view,,,2.717733183,0.715172872,1.548541117,0.592762862
+sd1.5_normal_161.jpg,"cute fluffy baby lop eared bunny rabbit, cold color",cold color,,,3.136939761,0.420529841,3.239106761,0.636753764
+sd1.5_normal_162.jpg,"an industrial geometric temple lab room, top view",top view,,,3.472753415,0.518145443,3.374870467,0.569724014
+sd1.5_normal_171.jpg,"grumpy disney princess sitting in a cave, cold color",cold color,,,1.851568074,0.300052278,2.430025645,0.806387037
+sd1.5_normal_172.jpg,"art of a mimic from dungeons and dragons, top view",top view,,,1.921352979,1.023334936,2.47896401,0.991874856
+sd1.5_normal_181.jpg,"an underwater photo of coral in the ocean, cold color, sci-fi style",cold color,,sci-fi style,2.852156791,0.511581055,3.011371163,0.652671792
+sd1.5_normal_182.jpg,"a female warrior in charming phenix armor, top view, realistic style",top view,,realistic style,2.574642925,0.657907623,2.566500608,0.518613262
+sd1.5_normal_191.jpg,"cute fluffy golden teddy bear eating bagels, cold color, sci-fi style",cold color,,sci-fi style,3.008458905,0.27758835,3.10133505,0.613138271
+sd1.5_normal_192.jpg,"beautiful ancient temple in a formal garden, top view, realistic style",top view,,realistic style,3.127756575,0.434395421,3.517088733,0.320616138
+sd1.5_normal_201.jpg,"a gummy bear performing at woodstock concert, cold color, sci-fi style",cold color,,sci-fi style,2.346834335,0.387113778,2.677763969,0.749453132
+sd1.5_normal_202.jpg,"a biomechanical blue raspberry made of metal, top view, realistic style",top view,,realistic style,2.334263842,0.799157327,2.189718246,0.976568854
+sd1.5_normal_211.jpg,"a woman in a trench coat looking out a window, cold color, sci-fi style",cold color,,sci-fi style,2.586734895,1.026263103,3.080096813,0.489322101
+sd1.5_normal_212.jpg,"a glass vase of pink and white dahlia flowers, top view, realistic style",top view,,realistic style,3.455805152,0.489705099,3.269342324,0.448229185
+sd1.5_normal_221.jpg,"goose being zipped - up by man in orange shirt, warm color, elevation view",warm color,elevation view,,3.110506733,0.677794838,1.454923869,0.573590814
+sd1.5_normal_222.jpg,"interior of cosmic highway created by the gods, cold color, top view",cold color,top view,,3.136939761,0.828865183,3.239106761,0.799061433
+sd1.5_normal_231.jpg,"a dramatic photo of a lion made of cotton candy, cold color, hyper detail",cold color,hyper detail,,3.64048937,0.806897706,2.838030773,0.962532858
+sd1.5_normal_232.jpg,"steampunk owl inside a glass jar buried in sand, warm color, soft lighting",warm color,soft lighting,,3.539096649,0.447624656,3.721214248,0.314314294
+sd1.5_normal_241.jpg,"breaking moon as seen from the surface of the moon, top view, hyper detail",top view,hyper detail,,2.344386154,0.63920822,2.901806096,1.058235375
+sd1.5_normal_242.jpg,"a living room with a black and white chevron floor, elevation view, blurred detail",elevation view,blurred detail,,3.769523701,0.442638381,2.395499044,1.182543289
+sd1.5_normal_251.jpg,"a brain with eyeballs peaking out between the folds, long-shot, hyper detail",long-shot,hyper detail,,3.248505469,1.069490032,3.0193248,0.844841493
+sd1.5_normal_252.jpg,"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",close-up,soft lighting,,3.129903806,1.091988587,2.634813255,0.7087131
+sd1.5_normal_261.jpg,"epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style",warm color,elevation view,sci-fi style,2.941929382,1.101000837,2.917022056,0.943493265
+sd1.5_normal_262.jpg,"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",cold color,top view,realistic style,2.538526609,0.39545408,3.150111597,0.532816067
+sd1.5_normal_271.jpg,"the gold skull coming out from open cracked marble head, cold color, hyper detail, sci-fi style",cold color,hyper detail,sci-fi style,3.292854479,0.596901227,2.746134145,0.666043095
+sd1.5_normal_272.jpg,"frontal portrait of female adult twins in the apocalypse, warm color, soft lighting, realistic style",warm color,soft lighting,realistic style,2.334263842,0.56284114,3.043027845,0.658773822
+sd1.5_normal_281.jpg,"portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style",top view,hyper detail,sci-fi style,2.972896262,0.428016963,2.617418083,0.633548736
+sd1.5_normal_282.jpg,"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",elevation view,blurred detail,realistic style,2.176839871,1.408041032,1.797978878,0.629033035
+sd1.5_normal_291.jpg,"oil painting portrait of anthropomorphic female green fox animal, long-shot, hyper detail, sci-fi style",long-shot,hyper detail,sci-fi style,2.957803829,0.462964858,3.011371163,0.767728922
+sd1.5_normal_292.jpg,"a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style",close-up,soft lighting,realistic style,2.209981223,0.830768059,2.39277982,0.55787419
+xl2.2_normal_001.jpg,a tray of sushi,,,,3.823445557,1.092074401,3.812256598,0.551123902
+xl2.2_normal_002.jpg,man lost in space,,,,3.748750887,0.677341982,3.410425033,0.517093402
+xl2.2_normal_011.jpg,the prince of the sun,,,,3.524062705,1.060968213,3.627943604,0.606038082
+xl2.2_normal_012.jpg,life bar and mana bar,,,,3.601888857,0.416466271,1.019587617,1.234648149
+xl2.2_normal_021.jpg,portrait of mecha robot,,,,3.727517958,0.420694013,3.703773546,0.507640182
+xl2.2_normal_022.jpg,panda chef in a kitchen,,,,2.954193289,0.654214567,3.877512601,0.249321372
+xl2.2_normal_031.jpg,black mickey mouse skull,,,,3.727517958,0.334557438,0.564086878,0.635111809
+xl2.2_normal_032.jpg,an emo portrait painting,,,,3.150997182,0.228452955,3.432908534,0.809430058
+xl2.2_normal_041.jpg,a raspberry made of metal,,,,3.076007049,0.267370941,1.51418148,0.936711899
+xl2.2_normal_042.jpg,a man jumping off a cliff,,,,3.088457462,0.896793067,3.506852145,0.303933018
+xl2.2_normal_051.jpg,hanging gardens of babylon,,,,3.165054602,0.856642388,3.478508951,0.688891256
+xl2.2_normal_052.jpg,concept art of giant ogres,,,,3.591686053,0.339003413,3.548579908,0.502986972
+xl2.2_normal_061.jpg,"a yellow rendition of venom, sci-fi style",,,sci-fi style,3.235341707,0.970120249,3.364507908,0.797693524
+xl2.2_normal_062.jpg,"a colour portrait of a king, realistic style",,,realistic style,3.530547546,0.356877821,3.592509994,0.565509887
+xl2.2_normal_071.jpg,"smart sri lanka buddhist monk, sci-fi style",,,sci-fi style,3.890340281,0.405205889,3.336134858,0.960196292
+xl2.2_normal_072.jpg,"painted portrait of snake man, realistic style",,,realistic style,3.590592228,0.624604202,3.50945668,0.470565083
+xl2.2_normal_081.jpg,"large purple lovecraftian void, sci-fi style",,,sci-fi style,1.827559877,0.529236512,2.271926577,0.907286386
+xl2.2_normal_082.jpg,"lanky young half - orc warrior, realistic style",,,realistic style,3.502054974,0.321079495,3.019153218,0.866760123
+xl2.2_normal_091.jpg,"ufo ignoring the laws of phyics, sci-fi style",,,sci-fi style,3.662501677,0.745034586,3.659307,0.50748604
+xl2.2_normal_092.jpg,"steampunk walter white portrait , realistic style",,,realistic style,3.464427243,0.471391554,3.199772697,0.631785892
+xl2.2_normal_101.jpg,"a man playing an invisible cello, sci-fi style",,,sci-fi style,2.747600946,0.704339701,3.013543571,0.876285197
+xl2.2_normal_102.jpg,"a grand stag in a fantasy forest, realistic style",,,realistic style,3.244560073,0.761877701,2.963619274,0.902192059
+xl2.2_normal_111.jpg,"grand canyon full of potato salad, sci-fi style",,,sci-fi style,3.558662387,0.712251735,2.235897584,0.938260899
+xl2.2_normal_112.jpg,"gorgeous young scandanavian woman, realistic style",,,realistic style,3.360750593,0.721483737,3.480852014,0.459137976
+xl2.2_normal_121.jpg,"cute green tabby cat made of leaves, cold color",cold color,,,3.424268421,0.65961704,3.311978472,1.16805351
+xl2.2_normal_122.jpg,"chinese demon god character design, top view",top view,,,3.610752151,0.525088718,3.374870467,0.589255789
+xl2.2_normal_131.jpg,"cute fluffy baby panda lion hybrid , cold color",cold color,,,3.193169444,0.492226457,3.068105197,0.780094379
+xl2.2_normal_132.jpg,"a girl with rainbow in white shirt , top view",top view,,,3.628001993,0.638229396,3.114136978,0.672713311
+xl2.2_normal_141.jpg,"a portrait of girl bard in red dress, cold color",cold color,,,3.987113084,0.493537561,3.832951723,0.433304497
+xl2.2_normal_142.jpg,"a biomechanical passion fruit flower, top view",top view,,,3.195617381,0.848150671,3.907443374,0.534317129
+xl2.2_normal_151.jpg,"photo of a white fashion jewelry store, cold color",cold color,,,3.873342699,0.775669348,3.351474113,0.552258555
+xl2.2_normal_152.jpg,"grumpy the elder gods sitting in a bar, top view",top view,,,3.169097903,0.515785251,1.948891644,1.088770664
+xl2.2_normal_161.jpg,"cute fluffy baby lop eared bunny rabbit, cold color",cold color,,,3.701722739,0.470483743,3.665354297,0.452256588
+xl2.2_normal_162.jpg,"an industrial geometric temple lab room, top view",top view,,,3.673501579,0.360906935,2.653500595,0.441236859
+xl2.2_normal_171.jpg,"grumpy disney princess sitting in a cave, cold color",cold color,,,2.18011346,0.523941731,2.49210202,0.337978438
+xl2.2_normal_172.jpg,"art of a mimic from dungeons and dragons, top view",top view,,,2.771446817,0.511397973,2.429699357,1.136037706
+xl2.2_normal_181.jpg,"an underwater photo of coral in the ocean, cold color, sci-fi style",cold color,,sci-fi style,2.867249225,0.52783085,3.142688856,0.509894417
+xl2.2_normal_182.jpg,"a female warrior in charming phenix armor, top view, realistic style",top view,,realistic style,3.270286787,0.71606245,2.653500595,0.772479381
+xl2.2_normal_191.jpg,"cute fluffy golden teddy bear eating bagels, cold color, sci-fi style",cold color,,sci-fi style,2.842135098,0.65569072,2.877526414,0.899487904
+xl2.2_normal_192.jpg,"beautiful ancient temple in a formal garden, top view, realistic style",top view,,realistic style,3.679751519,0.863573691,3.137840023,0.446891223
+xl2.2_normal_201.jpg,"a gummy bear performing at woodstock concert, cold color, sci-fi style",cold color,,sci-fi style,2.777468708,0.440587102,2.889390821,0.992690502
+xl2.2_normal_202.jpg,"a biomechanical blue raspberry made of metal, top view, realistic style",top view,,realistic style,3.080710077,0.596315582,2.099096333,0.651755923
+xl2.2_normal_211.jpg,"a woman in a trench coat looking out a window, cold color, sci-fi style",cold color,,sci-fi style,3.502054974,0.522364935,3.458082253,0.678705786
+xl2.2_normal_212.jpg,"a glass vase of pink and white dahlia flowers, top view, realistic style",top view,,realistic style,3.44620302,0.734266256,2.62350113,0.890540346
+xl2.2_normal_221.jpg,"goose being zipped - up by man in orange shirt, warm color, elevation view",warm color,elevation view,,2.580492981,0.435749336,2.37865864,0.663218048
+xl2.2_normal_222.jpg,"interior of cosmic highway created by the gods, cold color, top view",cold color,top view,,2.403882268,0.436626732,2.689956442,0.498495305
+xl2.2_normal_231.jpg,"a dramatic photo of a lion made of cotton candy, cold color, hyper detail",cold color,hyper detail,,3.673198773,0.400529413,3.043538165,0.567187125
+xl2.2_normal_232.jpg,"steampunk owl inside a glass jar buried in sand, warm color, soft lighting",warm color,soft lighting,,3.568964411,0.451786903,3.708798973,0.666869221
+xl2.2_normal_241.jpg,"breaking moon as seen from the surface of the moon, top view, hyper detail",top view,hyper detail,,3.124885569,1.038664373,2.69321342,1.019386537
+xl2.2_normal_242.jpg,"a living room with a black and white chevron floor, elevation view, blurred detail",elevation view,blurred detail,,3.811695963,0.302064303,2.86290332,0.821523535
+xl2.2_normal_251.jpg,"a brain with eyeballs peaking out between the folds, long-shot, hyper detail",long-shot,hyper detail,,3.196755943,0.696953278,2.486006301,1.085155381
+xl2.2_normal_252.jpg,"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",close-up,soft lighting,,2.785504238,0.732482928,3.42150843,0.619728709
+xl2.2_normal_261.jpg,"epic vessel cage armor of interdimensional adventurer, warm color, elevation view, sci-fi style",warm color,elevation view,sci-fi style,3.386504205,0.716940324,2.900809578,0.678027895
+xl2.2_normal_262.jpg,"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",cold color,top view,realistic style,3.507253099,0.501559681,3.327464378,0.425184098
+xl2.2_normal_271.jpg,"the gold skull coming out from open cracked marble head, cold color, hyper detail, sci-fi style",cold color,hyper detail,sci-fi style,3.645251835,0.725683738,3.422276555,0.624728106
+xl2.2_normal_272.jpg,"frontal portrait of female adult twins in the apocalypse, warm color, soft lighting, realistic style",warm color,soft lighting,realistic style,3.658936789,0.673200826,3.531237092,0.448913691
+xl2.2_normal_281.jpg,"portrait of a philippine character in a scenic environment, top view, hyper detail, sci-fi style",top view,hyper detail,sci-fi style,2.852156791,0.604865507,2.247340947,0.93799862
+xl2.2_normal_282.jpg,"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",elevation view,blurred detail,realistic style,2.46452189,0.723313502,2.245190143,1.137271019
+xl2.2_normal_291.jpg,"oil painting portrait of anthropomorphic female green fox animal, long-shot, hyper detail, sci-fi style",long-shot,hyper detail,sci-fi style,3.238537588,0.610217418,3.10236099,0.716050342
+xl2.2_normal_292.jpg,"a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style",close-up,soft lighting,realistic style,2.104380621,0.843200564,2.263219881,1.081940199

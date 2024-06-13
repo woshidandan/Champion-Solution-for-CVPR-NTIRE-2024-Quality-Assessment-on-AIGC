@@ -1,0 +1,594 @@
+name,prompt,adj1,adj2,style,mos_quality,std_quality,mos_align,std_align
+AttnGAN_normal_002.jpg,man lost in space,,,,0.195283431,0.949402643,0.506802093,0.723514494
+AttnGAN_normal_008.jpg,joe biden very happy,,,,1.230273953,0.574807841,0.577911226,0.711439334
+AttnGAN_normal_012.jpg,life bar and mana bar,,,,1.337589887,0.548578888,0.936285696,0.523195868
+AttnGAN_normal_018.jpg,man hating his printer,,,,1.101434458,0.368267338,0.373079324,0.578466453
+AttnGAN_normal_022.jpg,panda chef in a kitchen,,,,1.428382741,0.692444828,0.784257411,0.776146893
+AttnGAN_normal_028.jpg,maroon to black gradient,,,,1.527555519,0.734475663,0.686697692,0.609546191
+AttnGAN_normal_032.jpg,an emo portrait painting,,,,1.057775532,0.612666679,0.803090148,0.525455468
+AttnGAN_normal_038.jpg,christmas at kelly family,,,,1.092275216,0.755572093,0.803090148,0.860914555
+AttnGAN_normal_042.jpg,a man jumping off a cliff,,,,1.253245361,0.403445987,1.004686321,1.301381217
+AttnGAN_normal_048.jpg,scottish highlands at dawn,,,,0.735230234,0.326858888,0.519696217,0.534904966
+AttnGAN_normal_052.jpg,concept art of giant ogres,,,,1.168900836,0.472985683,0.845084862,0.641668615
+AttnGAN_normal_058.jpg,hairy man in eagle costume,,,,1.000336846,0.358423691,0.69188714,0.358839142
+AttnGAN_normal_062.jpg,"a colour portrait of a king, realistic style",,,realistic style,0.901809839,0.404428381,0.833684757,0.435066391
+AttnGAN_normal_068.jpg,"yog sothoth chef in a kitchen, abstract style",,,abstract style,0.685643707,0.354790592,0.497452181,0.414730649
+AttnGAN_normal_072.jpg,"painted portrait of snake man, realistic style",,,realistic style,1.086342024,0.356270515,0.623776738,0.597267351
+AttnGAN_normal_078.jpg,"tree of life embroidered scene, abstract style",,,abstract style,0.970469084,0.524149704,0.393920539,0.468201514
+AttnGAN_normal_082.jpg,"lanky young half - orc warrior, realistic style",,,realistic style,0.905232817,0.414046621,0.516334989,0.532775663
+AttnGAN_normal_088.jpg,"a space shuttle flying in space, abstract style",,,abstract style,1.22513052,0.413156708,1.02748653,0.685047874
+AttnGAN_normal_092.jpg,"steampunk walter white portrait , realistic style",,,realistic style,0.845580156,0.476308659,0.54868215,0.600504075
+AttnGAN_normal_098.jpg,"cute fox in suit dancing in club, abstract style",,,abstract style,0.820802133,0.313167937,0.970817724,0.37635206
+AttnGAN_normal_102.jpg,"a grand stag in a fantasy forest, realistic style",,,realistic style,0.799027902,0.749671265,1.087526681,1.192546223
+AttnGAN_normal_108.jpg,"portrait of a dancing eagle woman, abstract style",,,abstract style,0.678279008,0.790858843,0.696426448,0.597760319
+AttnGAN_normal_112.jpg,"gorgeous young scandanavian woman, realistic style",,,realistic style,0.789350472,0.257226969,0.594282567,0.459973271
+AttnGAN_normal_118.jpg,"foxes judging a cheese competition, abstract style",,,abstract style,1.112367509,0.645308149,0.547283561,0.615938553
+AttnGAN_normal_122.jpg,"chinese demon god character design, top view",top view,,,1.1267749,0.730391994,0.672723404,0.802221475
+AttnGAN_normal_128.jpg,"portrait of a tang dynasty empress , soft lighting",soft lighting,,,0.557530114,0.98593987,0.54235666,0.626726228
+AttnGAN_normal_132.jpg,"a girl with rainbow in white shirt , top view",top view,,,1.29901447,0.844875178,0.158030314,0.446677932
+AttnGAN_normal_138.jpg,"render of dreamy beautiful landscape, soft lighting",soft lighting,,,0.880865797,0.317320028,2.380364545,0.786547584
+AttnGAN_normal_142.jpg,"a biomechanical passion fruit flower, top view",top view,,,0.807856712,0.451747229,0.842546938,0.900876161
+AttnGAN_normal_148.jpg,"a portrait painting of a buck in suit, soft lighting",soft lighting,,,0.749492217,0.424925055,0.641620949,0.585986517
+AttnGAN_normal_152.jpg,"grumpy the elder gods sitting in a bar, top view",top view,,,0.735230234,0.416405875,0.678198368,0.436174359
+AttnGAN_normal_158.jpg,"photograph of a stone cairn in scotland, soft lighting",soft lighting,,,0.912778941,0.610751777,0.968570405,0.590980929
+AttnGAN_normal_162.jpg,"an industrial geometric temple lab room, top view",top view,,,0.747278376,0.737136097,0.767535581,0.443774969
+AttnGAN_normal_168.jpg,"the celestial realm of the elven deities, soft lighting",soft lighting,,,1.012573225,0.600545307,0.876413908,0.739243317
+AttnGAN_normal_172.jpg,"art of a mimic from dungeons and dragons, top view",top view,,,0.940601322,0.307129064,1.101591216,0.223370827
+AttnGAN_normal_178.jpg,"a car crawling with human hands and feet, soft lighting",soft lighting,,,0.358179955,0.202805781,0.282183064,0.437292499
+AttnGAN_normal_182.jpg,"a female warrior in charming phenix armor, top view, realistic style",top view,,realistic style,1.010879855,0.442529208,0.373079324,0.430669632
+AttnGAN_normal_188.jpg,"portrait painting of a west hightland white, soft lighting, abstract style",soft lighting,,abstract style,1.252358797,0.496913564,1.137109539,1.334494852
+AttnGAN_normal_192.jpg,"beautiful ancient temple in a formal garden, top view, realistic style",top view,,realistic style,1.144024742,0.561674132,0.957159937,0.733296098
+AttnGAN_normal_198.jpg,"robots creating new robots in a factory line, soft lighting, abstract style",soft lighting,,abstract style,0.84859438,0.506466121,0.976132005,0.74858205
+AttnGAN_normal_202.jpg,"a biomechanical blue raspberry made of metal, top view, realistic style",top view,,realistic style,1.182958257,0.405681272,0.434681107,0.539991721
+AttnGAN_normal_208.jpg,"french fastfood adventure pixar movie poster , soft lighting, abstract style",soft lighting,,abstract style,1.264773637,0.647718197,1.277151036,0.895612517
+AttnGAN_normal_212.jpg,"a glass vase of pink and white dahlia flowers, top view, realistic style",top view,,realistic style,0.002134902,0.509602458,0.366280482,0.545963954
+AttnGAN_normal_218.jpg,"a masonic illuminati waiting room with a couch, soft lighting, abstract style",soft lighting,,abstract style,0.970807385,0.335987081,0.686697692,0.651149521
+AttnGAN_normal_222.jpg,"interior of cosmic highway created by the gods, cold color, top view",cold color,top view,,0.970807385,1.059752382,0.653301426,0.533368493
+AttnGAN_normal_228.jpg,"a kitten with two little goat horns on his head, warm color, blurred detail",warm color,blurred detail,,0.649658335,0.644355135,0.678198368,0.493500032
+AttnGAN_normal_232.jpg,"steampunk owl inside a glass jar buried in sand, warm color, soft lighting",warm color,soft lighting,,1.144024742,0.718163993,0.897902326,0.773252807
+AttnGAN_normal_238.jpg,"many bodies floating in an infinite lake of blood, elevation view, close-up",elevation view,close-up,,0.705005947,0.620384453,0.560082254,0.657624258
+AttnGAN_normal_242.jpg,"a living room with a black and white chevron floor, elevation view, blurred detail",elevation view,blurred detail,,0.865931916,0.347716294,0.344259439,0.634741668
+AttnGAN_normal_248.jpg,"a redhair beautiful girl wearing brown olive dress, close-up, blurred detail",close-up,blurred detail,,1.092275216,0.640218555,0.731981015,0.835387907
+AttnGAN_normal_252.jpg,"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",close-up,soft lighting,,0.749492217,0.431557706,0.909855359,1.120639411
+AttnGAN_normal_258.jpg,"black broken armor and helmet laying in wild flowers, hyper detail, soft lighting",hyper detail,soft lighting,,0.60416837,0.522302718,0.642169337,0.908668879
+AttnGAN_normal_262.jpg,"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",cold color,top view,realistic style,1.075025374,0.536841317,0.672723404,0.629217401
+AttnGAN_normal_268.jpg,"spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style",warm color,blurred detail,abstract style,1.04513849,0.350119049,1.424388367,1.214693485
+AttnGAN_normal_272.jpg,"frontal portrait of female adult twins in the apocalypse, warm color, soft lighting, realistic style",warm color,soft lighting,realistic style,0.79958578,0.384147354,0.432769184,0.469000019
+AttnGAN_normal_278.jpg,"dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style",elevation view,close-up,abstract style,1.213024111,0.765827455,1.146784292,0.559434403
+AttnGAN_normal_282.jpg,"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",elevation view,blurred detail,realistic style,1.128999889,0.681000061,1.008066046,0.454621569
+AttnGAN_normal_288.jpg,"a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style",close-up,blurred detail,abstract style,0.835015157,0.253986757,0.931603649,0.663803839
+AttnGAN_normal_292.jpg,"a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style",close-up,soft lighting,realistic style,1.006026006,0.731788712,1.158635814,0.946042119
+AttnGAN_normal_298.jpg,"photoreal portrait very intricate darkwar hunter wearing a black hoody, hyper detail, soft lighting, abstract style",hyper detail,soft lighting,abstract style,0.929411321,0.719773315,0.942239977,0.591814476
+DALLE2_normal_002.jpg,man lost in space,,,,2.855791343,0.640929112,2.908503737,0.836745771
+DALLE2_normal_012.jpg,life bar and mana bar,,,,2.792237956,1.089499638,2.69321342,0.892229676
+DALLE2_normal_018.jpg,man hating his printer,,,,2.476222723,0.379930019,2.903856842,1.315259636
+DALLE2_normal_022.jpg,panda chef in a kitchen,,,,2.568394371,0.508204609,4.118503049,0.567993321
+DALLE2_normal_028.jpg,maroon to black gradient,,,,1.104874015,0.746620722,1.809261893,1.138048759
+DALLE2_normal_032.jpg,an emo portrait painting,,,,2.478791084,1.026343194,2.777653346,0.550424752
+DALLE2_normal_038.jpg,christmas at kelly family,,,,2.520123245,0.641037714,2.927805358,0.703430582
+DALLE2_normal_042.jpg,a man jumping off a cliff,,,,3.231077294,0.860222223,2.958190852,1.293121376
+DALLE2_normal_048.jpg,scottish highlands at dawn,,,,3.259652507,0.433340294,3.572455852,0.420171213
+DALLE2_normal_052.jpg,concept art of giant ogres,,,,2.92075847,0.767190259,3.078582412,0.9195149
+DALLE2_normal_062.jpg,"a colour portrait of a king, realistic style",,,realistic style,3.401488261,0.709113958,3.547644548,0.949342644
+DALLE2_normal_068.jpg,"yog sothoth chef in a kitchen, abstract style",,,abstract style,2.293736737,0.525272753,1.793698006,0.830939638
+DALLE2_normal_072.jpg,"painted portrait of snake man, realistic style",,,realistic style,3.174029361,0.63508014,2.37295214,0.948266639
+DALLE2_normal_078.jpg,"tree of life embroidered scene, abstract style",,,abstract style,2.247254325,0.812249717,3.124625168,0.676973935
+DALLE2_normal_082.jpg,"lanky young half - orc warrior, realistic style",,,realistic style,1.821700312,0.411716488,1.809261893,1.02549582
+DALLE2_normal_088.jpg,"a space shuttle flying in space, abstract style",,,abstract style,3.334754679,0.773188707,3.517088733,0.262245683
+DALLE2_normal_092.jpg,"steampunk walter white portrait , realistic style",,,realistic style,2.974361596,0.553719554,2.433914506,1.0900711
+DALLE2_normal_098.jpg,"cute fox in suit dancing in club, abstract style",,,abstract style,2.120377936,0.544950258,3.001128296,0.685550494
+DALLE2_normal_102.jpg,"a grand stag in a fantasy forest, realistic style",,,realistic style,3.352004521,0.898085543,3.374870467,0.48128529
+DALLE2_normal_108.jpg,"portrait of a dancing eagle woman, abstract style",,,abstract style,1.619473192,0.837949082,1.87306074,1.423172588
+DALLE2_normal_112.jpg,"gorgeous young scandanavian woman, realistic style",,,realistic style,2.64254653,0.588156894,2.93018727,1.060021121
+DALLE2_normal_118.jpg,"foxes judging a cheese competition, abstract style",,,abstract style,1.747030906,0.19660676,3.274264347,0.918755709
+DALLE2_normal_122.jpg,"chinese demon god character design, top view",top view,,,1.961760789,1.252515082,2.092525257,1.360204547
+DALLE2_normal_128.jpg,"portrait of a tang dynasty empress , soft lighting",soft lighting,,,2.931575646,0.535264508,2.958190852,0.917319093
+DALLE2_normal_132.jpg,"a girl with rainbow in white shirt , top view",top view,,,3.402221092,1.008400409,3.64096935,0.458670749
+DALLE2_normal_138.jpg,"render of dreamy beautiful landscape, soft lighting",soft lighting,,,2.39306082,0.931456905,3.140830692,0.545854668
+DALLE2_normal_142.jpg,"a biomechanical passion fruit flower, top view",top view,,,2.14357511,0.892794556,2.443074357,0.883925442
+DALLE2_normal_148.jpg,"a portrait painting of a buck in suit, soft lighting",soft lighting,,,2.869848764,0.519797902,3.592509994,0.32224058
+DALLE2_normal_152.jpg,"grumpy the elder gods sitting in a bar, top view",top view,,,2.80733647,0.40600933,1.933414643,0.811384761
+DALLE2_normal_158.jpg,"photograph of a stone cairn in scotland, soft lighting",soft lighting,,,3.207226865,0.585044293,3.3417077,0.502017349
+DALLE2_normal_168.jpg,"the celestial realm of the elven deities, soft lighting",soft lighting,,,2.016407538,0.398392695,2.311982676,0.782362407
+DALLE2_normal_172.jpg,"art of a mimic from dungeons and dragons, top view",top view,,,3.359435142,0.432799213,1.763328481,1.503791291
+DALLE2_normal_178.jpg,"a car crawling with human hands and feet, soft lighting",soft lighting,,,2.410204999,0.914702789,2.211793876,0.768327417
+DALLE2_normal_182.jpg,"a female warrior in charming phenix armor, top view, realistic style",top view,,realistic style,2.939794687,0.768642655,3.035568457,0.662470489
+DALLE2_normal_188.jpg,"portrait painting of a west hightland white, soft lighting, abstract style",soft lighting,,abstract style,2.7089479,0.762192787,1.54386854,1.111350073
+DALLE2_normal_192.jpg,"beautiful ancient temple in a formal garden, top view, realistic style",top view,,realistic style,3.108728168,0.453790697,3.644083685,0.405556266
+DALLE2_normal_198.jpg,"robots creating new robots in a factory line, soft lighting, abstract style",soft lighting,,abstract style,2.478101113,0.451655666,2.935379657,0.51995562
+DALLE2_normal_202.jpg,"a biomechanical blue raspberry made of metal, top view, realistic style",top view,,realistic style,2.459590343,1.029855935,2.838030773,1.130269964
+DALLE2_normal_208.jpg,"french fastfood adventure pixar movie poster , soft lighting, abstract style",soft lighting,,abstract style,3.034849246,0.781899665,2.935379657,0.883199218
+DALLE2_normal_212.jpg,"a glass vase of pink and white dahlia flowers, top view, realistic style",top view,,realistic style,3.169097903,0.347911267,3.130750884,0.695654268
+DALLE2_normal_218.jpg,"a masonic illuminati waiting room with a couch, soft lighting, abstract style",soft lighting,,abstract style,2.908664621,0.647662277,2.416743929,0.701899006
+DALLE2_normal_222.jpg,"interior of cosmic highway created by the gods, cold color, top view",cold color,top view,,1.120303781,0.571813668,1.726751061,1.125012818
+DALLE2_normal_228.jpg,"a kitten with two little goat horns on his head, warm color, blurred detail",warm color,blurred detail,,3.224958365,0.610457342,2.812926678,0.694939994
+DALLE2_normal_232.jpg,"steampunk owl inside a glass jar buried in sand, warm color, soft lighting",warm color,soft lighting,,2.687102292,0.934906841,3.410108325,0.785431684
+DALLE2_normal_242.jpg,"a living room with a black and white chevron floor, elevation view, blurred detail",elevation view,blurred detail,,0.820802133,0.380746294,1.470709125,0.889649052
+DALLE2_normal_248.jpg,"a redhair beautiful girl wearing brown olive dress, close-up, blurred detail",close-up,blurred detail,,3.772795259,0.349832122,2.963619274,0.813639956
+DALLE2_normal_252.jpg,"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",close-up,soft lighting,,2.462183558,0.643627595,2.452499565,0.523719054
+DALLE2_normal_258.jpg,"black broken armor and helmet laying in wild flowers, hyper detail, soft lighting",hyper detail,soft lighting,,2.931575646,0.773533923,3.543429565,0.450308443
+DALLE2_normal_262.jpg,"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",cold color,top view,realistic style,3.380391978,0.62088835,3.118812912,0.633122495
+DALLE2_normal_268.jpg,"spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style",warm color,blurred detail,abstract style,1.351025623,0.628129096,1.811038675,0.926288778
+DALLE2_normal_278.jpg,"dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style",elevation view,close-up,abstract style,2.03716536,0.892695472,2.963619274,0.542330761
+DALLE2_normal_282.jpg,"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",elevation view,blurred detail,realistic style,2.616815188,0.649527204,2.452499565,1.104207328
+DALLE2_normal_288.jpg,"a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style",close-up,blurred detail,abstract style,2.339014038,1.01514267,2.784549692,0.717410768
+DALLE2_normal_292.jpg,"a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style",close-up,soft lighting,realistic style,2.505259558,0.873800794,3.180285613,0.687353059
+DALLE2_normal_298.jpg,"photoreal portrait very intricate darkwar hunter wearing a black hoody, hyper detail, soft lighting, abstract style",hyper detail,soft lighting,abstract style,3.428646707,0.570940011,3.603304992,0.405650554
+glide_normal_002.jpg,man lost in space,,,,0.508202054,0.913728813,0.902085383,0.586784713
+glide_normal_008.jpg,joe biden very happy,,,,1.599484777,0.377380508,1.519124647,1.464568543
+glide_normal_012.jpg,life bar and mana bar,,,,1.010879855,0.226619409,0.731218487,0.967764084
+glide_normal_018.jpg,man hating his printer,,,,0.778016184,0.473773542,0.26365428,0.164672594
+glide_normal_022.jpg,panda chef in a kitchen,,,,1.527555519,0.522455718,0.909339471,0.608624901
+glide_normal_028.jpg,maroon to black gradient,,,,1.310287954,0.46841795,1.209905872,0.624367824
+glide_normal_032.jpg,an emo portrait painting,,,,1.55289045,0.22121462,1.585786942,1.307099671
+glide_normal_038.jpg,christmas at kelly family,,,,1.291447579,0.465966876,1.909638159,1.053723941
+glide_normal_042.jpg,a man jumping off a cliff,,,,0.536272256,0.262779761,0.742358137,0.626394756
+glide_normal_048.jpg,scottish highlands at dawn,,,,2.630872609,0.887937929,2.452499565,1.279408958
+glide_normal_052.jpg,concept art of giant ogres,,,,1.177351713,0.539715068,1.446324178,0.886446827
+glide_normal_058.jpg,hairy man in eagle costume,,,,0.712802152,0.422377358,1.02066036,0.639804694
+glide_normal_062.jpg,"a colour portrait of a king, realistic style",,,realistic style,2.376428439,0.669542476,1.732152809,0.905865958
+glide_normal_068.jpg,"yog sothoth chef in a kitchen, abstract style",,,abstract style,1.432500959,0.459368528,0.497452181,0.290819267
+glide_normal_072.jpg,"painted portrait of snake man, realistic style",,,realistic style,0.693938742,0.437094032,1.316179121,0.805591297
+glide_normal_078.jpg,"tree of life embroidered scene, abstract style",,,abstract style,1.034731881,0.409632974,1.897445686,1.021906227
+glide_normal_082.jpg,"lanky young half - orc warrior, realistic style",,,realistic style,0.69922293,0.430660377,0.653301426,0.873003168
+glide_normal_088.jpg,"a space shuttle flying in space, abstract style",,,abstract style,1.086342024,0.711934289,2.139899198,1.127248295
+glide_normal_092.jpg,"steampunk walter white portrait , realistic style",,,realistic style,0.91586726,0.714305492,1.118687364,1.239855938
+glide_normal_098.jpg,"cute fox in suit dancing in club, abstract style",,,abstract style,1.419805428,0.203738096,1.714558588,0.5811903
+glide_normal_102.jpg,"a grand stag in a fantasy forest, realistic style",,,realistic style,0.223775025,0.263707727,0.431166364,0.344089767
+glide_normal_108.jpg,"portrait of a dancing eagle woman, abstract style",,,abstract style,2.138862877,0.502916652,1.608891849,0.790658744
+glide_normal_112.jpg,"gorgeous young scandanavian woman, realistic style",,,realistic style,1.006207915,0.483646191,0.519696217,0.427905339
+glide_normal_118.jpg,"foxes judging a cheese competition, abstract style",,,abstract style,0.507518767,0.289973409,0.927777366,1.308975039
+glide_normal_122.jpg,"chinese demon god character design, top view",top view,,,1.328588457,0.612021554,2.034952727,1.208356226
+glide_normal_128.jpg,"portrait of a tang dynasty empress , soft lighting",soft lighting,,,1.492221516,0.453091139,0.571482359,0.427726929
+glide_normal_132.jpg,"a girl with rainbow in white shirt , top view",top view,,,1.717163144,0.384809747,1.250574517,0.684631068
+glide_normal_138.jpg,"render of dreamy beautiful landscape, soft lighting",soft lighting,,,0.701659223,0.273446802,1.585786942,1.451410518
+glide_normal_142.jpg,"a biomechanical passion fruit flower, top view",top view,,,1.391281461,0.524722086,2.433914506,0.913868924
+glide_normal_148.jpg,"a portrait painting of a buck in suit, soft lighting",soft lighting,,,1.373683876,0.318550581,1.486464742,0.373860357
+glide_normal_152.jpg,"grumpy the elder gods sitting in a bar, top view",top view,,,0.887752418,0.424835218,1.26688872,0.774552914
+glide_normal_158.jpg,"photograph of a stone cairn in scotland, soft lighting",soft lighting,,,1.373098268,0.993008421,2.486100389,0.913861709
+glide_normal_162.jpg,"an industrial geometric temple lab room, top view",top view,,,1.309475045,0.549154226,1.255488616,0.659273528
+glide_normal_168.jpg,"the celestial realm of the elven deities, soft lighting",soft lighting,,,0.463704663,0.905442634,0.323474926,0.485157083
+glide_normal_172.jpg,"art of a mimic from dungeons and dragons, top view",top view,,,0.392090064,0.386079014,0.277575547,0.480763569
+glide_normal_178.jpg,"a car crawling with human hands and feet, soft lighting",soft lighting,,,0.658485261,0.40438436,0.631037248,0.613450795
+glide_normal_182.jpg,"a female warrior in charming phenix armor, top view, realistic style",top view,,realistic style,1.255971063,0.644909035,1.354623028,1.099963697
+glide_normal_188.jpg,"portrait painting of a west hightland white, soft lighting, abstract style",soft lighting,,abstract style,0.946043702,0.649256797,0.692100914,0.748421558
+glide_normal_192.jpg,"beautiful ancient temple in a formal garden, top view, realistic style",top view,,realistic style,0.879514179,0.741091111,1.732152809,0.829841522
+glide_normal_198.jpg,"robots creating new robots in a factory line, soft lighting, abstract style",soft lighting,,abstract style,0.363910379,0.885340067,0.139161932,0.52934417
+glide_normal_202.jpg,"a biomechanical blue raspberry made of metal, top view, realistic style",top view,,realistic style,0.612055936,0.412538319,1.511295292,1.005887899
+glide_normal_208.jpg,"french fastfood adventure pixar movie poster , soft lighting, abstract style",soft lighting,,abstract style,1.234399646,0.472239813,2.043755364,0.706285793
+glide_normal_212.jpg,"a glass vase of pink and white dahlia flowers, top view, realistic style",top view,,realistic style,1.537956569,0.400488835,2.852144996,1.09201758
+glide_normal_218.jpg,"a masonic illuminati waiting room with a couch, soft lighting, abstract style",soft lighting,,abstract style,0.943648939,0.823784321,0.742358137,0.783435394
+glide_normal_222.jpg,"interior of cosmic highway created by the gods, cold color, top view",cold color,top view,,1.461647503,0.595324829,1.389857248,1.102855681
+glide_normal_228.jpg,"a kitten with two little goat horns on his head, warm color, blurred detail",warm color,blurred detail,,1.248661629,0.609732839,0.629428475,0.677579137
+glide_normal_232.jpg,"steampunk owl inside a glass jar buried in sand, warm color, soft lighting",warm color,soft lighting,,0.775293051,0.206843695,0.594282567,0.598729336
+glide_normal_238.jpg,"many bodies floating in an infinite lake of blood, elevation view, close-up",elevation view,close-up,,0.016192323,0.37063858,0.503081733,0.589153547
+glide_normal_242.jpg,"a living room with a black and white chevron floor, elevation view, blurred detail",elevation view,blurred detail,,1.191989061,0.313013087,1.686256257,0.867478935
+glide_normal_248.jpg,"a redhair beautiful girl wearing brown olive dress, close-up, blurred detail",close-up,blurred detail,,0.649658335,0.384263359,0.507503744,0.331505594
+glide_normal_252.jpg,"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",close-up,soft lighting,,2.060642411,0.647826564,2.094813219,0.67915997
+glide_normal_258.jpg,"black broken armor and helmet laying in wild flowers, hyper detail, soft lighting",hyper detail,soft lighting,,0.873694997,0.614749815,0.560082254,0.417287079
+glide_normal_262.jpg,"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",cold color,top view,realistic style,0.820802133,0.45551633,0.556273636,0.81694682
+glide_normal_268.jpg,"spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style",warm color,blurred detail,abstract style,1.506271425,1.159340062,0.81494167,0.783830946
+glide_normal_272.jpg,"frontal portrait of female adult twins in the apocalypse, warm color, soft lighting, realistic style",warm color,soft lighting,realistic style,1.575270793,0.674070612,1.016417548,1.494094922
+glide_normal_278.jpg,"dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style",elevation view,close-up,abstract style,0.962676083,0.63218653,1.363526821,1.107640991
+glide_normal_282.jpg,"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",elevation view,blurred detail,realistic style,0.754308478,0.451027092,0.958039958,0.892057087
+glide_normal_288.jpg,"a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style",close-up,blurred detail,abstract style,0.058364586,0.319636166,0.537282046,0.547588214
+glide_normal_292.jpg,"a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style",close-up,soft lighting,realistic style,0.156054019,0.419366831,0.419527558,0.559305916
+glide_normal_298.jpg,"photoreal portrait very intricate darkwar hunter wearing a black hoody, hyper detail, soft lighting, abstract style",hyper detail,soft lighting,abstract style,0.319004692,0.263699105,0.564244714,0.673060845
+midjourney_lowstep_002.jpg,man lost in space,,,,2.576017007,0.636710141,3.259317616,0.610354445
+midjourney_lowstep_008.jpg,joe biden very happy,,,,2.74826005,0.280607807,3.588197866,0.29803017
+midjourney_lowstep_012.jpg,life bar and mana bar,,,,2.610261314,0.490237202,1.976390846,1.182303538
+midjourney_lowstep_018.jpg,man hating his printer,,,,2.505259558,0.33788971,3.436323658,0.845904873
+midjourney_lowstep_022.jpg,panda chef in a kitchen,,,,2.686140018,0.485625473,3.72764949,0.448157575
+midjourney_lowstep_028.jpg,maroon to black gradient,,,,1.877457019,0.671840807,1.482013745,1.369323381
+midjourney_lowstep_032.jpg,an emo portrait painting,,,,2.941741401,0.528265518,2.579008945,0.442937276
+midjourney_lowstep_038.jpg,christmas at kelly family,,,,2.279437086,0.649559041,2.828703007,1.094088316
+midjourney_lowstep_042.jpg,a man jumping off a cliff,,,,2.64254653,0.428792262,1.890135375,1.319796989
+midjourney_lowstep_048.jpg,scottish highlands at dawn,,,,1.713269529,0.623011002,2.486006301,1.05307304
+midjourney_lowstep_052.jpg,concept art of giant ogres,,,,1.527555519,0.27642482,2.890851301,0.756954899
+midjourney_lowstep_058.jpg,hairy man in eagle costume,,,,2.692443672,0.731774351,2.732709062,0.911978817
+midjourney_lowstep_062.jpg,"a colour portrait of a king, realistic style",,,realistic style,2.55346049,0.493727777,2.740407521,0.475325254
+midjourney_lowstep_068.jpg,"yog sothoth chef in a kitchen, abstract style",,,abstract style,1.006207915,0.217255663,1.458516652,1.206281034
+midjourney_lowstep_072.jpg,"painted portrait of snake man, realistic style",,,realistic style,2.844740127,0.723248592,2.846322945,0.67661553
+midjourney_lowstep_078.jpg,"tree of life embroidered scene, abstract style",,,abstract style,1.771981528,0.54563282,2.37877521,0.722280859
+midjourney_lowstep_082.jpg,"lanky young half - orc warrior, realistic style",,,realistic style,2.855791343,0.278071525,2.714701964,0.673135419
+midjourney_lowstep_088.jpg,"a space shuttle flying in space, abstract style",,,abstract style,1.946610757,0.615916575,3.142688856,1.034744675
+midjourney_lowstep_092.jpg,"steampunk walter white portrait , realistic style",,,realistic style,3.007007681,0.537773339,3.481534167,0.288748979
+midjourney_lowstep_098.jpg,"cute fox in suit dancing in club, abstract style",,,abstract style,2.989757839,0.762224664,3.635603955,0.302534464
+midjourney_lowstep_102.jpg,"a grand stag in a fantasy forest, realistic style",,,realistic style,2.73141732,0.645471592,3.345634382,0.506887645
+midjourney_lowstep_108.jpg,"portrait of a dancing eagle woman, abstract style",,,abstract style,3.224679853,0.958140586,3.27248283,0.664463679
+midjourney_lowstep_112.jpg,"gorgeous young scandanavian woman, realistic style",,,realistic style,3.231255627,0.563412826,3.410425033,0.605335419
+midjourney_lowstep_118.jpg,"foxes judging a cheese competition, abstract style",,,abstract style,2.446668218,0.551323166,2.921613433,0.459813536
+midjourney_lowstep_122.jpg,"chinese demon god character design, top view",top view,,,3.007007681,0.515410263,3.374870467,0.699379452
+midjourney_lowstep_128.jpg,"portrait of a tang dynasty empress , soft lighting",soft lighting,,,2.243369394,0.549053272,2.798535131,0.462046712
+midjourney_lowstep_132.jpg,"a girl with rainbow in white shirt , top view",top view,,,2.442957962,0.471319936,2.838030773,0.618081757
+midjourney_lowstep_138.jpg,"render of dreamy beautiful landscape, soft lighting",soft lighting,,,1.956105243,0.633426044,3.361171272,0.486962419
+midjourney_lowstep_142.jpg,"a biomechanical passion fruit flower, top view",top view,,,2.777468708,0.528018944,3.249433797,0.933364258
+midjourney_lowstep_148.jpg,"a portrait painting of a buck in suit, soft lighting",soft lighting,,,3.430745058,0.485540004,3.836048921,0.329967793
+midjourney_lowstep_152.jpg,"grumpy the elder gods sitting in a bar, top view",top view,,,2.301571217,0.381178874,2.857455034,0.658174918
+midjourney_lowstep_158.jpg,"photograph of a stone cairn in scotland, soft lighting",soft lighting,,,1.627559856,0.513306138,3.112865772,0.507362123
+midjourney_lowstep_162.jpg,"an industrial geometric temple lab room, top view",top view,,,1.505377327,1.051558806,2.60460913,0.683496427
+midjourney_lowstep_168.jpg,"the celestial realm of the elven deities, soft lighting",soft lighting,,,0.641923698,0.320680488,1.709939693,0.970860743
+midjourney_lowstep_172.jpg,"art of a mimic from dungeons and dragons, top view",top view,,,1.821700312,0.568021286,1.474049467,1.138108673
+midjourney_lowstep_178.jpg,"a car crawling with human hands and feet, soft lighting",soft lighting,,,2.000906886,0.342485137,3.212187972,0.772762228
+midjourney_lowstep_182.jpg,"a female warrior in charming phenix armor, top view, realistic style",top view,,realistic style,2.374253916,0.463461571,2.51693257,0.666409779
+midjourney_lowstep_188.jpg,"portrait painting of a west hightland white, soft lighting, abstract style",soft lighting,,abstract style,3.007007681,0.296995664,3.054879367,0.690740024
+midjourney_lowstep_192.jpg,"beautiful ancient temple in a formal garden, top view, realistic style",top view,,realistic style,1.597692094,0.78038786,3.137696322,0.255024718
+midjourney_lowstep_198.jpg,"robots creating new robots in a factory line, soft lighting, abstract style",soft lighting,,abstract style,1.299273321,1.04092346,2.74673979,1.173954028
+midjourney_lowstep_202.jpg,"a biomechanical blue raspberry made of metal, top view, realistic style",top view,,realistic style,2.616815188,0.302958524,2.965504258,0.715560625
+midjourney_lowstep_208.jpg,"french fastfood adventure pixar movie poster , soft lighting, abstract style",soft lighting,,abstract style,1.661520003,0.611957445,2.118609113,1.109787234
+midjourney_lowstep_212.jpg,"a glass vase of pink and white dahlia flowers, top view, realistic style",top view,,realistic style,2.532470662,0.718097356,2.395499044,0.440262611
+midjourney_lowstep_218.jpg,"a masonic illuminati waiting room with a couch, soft lighting, abstract style",soft lighting,,abstract style,3.407636041,0.774947742,3.114500264,0.451408875
+midjourney_lowstep_222.jpg,"interior of cosmic highway created by the gods, cold color, top view",cold color,top view,,1.3429134,0.502555949,3.094936968,0.636551644
+midjourney_lowstep_228.jpg,"a kitten with two little goat horns on his head, warm color, blurred detail",warm color,blurred detail,,2.67293154,0.287318724,2.305872894,1.186621358
+midjourney_lowstep_232.jpg,"steampunk owl inside a glass jar buried in sand, warm color, soft lighting",warm color,soft lighting,,2.600314118,0.831019588,2.90198339,0.88317074
+midjourney_lowstep_242.jpg,"a living room with a black and white chevron floor, elevation view, blurred detail",elevation view,blurred detail,,2.668210231,0.699627025,2.601416989,1.059530092
+midjourney_lowstep_248.jpg,"a redhair beautiful girl wearing brown olive dress, close-up, blurred detail",close-up,blurred detail,,3.002885562,0.533539888,3.421504833,0.387546359
+midjourney_lowstep_252.jpg,"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",close-up,soft lighting,,2.041016527,0.505244646,3.114136978,0.863650497
+midjourney_lowstep_258.jpg,"black broken armor and helmet laying in wild flowers, hyper detail, soft lighting",hyper detail,soft lighting,,1.815542197,0.927679319,2.338498523,0.972902113
+midjourney_lowstep_262.jpg,"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",cold color,top view,realistic style,2.785504238,0.277066746,2.520900191,0.56568677
+midjourney_lowstep_268.jpg,"spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style",warm color,blurred detail,abstract style,1.627020319,0.876551014,2.379342601,0.928487676
+midjourney_lowstep_272.jpg,"frontal portrait of female adult twins in the apocalypse, warm color, soft lighting, realistic style",warm color,soft lighting,realistic style,3.320012924,0.721461272,3.503116192,0.619248002
+midjourney_lowstep_278.jpg,"dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style",elevation view,close-up,abstract style,2.093677968,0.537264045,2.69321342,1.134503783
+midjourney_lowstep_282.jpg,"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",elevation view,blurred detail,realistic style,2.196265106,0.433113326,2.770442834,0.590231935
+midjourney_lowstep_288.jpg,"a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style",close-up,blurred detail,abstract style,2.96825071,0.713925119,3.10230551,1.036185438
+midjourney_lowstep_292.jpg,"a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style",close-up,soft lighting,realistic style,2.224915104,1.12764683,3.112865772,0.770640884
+midjourney_lowstep_298.jpg,"photoreal portrait very intricate darkwar hunter wearing a black hoody, hyper detail, soft lighting, abstract style",hyper detail,soft lighting,abstract style,2.565400547,0.62587957,2.689045915,0.72766169
+midjourney_normal_002.jpg,man lost in space,,,,3.912443678,0.2383012,3.609476773,0.425648521
+midjourney_normal_008.jpg,joe biden very happy,,,,2.736106345,0.64307607,3.391795303,0.805137727
+midjourney_normal_012.jpg,life bar and mana bar,,,,3.530547546,0.486796202,0.993286217,1.03687994
+midjourney_normal_018.jpg,man hating his printer,,,,3.887128521,0.29436002,3.762894082,0.754260516
+midjourney_normal_022.jpg,panda chef in a kitchen,,,,3.605176603,0.589711699,3.948399749,0.332678014
+midjourney_normal_028.jpg,maroon to black gradient,,,,2.546528083,0.8602909,2.338498523,1.716534757
+midjourney_normal_032.jpg,an emo portrait painting,,,,3.195617381,0.608302957,2.603839495,0.805435538
+midjourney_normal_038.jpg,christmas at kelly family,,,,3.688435461,0.24748921,3.919858649,0.342843287
+midjourney_normal_042.jpg,a man jumping off a cliff,,,,4.076497886,0.641375104,3.137840023,0.916460342
+midjourney_normal_048.jpg,scottish highlands at dawn,,,,3.797638542,1.082493276,3.50130916,0.850781365
+midjourney_normal_052.jpg,concept art of giant ogres,,,,3.524162768,0.49081556,2.790068621,1.537157932
+midjourney_normal_058.jpg,hairy man in eagle costume,,,,3.98539484,0.696850244,3.926135571,0.399518422
+midjourney_normal_062.jpg,"a colour portrait of a king, realistic style",,,realistic style,3.839810805,0.464018123,3.524109368,0.804895291
+midjourney_normal_068.jpg,"yog sothoth chef in a kitchen, abstract style",,,abstract style,3.530578941,0.628949085,2.324182247,1.279266346
+midjourney_normal_072.jpg,"painted portrait of snake man, realistic style",,,realistic style,3.330911176,0.700210869,2.360759667,1.07685647
+midjourney_normal_078.jpg,"tree of life embroidered scene, abstract style",,,abstract style,3.344956193,0.645564813,3.410832372,0.893313365
+midjourney_normal_082.jpg,"lanky young half - orc warrior, realistic style",,,realistic style,3.449493362,0.80687651,2.839729721,1.367512393
+midjourney_normal_088.jpg,"a space shuttle flying in space, abstract style",,,abstract style,3.643633817,0.66297103,3.212187972,0.681037795
+midjourney_normal_092.jpg,"steampunk walter white portrait , realistic style",,,realistic style,3.593502309,0.601946937,3.754119177,0.515938828
+midjourney_normal_098.jpg,"cute fox in suit dancing in club, abstract style",,,abstract style,3.195617381,0.653234111,3.187357422,0.71459478
+midjourney_normal_102.jpg,"a grand stag in a fantasy forest, realistic style",,,realistic style,4.162747096,0.794430273,3.718564611,0.481717094
+midjourney_normal_108.jpg,"portrait of a dancing eagle woman, abstract style",,,abstract style,4.093747728,0.678018268,3.469682644,0.473781805
+midjourney_normal_112.jpg,"gorgeous young scandanavian woman, realistic style",,,realistic style,4.191246327,0.582222135,3.717911141,0.962136034
+midjourney_normal_118.jpg,"foxes judging a cheese competition, abstract style",,,abstract style,3.601888857,0.34027011,3.482467199,0.588218906
+midjourney_normal_122.jpg,"chinese demon god character design, top view",top view,,,3.387909038,0.582215558,3.291606502,0.969510924
+midjourney_normal_128.jpg,"portrait of a tang dynasty empress , soft lighting",soft lighting,,,3.872866537,0.303373868,3.482467199,0.598289092
+midjourney_normal_132.jpg,"a girl with rainbow in white shirt , top view",top view,,,3.896040489,0.581125791,3.900312809,0.505798439
+midjourney_normal_138.jpg,"render of dreamy beautiful landscape, soft lighting",soft lighting,,,2.888789697,0.531110329,3.323965048,0.635594577
+midjourney_normal_142.jpg,"a biomechanical passion fruit flower, top view",top view,,,3.605176603,0.436461386,2.90198339,1.203525056
+midjourney_normal_148.jpg,"a portrait painting of a buck in suit, soft lighting",soft lighting,,,3.587626873,0.337469544,3.799471502,0.417299888
+midjourney_normal_152.jpg,"grumpy the elder gods sitting in a bar, top view",top view,,,3.357738899,0.805816426,3.430465396,0.72053618
+midjourney_normal_158.jpg,"photograph of a stone cairn in scotland, soft lighting",soft lighting,,,3.643633817,0.646199973,3.919858649,0.357348589
+midjourney_normal_162.jpg,"an industrial geometric temple lab room, top view",top view,,,3.305628811,0.325193793,3.239106761,0.722688396
+midjourney_normal_168.jpg,"the celestial realm of the elven deities, soft lighting",soft lighting,,,4.039666506,0.963442358,3.641108818,0.347551586
+midjourney_normal_172.jpg,"art of a mimic from dungeons and dragons, top view",top view,,,3.208047473,0.912775819,3.088169836,0.940454187
+midjourney_normal_178.jpg,"a car crawling with human hands and feet, soft lighting",soft lighting,,,3.305628811,0.563967461,1.574691536,0.666362574
+midjourney_normal_182.jpg,"a female warrior in charming phenix armor, top view, realistic style",top view,,realistic style,3.541752783,0.722994669,3.066730889,0.944390611
+midjourney_normal_188.jpg,"portrait painting of a west hightland white, soft lighting, abstract style",soft lighting,,abstract style,4.289152216,1.066529724,3.957073951,0.622421457
+midjourney_normal_192.jpg,"beautiful ancient temple in a formal garden, top view, realistic style",top view,,realistic style,3.806813177,0.914128652,3.917578309,0.592072241
+midjourney_normal_198.jpg,"robots creating new robots in a factory line, soft lighting, abstract style",soft lighting,,abstract style,3.707018893,1.070528025,3.404134969,0.627498465
+midjourney_normal_202.jpg,"a biomechanical blue raspberry made of metal, top view, realistic style",top view,,realistic style,3.416483075,0.768394039,2.982575799,1.04749759
+midjourney_normal_208.jpg,"french fastfood adventure pixar movie poster , soft lighting, abstract style",soft lighting,,abstract style,3.727517958,0.18079734,3.285944521,0.79068756
+midjourney_normal_212.jpg,"a glass vase of pink and white dahlia flowers, top view, realistic style",top view,,realistic style,3.143483028,0.812978089,3.158021435,1.017637634
+midjourney_normal_218.jpg,"a masonic illuminati waiting room with a couch, soft lighting, abstract style",soft lighting,,abstract style,3.361858495,0.76094139,2.885703528,0.452224995
+midjourney_normal_222.jpg,"interior of cosmic highway created by the gods, cold color, top view",cold color,top view,,3.024480393,0.920084687,3.410108325,0.421397505
+midjourney_normal_228.jpg,"a kitten with two little goat horns on his head, warm color, blurred detail",warm color,blurred detail,,3.319686232,0.322498018,3.159306031,1.025665151
+midjourney_normal_232.jpg,"steampunk owl inside a glass jar buried in sand, warm color, soft lighting",warm color,soft lighting,,3.673754131,0.806486852,3.522621893,0.559008113
+midjourney_normal_242.jpg,"a living room with a black and white chevron floor, elevation view, blurred detail",elevation view,blurred detail,,3.80790651,0.749185461,2.41761037,0.624680239
+midjourney_normal_248.jpg,"a redhair beautiful girl wearing brown olive dress, close-up, blurred detail",close-up,blurred detail,,3.531316317,0.474426945,3.524703964,0.33201639
+midjourney_normal_252.jpg,"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",close-up,soft lighting,,3.347801074,0.750706387,3.432908534,0.857000187
+midjourney_normal_258.jpg,"black broken armor and helmet laying in wild flowers, hyper detail, soft lighting",hyper detail,soft lighting,,3.923239841,0.812994361,3.812256598,0.448136985
+midjourney_normal_262.jpg,"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",cold color,top view,realistic style,3.781706499,0.390710651,3.52538037,0.497385914
+midjourney_normal_268.jpg,"spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style",warm color,blurred detail,abstract style,3.195617381,0.990744144,3.088035221,0.828012958
+midjourney_normal_272.jpg,"frontal portrait of female adult twins in the apocalypse, warm color, soft lighting, realistic style",warm color,soft lighting,realistic style,3.598832173,0.410260019,3.423247647,0.422974577
+midjourney_normal_278.jpg,"dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style",elevation view,close-up,abstract style,3.703369342,0.193081381,2.628670045,0.650331085
+midjourney_normal_282.jpg,"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",elevation view,blurred detail,realistic style,3.539096649,0.614388057,2.318288169,0.702413236
+midjourney_normal_288.jpg,"a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style",close-up,blurred detail,abstract style,2.903508628,1.168859904,3.374870467,0.505269732
+midjourney_normal_292.jpg,"a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style",close-up,soft lighting,realistic style,3.509228886,0.522888869,3.497739298,0.698934582
+midjourney_normal_298.jpg,"photoreal portrait very intricate darkwar hunter wearing a black hoody, hyper detail, soft lighting, abstract style",hyper detail,soft lighting,abstract style,3.730246705,0.357019202,3.543429565,0.400029237
+sd1.5_highcorr_002.jpg,man lost in space,,,,3.688435461,0.345028023,3.311510172,0.505871675
+sd1.5_highcorr_008.jpg,joe biden very happy,,,,3.330022312,0.575477002,4.106087774,0.37188477
+sd1.5_highcorr_012.jpg,life bar and mana bar,,,,3.093256891,0.410565617,2.059351502,1.156654434
+sd1.5_highcorr_018.jpg,man hating his printer,,,,2.674859949,0.617963761,2.311989774,1.068577956
+sd1.5_highcorr_022.jpg,panda chef in a kitchen,,,,2.5465021,0.633350225,3.506852145,0.366757999
+sd1.5_highcorr_028.jpg,maroon to black gradient,,,,0.713190373,0.890613963,1.152883399,1.316564835
+sd1.5_highcorr_032.jpg,an emo portrait painting,,,,2.389620285,0.517439159,2.653379023,1.355114235
+sd1.5_highcorr_038.jpg,christmas at kelly family,,,,2.65898745,0.532768026,2.452499565,0.927400639
+sd1.5_highcorr_042.jpg,a man jumping off a cliff,,,,2.927618961,0.508914931,3.787339351,0.573071204
+sd1.5_highcorr_048.jpg,scottish highlands at dawn,,,,4.039711731,0.409328398,3.93726766,0.725572118
+sd1.5_highcorr_052.jpg,concept art of giant ogres,,,,3.063450866,0.553394699,3.369510326,0.702509894
+sd1.5_highcorr_058.jpg,hairy man in eagle costume,,,,3.136939761,0.508817674,3.58110989,0.417471873
+sd1.5_highcorr_062.jpg,"a colour portrait of a king, realistic style",,,realistic style,3.292854479,0.465777148,3.180285613,0.930060704
+sd1.5_highcorr_068.jpg,"yog sothoth chef in a kitchen, abstract style",,,abstract style,2.938008313,0.895728784,1.478626914,0.781446452
+sd1.5_highcorr_072.jpg,"painted portrait of snake man, realistic style",,,realistic style,1.954767317,0.897682803,2.687482179,0.587787579
+sd1.5_highcorr_078.jpg,"tree of life embroidered scene, abstract style",,,abstract style,3.093635734,0.661875301,3.047185079,0.534819491
+sd1.5_highcorr_082.jpg,"lanky young half - orc warrior, realistic style",,,realistic style,0.4524598,0.325296124,0.886412125,0.52887676
+sd1.5_highcorr_088.jpg,"a space shuttle flying in space, abstract style",,,abstract style,3.016410807,0.691599545,2.752822796,0.941943519
+sd1.5_highcorr_092.jpg,"steampunk walter white portrait , realistic style",,,realistic style,3.460260441,0.430027694,3.18210624,0.773456044
+sd1.5_highcorr_098.jpg,"cute fox in suit dancing in club, abstract style",,,abstract style,1.971039124,0.484404746,2.54176312,0.721839723
+sd1.5_highcorr_102.jpg,"a grand stag in a fantasy forest, realistic style",,,realistic style,3.305628811,0.421683211,3.18210624,0.754461624
+sd1.5_highcorr_108.jpg,"portrait of a dancing eagle woman, abstract style",,,abstract style,2.988623579,1.203449631,2.568031711,1.427273358
+sd1.5_highcorr_112.jpg,"gorgeous young scandanavian woman, realistic style",,,realistic style,2.86026573,0.440992951,2.628994077,1.036316266
+sd1.5_highcorr_118.jpg,"foxes judging a cheese competition, abstract style",,,abstract style,2.111462098,0.859741196,2.679341611,0.903825088
+sd1.5_highcorr_122.jpg,"chinese demon god character design, top view",top view,,,0.331720329,0.164938718,1.089357651,0.891027716
+sd1.5_highcorr_128.jpg,"portrait of a tang dynasty empress , soft lighting",soft lighting,,,3.238537588,0.412408144,3.369531125,0.641940482
+sd1.5_highcorr_132.jpg,"a girl with rainbow in white shirt , top view",top view,,,2.822270352,0.68537227,1.784431343,0.801535975
+sd1.5_highcorr_138.jpg,"render of dreamy beautiful landscape, soft lighting",soft lighting,,,3.265755311,0.686139538,3.256355245,0.926042319
+sd1.5_highcorr_142.jpg,"a biomechanical passion fruit flower, top view",top view,,,2.592649388,1.01832015,2.258761363,1.300187271
+sd1.5_highcorr_148.jpg,"a portrait painting of a buck in suit, soft lighting",soft lighting,,,3.510122043,0.64975446,2.100472987,0.552786523
+sd1.5_highcorr_152.jpg,"grumpy the elder gods sitting in a bar, top view",top view,,,3.386504205,0.644463833,1.549736047,0.846464713
+sd1.5_highcorr_158.jpg,"photograph of a stone cairn in scotland, soft lighting",soft lighting,,,3.211379142,1.051008477,3.180285613,1.247387411
+sd1.5_highcorr_162.jpg,"an industrial geometric temple lab room, top view",top view,,,3.359435142,0.430096954,2.653379023,0.965316204
+sd1.5_highcorr_168.jpg,"the celestial realm of the elven deities, soft lighting",soft lighting,,,2.806879489,0.616069006,3.548579908,0.51262523
+sd1.5_highcorr_172.jpg,"art of a mimic from dungeons and dragons, top view",top view,,,1.92623748,0.659518234,1.995491019,0.863633346
+sd1.5_highcorr_178.jpg,"a car crawling with human hands and feet, soft lighting",soft lighting,,,2.788955814,0.773983212,2.251027408,1.087482857
+sd1.5_highcorr_182.jpg,"a female warrior in charming phenix armor, top view, realistic style",top view,,realistic style,3.214005785,0.487492188,2.486006301,0.899949787
+sd1.5_highcorr_188.jpg,"portrait painting of a west hightland white, soft lighting, abstract style",soft lighting,,abstract style,1.478221045,0.173463242,1.461634192,0.638610374
+sd1.5_highcorr_192.jpg,"beautiful ancient temple in a formal garden, top view, realistic style",top view,,realistic style,3.116981428,0.953992013,3.543429565,0.546592727
+sd1.5_highcorr_198.jpg,"robots creating new robots in a factory line, soft lighting, abstract style",soft lighting,,abstract style,3.387909038,0.447834289,3.124625168,0.445591657
+sd1.5_highcorr_202.jpg,"a biomechanical blue raspberry made of metal, top view, realistic style",top view,,realistic style,2.434068716,0.932946916,2.076296124,1.084759347
+sd1.5_highcorr_208.jpg,"french fastfood adventure pixar movie poster , soft lighting, abstract style",soft lighting,,abstract style,2.785504238,0.509738437,2.94270405,0.453333483
+sd1.5_highcorr_212.jpg,"a glass vase of pink and white dahlia flowers, top view, realistic style",top view,,realistic style,3.274744941,0.507018036,2.880053469,1.147006976
+sd1.5_highcorr_218.jpg,"a masonic illuminati waiting room with a couch, soft lighting, abstract style",soft lighting,,abstract style,4.107607845,0.785963516,3.425191569,0.705362989
+sd1.5_highcorr_222.jpg,"interior of cosmic highway created by the gods, cold color, top view",cold color,top view,,3.108253189,0.823332793,3.114500264,0.489105108
+sd1.5_highcorr_228.jpg,"a kitten with two little goat horns on his head, warm color, blurred detail",warm color,blurred detail,,2.583328253,0.436221945,2.268627069,0.799837651
+sd1.5_highcorr_232.jpg,"steampunk owl inside a glass jar buried in sand, warm color, soft lighting",warm color,soft lighting,,3.530547546,0.314600815,3.02250478,0.606152192
+sd1.5_highcorr_238.jpg,"many bodies floating in an infinite lake of blood, elevation view, close-up",elevation view,close-up,,2.14357511,1.212877871,2.469404785,1.273188063
+sd1.5_highcorr_242.jpg,"a living room with a black and white chevron floor, elevation view, blurred detail",elevation view,blurred detail,,3.150815738,0.258144905,2.839729721,0.408636425
+sd1.5_highcorr_248.jpg,"a redhair beautiful girl wearing brown olive dress, close-up, blurred detail",close-up,blurred detail,,1.690506192,0.514905259,2.345378943,0.683353005
+sd1.5_highcorr_252.jpg,"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",close-up,soft lighting,,2.782759734,0.673960326,3.315612856,0.625153811
+sd1.5_highcorr_258.jpg,"black broken armor and helmet laying in wild flowers, hyper detail, soft lighting",hyper detail,soft lighting,,3.345173159,0.383437773,3.189847843,0.620576386
+sd1.5_highcorr_262.jpg,"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",cold color,top view,realistic style,3.428646707,0.7757438,3.436323658,0.718756838
+sd1.5_highcorr_268.jpg,"spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style",warm color,blurred detail,abstract style,2.575026067,1.170373598,3.17765537,0.9967889
+sd1.5_highcorr_272.jpg,"frontal portrait of female adult twins in the apocalypse, warm color, soft lighting, realistic style",warm color,soft lighting,realistic style,2.989757839,0.739284785,3.078582412,0.691078164
+sd1.5_highcorr_278.jpg,"dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style",elevation view,close-up,abstract style,0.402281536,0.936608861,1.289002558,0.918706739
+sd1.5_highcorr_282.jpg,"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",elevation view,blurred detail,realistic style,1.750409116,0.482943362,2.784549692,0.649201238
+sd1.5_highcorr_288.jpg,"a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style",close-up,blurred detail,abstract style,1.750409116,0.348306235,2.474162417,1.02075112
+sd1.5_highcorr_292.jpg,"a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style",close-up,soft lighting,realistic style,2.110748036,0.790278689,2.657701443,0.510665765
+sd1.5_highcorr_298.jpg,"photoreal portrait very intricate darkwar hunter wearing a black hoody, hyper detail, soft lighting, abstract style",hyper detail,soft lighting,abstract style,3.421003889,0.453035157,3.469682644,0.618666113
+sd1.5_lowcorr_002.jpg,man lost in space,,,,2.659178911,0.756436473,2.956517697,0.896497904
+sd1.5_lowcorr_008.jpg,joe biden very happy,,,,3.238537588,0.450337076,3.491984103,0.807906209
+sd1.5_lowcorr_012.jpg,life bar and mana bar,,,,2.627511156,0.492987338,1.454923869,0.835780542
+sd1.5_lowcorr_018.jpg,man hating his printer,,,,2.776844014,0.635934855,1.944623742,1.01590336
+sd1.5_lowcorr_022.jpg,panda chef in a kitchen,,,,3.257944615,0.886491428,2.877526414,0.460652316
+sd1.5_lowcorr_028.jpg,maroon to black gradient,,,,0.577009925,1.167318011,0.642169337,0.716782899
+sd1.5_lowcorr_032.jpg,an emo portrait painting,,,,3.240419025,0.585332937,2.951467196,0.381386511
+sd1.5_lowcorr_038.jpg,christmas at kelly family,,,,3.727351438,0.303214847,3.695110932,0.677353447
+sd1.5_lowcorr_042.jpg,a man jumping off a cliff,,,,3.335114676,0.75794871,2.330906752,1.063907569
+sd1.5_lowcorr_048.jpg,scottish highlands at dawn,,,,3.572719808,0.605618532,3.455708742,0.836237302
+sd1.5_lowcorr_052.jpg,concept art of giant ogres,,,,3.229467639,0.491495294,3.72764949,0.430043653
+sd1.5_lowcorr_058.jpg,hairy man in eagle costume,,,,2.888789697,0.540522204,3.275195155,0.476954865
+sd1.5_lowcorr_062.jpg,"a colour portrait of a king, realistic style",,,realistic style,3.419625599,0.646762789,3.671553148,0.510074716
+sd1.5_lowcorr_068.jpg,"yog sothoth chef in a kitchen, abstract style",,,abstract style,1.48681785,0.586860559,0.575376803,0.693930726
+sd1.5_lowcorr_072.jpg,"painted portrait of snake man, realistic style",,,realistic style,2.598262134,0.454270375,2.628670045,0.940463711
+sd1.5_lowcorr_078.jpg,"tree of life embroidered scene, abstract style",,,abstract style,2.817479781,1.345106116,3.445889779,1.0500641
+sd1.5_lowcorr_082.jpg,"lanky young half - orc warrior, realistic style",,,realistic style,2.423784221,0.450350728,2.968775923,0.684165507
+sd1.5_lowcorr_088.jpg,"a space shuttle flying in space, abstract style",,,abstract style,2.545997226,0.607744007,2.556888633,0.947716349
+sd1.5_lowcorr_092.jpg,"steampunk walter white portrait , realistic style",,,realistic style,3.263456549,0.258187736,2.988304467,0.527167538
+sd1.5_lowcorr_098.jpg,"cute fox in suit dancing in club, abstract style",,,abstract style,2.746169865,0.433195486,2.37295214,0.805978198
+sd1.5_lowcorr_102.jpg,"a grand stag in a fantasy forest, realistic style",,,realistic style,2.761602188,0.618467558,2.509976334,0.722559049
+sd1.5_lowcorr_108.jpg,"portrait of a dancing eagle woman, abstract style",,,abstract style,1.747030906,0.879954158,2.430025645,1.264995298
+sd1.5_lowcorr_112.jpg,"gorgeous young scandanavian woman, realistic style",,,realistic style,3.714251203,0.556010456,3.5526433,0.920783175
+sd1.5_lowcorr_118.jpg,"foxes judging a cheese competition, abstract style",,,abstract style,2.687102292,0.768805409,2.737502173,0.786996345
+sd1.5_lowcorr_122.jpg,"chinese demon god character design, top view",top view,,,3.041723666,0.844090638,3.351474113,0.650915208
+sd1.5_lowcorr_128.jpg,"portrait of a tang dynasty empress , soft lighting",soft lighting,,,2.926215464,0.666662471,3.035568457,0.555828567
+sd1.5_lowcorr_132.jpg,"a girl with rainbow in white shirt , top view",top view,,,0.713190373,0.723813015,1.416187676,0.982283038
+sd1.5_lowcorr_138.jpg,"render of dreamy beautiful landscape, soft lighting",soft lighting,,,3.757702826,0.623705811,3.906719072,0.535626699
+sd1.5_lowcorr_142.jpg,"a biomechanical passion fruit flower, top view",top view,,,2.559384627,0.809880346,2.798535131,1.033574331
+sd1.5_lowcorr_148.jpg,"a portrait painting of a buck in suit, soft lighting",soft lighting,,,3.093635734,0.594947988,3.417262215,0.738504666
+sd1.5_lowcorr_152.jpg,"grumpy the elder gods sitting in a bar, top view",top view,,,2.11262753,0.485970622,2.31896878,0.892387839
+sd1.5_lowcorr_158.jpg,"photograph of a stone cairn in scotland, soft lighting",soft lighting,,,3.048358432,0.695799891,3.190440744,0.764418105
+sd1.5_lowcorr_162.jpg,"an industrial geometric temple lab room, top view",top view,,,3.14151795,1.122545346,2.996013339,1.164068976
+sd1.5_lowcorr_168.jpg,"the celestial realm of the elven deities, soft lighting",soft lighting,,,3.058356047,0.960122431,3.535787107,0.362736725
+sd1.5_lowcorr_172.jpg,"art of a mimic from dungeons and dragons, top view",top view,,,2.681789454,0.873922316,2.879719212,1.371679293
+sd1.5_lowcorr_178.jpg,"a car crawling with human hands and feet, soft lighting",soft lighting,,,2.326531297,0.622553485,1.297700751,1.313642588
+sd1.5_lowcorr_182.jpg,"a female warrior in charming phenix armor, top view, realistic style",top view,,realistic style,3.074195478,0.287917391,2.202257515,0.929140436
+sd1.5_lowcorr_188.jpg,"portrait painting of a west hightland white, soft lighting, abstract style",soft lighting,,abstract style,1.702229262,0.272857513,2.59142422,0.545337372
+sd1.5_lowcorr_192.jpg,"beautiful ancient temple in a formal garden, top view, realistic style",top view,,realistic style,2.689121932,0.975464223,3.299580101,0.351749682
+sd1.5_lowcorr_198.jpg,"robots creating new robots in a factory line, soft lighting, abstract style",soft lighting,,abstract style,3.058356047,1.070841754,3.140830692,0.42656272
+sd1.5_lowcorr_202.jpg,"a biomechanical blue raspberry made of metal, top view, realistic style",top view,,realistic style,2.426325581,1.043680837,2.140274438,0.767244276
+sd1.5_lowcorr_208.jpg,"french fastfood adventure pixar movie poster , soft lighting, abstract style",soft lighting,,abstract style,3.214005785,0.789447695,2.948215667,0.55667117
+sd1.5_lowcorr_212.jpg,"a glass vase of pink and white dahlia flowers, top view, realistic style",top view,,realistic style,2.671047584,0.832447817,2.641294027,1.071829561
+sd1.5_lowcorr_218.jpg,"a masonic illuminati waiting room with a couch, soft lighting, abstract style",soft lighting,,abstract style,3.43455948,0.507417663,3.137696322,0.293137554
+sd1.5_lowcorr_222.jpg,"interior of cosmic highway created by the gods, cold color, top view",cold color,top view,,1.991888058,1.144725849,3.094936968,0.940674948
+sd1.5_lowcorr_228.jpg,"a kitten with two little goat horns on his head, warm color, blurred detail",warm color,blurred detail,,3.291209376,0.87041229,2.653717779,1.14762394
+sd1.5_lowcorr_232.jpg,"steampunk owl inside a glass jar buried in sand, warm color, soft lighting",warm color,soft lighting,,3.524062705,0.659239873,3.469961038,0.638353867
+sd1.5_lowcorr_238.jpg,"many bodies floating in an infinite lake of blood, elevation view, close-up",elevation view,close-up,,2.000906886,0.699046062,2.380364545,0.651670405
+sd1.5_lowcorr_242.jpg,"a living room with a black and white chevron floor, elevation view, blurred detail",elevation view,blurred detail,,3.723651273,0.923835854,3.022343767,1.51905941
+sd1.5_lowcorr_248.jpg,"a redhair beautiful girl wearing brown olive dress, close-up, blurred detail",close-up,blurred detail,,0.100536848,0.474052702,0.423281003,0.489687255
+sd1.5_lowcorr_252.jpg,"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",close-up,soft lighting,,2.448126137,0.580309637,2.634901234,0.468996724
+sd1.5_lowcorr_258.jpg,"black broken armor and helmet laying in wild flowers, hyper detail, soft lighting",hyper detail,soft lighting,,3.359435142,0.651108825,2.494876872,0.516409604
+sd1.5_lowcorr_262.jpg,"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",cold color,top view,realistic style,3.283005153,0.594159354,3.3393159,0.340031865
+sd1.5_lowcorr_268.jpg,"spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style",warm color,blurred detail,abstract style,3.438253731,0.875054511,2.794145879,1.00038733
+sd1.5_lowcorr_272.jpg,"frontal portrait of female adult twins in the apocalypse, warm color, soft lighting, realistic style",warm color,soft lighting,realistic style,2.474845943,1.025894557,2.784549692,0.710307937
+sd1.5_lowcorr_278.jpg,"dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style",elevation view,close-up,abstract style,1.991888058,0.755173968,2.139899198,1.044993347
+sd1.5_lowcorr_282.jpg,"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",elevation view,blurred detail,realistic style,1.991888058,0.389753051,1.996643532,0.882399331
+sd1.5_lowcorr_288.jpg,"a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style",close-up,blurred detail,abstract style,2.196265106,0.554196102,3.054879367,0.637238784
+sd1.5_lowcorr_292.jpg,"a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style",close-up,soft lighting,realistic style,0.943982102,0.519215869,2.349898627,0.867475865
+sd1.5_lowcorr_298.jpg,"photoreal portrait very intricate darkwar hunter wearing a black hoody, hyper detail, soft lighting, abstract style",hyper detail,soft lighting,abstract style,3.472753415,0.909066086,2.995621756,0.518030745
+sd1.5_lowstep_002.jpg,man lost in space,,,,2.941741401,0.587283324,3.584646223,0.413518818
+sd1.5_lowstep_008.jpg,joe biden very happy,,,,2.598262134,0.296827369,3.832951723,0.606471401
+sd1.5_lowstep_012.jpg,life bar and mana bar,,,,2.093677968,0.599045989,1.758483236,1.173974248
+sd1.5_lowstep_018.jpg,man hating his printer,,,,3.062007692,0.23845813,2.189529698,1.047998823
+sd1.5_lowstep_022.jpg,panda chef in a kitchen,,,,2.776694622,0.598887109,2.462224445,1.077395701
+sd1.5_lowstep_028.jpg,maroon to black gradient,,,,1.313948351,0.482293295,1.920999368,1.261267856
+sd1.5_lowstep_032.jpg,an emo portrait painting,,,,2.274412771,0.587751302,2.389907299,0.734107688
+sd1.5_lowstep_038.jpg,christmas at kelly family,,,,3.524162768,0.534315477,3.386001822,0.757400808
+sd1.5_lowstep_042.jpg,a man jumping off a cliff,,,,3.231077294,0.69448833,3.787279028,0.592418874
+sd1.5_lowstep_048.jpg,scottish highlands at dawn,,,,3.316649193,0.842205713,3.336157521,0.638051125
+sd1.5_lowstep_052.jpg,concept art of giant ogres,,,,2.867071995,0.446989912,3.808121173,0.43081433
+sd1.5_lowstep_058.jpg,hairy man in eagle costume,,,,0.580131327,0.784437885,0.757926983,0.490602063
+sd1.5_lowstep_062.jpg,"a colour portrait of a king, realistic style",,,realistic style,3.059933495,0.269612213,3.189847843,0.592214113
+sd1.5_lowstep_068.jpg,"yog sothoth chef in a kitchen, abstract style",,,abstract style,2.318310369,0.457068269,1.531671491,1.248312487
+sd1.5_lowstep_072.jpg,"painted portrait of snake man, realistic style",,,realistic style,2.671047584,0.465007827,2.342844724,1.04191989
+sd1.5_lowstep_078.jpg,"tree of life embroidered scene, abstract style",,,abstract style,3.074195478,0.624005707,3.214232789,0.613594159
+sd1.5_lowstep_082.jpg,"lanky young half - orc warrior, realistic style",,,realistic style,2.687102292,0.591023703,2.726102068,1.00112242
+sd1.5_lowstep_088.jpg,"a space shuttle flying in space, abstract style",,,abstract style,2.188089699,0.526953369,2.987495218,0.506771856
+sd1.5_lowstep_092.jpg,"steampunk walter white portrait , realistic style",,,realistic style,2.991826524,0.643467635,3.075004622,0.754976498
+sd1.5_lowstep_098.jpg,"cute fox in suit dancing in club, abstract style",,,abstract style,2.006980492,0.470267792,2.37865864,0.864523692
+sd1.5_lowstep_102.jpg,"a grand stag in a fantasy forest, realistic style",,,realistic style,3.361858495,0.420831429,3.353107804,0.498555214
+sd1.5_lowstep_108.jpg,"portrait of a dancing eagle woman, abstract style",,,abstract style,2.586734895,0.675678523,2.991040101,1.211330807
+sd1.5_lowstep_112.jpg,"gorgeous young scandanavian woman, realistic style",,,realistic style,3.490797944,0.912805822,3.351474113,0.324961291
+sd1.5_lowstep_118.jpg,"foxes judging a cheese competition, abstract style",,,abstract style,2.632073999,0.567216899,2.982575799,0.92376341
+sd1.5_lowstep_122.jpg,"chinese demon god character design, top view",top view,,,2.842135098,0.668887702,3.404134969,0.553780594
+sd1.5_lowstep_128.jpg,"portrait of a tang dynasty empress , soft lighting",soft lighting,,,2.888789697,0.372022257,2.994768272,0.489383061
+sd1.5_lowstep_132.jpg,"a girl with rainbow in white shirt , top view",top view,,,2.610261314,0.458517849,2.367491079,0.843111741
+sd1.5_lowstep_138.jpg,"render of dreamy beautiful landscape, soft lighting",soft lighting,,,3.490003257,0.640677587,3.185246111,0.58636812
+sd1.5_lowstep_142.jpg,"a biomechanical passion fruit flower, top view",top view,,,2.391896453,1.003197909,2.851503215,0.987421654
+sd1.5_lowstep_148.jpg,"a portrait painting of a buck in suit, soft lighting",soft lighting,,,3.255352906,0.246357464,3.870197548,0.588799856
+sd1.5_lowstep_152.jpg,"grumpy the elder gods sitting in a bar, top view",top view,,,1.765019055,0.870493067,1.952687802,0.64453293
+sd1.5_lowstep_158.jpg,"photograph of a stone cairn in scotland, soft lighting",soft lighting,,,3.727389608,0.646926037,3.73689006,0.576633026
+sd1.5_lowstep_162.jpg,"an industrial geometric temple lab room, top view",top view,,,3.490797944,0.855612096,2.732709062,1.381894283
+sd1.5_lowstep_168.jpg,"the celestial realm of the elven deities, soft lighting",soft lighting,,,3.359435142,0.683713265,3.482467199,1.079699537
+sd1.5_lowstep_172.jpg,"art of a mimic from dungeons and dragons, top view",top view,,,3.490003257,0.670690795,3.220800678,0.431044548
+sd1.5_lowstep_178.jpg,"a car crawling with human hands and feet, soft lighting",soft lighting,,,2.289786403,0.562533891,1.165897295,0.574649773
+sd1.5_lowstep_182.jpg,"a female warrior in charming phenix armor, top view, realistic style",top view,,realistic style,3.221284286,0.74670814,2.988304467,0.624263807
+sd1.5_lowstep_188.jpg,"portrait painting of a west hightland white, soft lighting, abstract style",soft lighting,,abstract style,1.594706548,0.715585856,1.94279623,1.024343545
+sd1.5_lowstep_192.jpg,"beautiful ancient temple in a formal garden, top view, realistic style",top view,,realistic style,2.883906185,0.51102625,3.296107282,0.389751567
+sd1.5_lowstep_198.jpg,"robots creating new robots in a factory line, soft lighting, abstract style",soft lighting,,abstract style,3.108728168,0.996634958,2.784549692,0.87798173
+sd1.5_lowstep_202.jpg,"a biomechanical blue raspberry made of metal, top view, realistic style",top view,,realistic style,2.418144251,0.609566903,2.092525257,0.800317764
+sd1.5_lowstep_208.jpg,"french fastfood adventure pixar movie poster , soft lighting, abstract style",soft lighting,,abstract style,2.674859949,0.648672431,3.128885477,0.655573301
+sd1.5_lowstep_212.jpg,"a glass vase of pink and white dahlia flowers, top view, realistic style",top view,,realistic style,3.636963354,0.405327804,3.369510326,0.621899982
+sd1.5_lowstep_218.jpg,"a masonic illuminati waiting room with a couch, soft lighting, abstract style",soft lighting,,abstract style,3.440900802,0.923801974,3.351474113,0.874788862
+sd1.5_lowstep_222.jpg,"interior of cosmic highway created by the gods, cold color, top view",cold color,top view,,2.875399859,1.0679301,2.943352484,1.246660021
+sd1.5_lowstep_228.jpg,"a kitten with two little goat horns on his head, warm color, blurred detail",warm color,blurred detail,,3.059933495,0.543577361,2.87284354,0.526588942
+sd1.5_lowstep_232.jpg,"steampunk owl inside a glass jar buried in sand, warm color, soft lighting",warm color,soft lighting,,1.971039124,0.788795803,2.653500595,1.272977784
+sd1.5_lowstep_238.jpg,"many bodies floating in an infinite lake of blood, elevation view, close-up",elevation view,close-up,,2.206516657,0.740141251,2.16726552,0.946262106
+sd1.5_lowstep_242.jpg,"a living room with a black and white chevron floor, elevation view, blurred detail",elevation view,blurred detail,,3.671121754,0.418177472,2.988304467,1.043499654
+sd1.5_lowstep_248.jpg,"a redhair beautiful girl wearing brown olive dress, close-up, blurred detail",close-up,blurred detail,,3.195617381,0.688749019,3.025958846,1.065906442
+sd1.5_lowstep_252.jpg,"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",close-up,soft lighting,,3.673501579,0.396052881,2.504517295,0.376394706
+sd1.5_lowstep_258.jpg,"black broken armor and helmet laying in wild flowers, hyper detail, soft lighting",hyper detail,soft lighting,,2.974361596,0.568804054,3.37273494,0.503096742
+sd1.5_lowstep_262.jpg,"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",cold color,top view,realistic style,2.613196015,0.447013669,3.150111597,0.362314336
+sd1.5_lowstep_268.jpg,"spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style",warm color,blurred detail,abstract style,2.776844014,0.695390588,3.013304279,0.390078657
+sd1.5_lowstep_272.jpg,"frontal portrait of female adult twins in the apocalypse, warm color, soft lighting, realistic style",warm color,soft lighting,realistic style,3.416483075,0.836991395,3.348349994,0.521865864
+sd1.5_lowstep_278.jpg,"dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style",elevation view,close-up,abstract style,0.385031694,0.855643322,1.111229725,1.261092143
+sd1.5_lowstep_282.jpg,"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",elevation view,blurred detail,realistic style,2.127265738,0.764236275,1.454923869,1.231673229
+sd1.5_lowstep_288.jpg,"a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style",close-up,blurred detail,abstract style,2.632073999,0.63039679,3.238617735,0.397711603
+sd1.5_lowstep_292.jpg,"a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style",close-up,soft lighting,realistic style,3.045671512,0.670328759,2.848458594,0.928836011
+sd1.5_lowstep_298.jpg,"photoreal portrait very intricate darkwar hunter wearing a black hoody, hyper detail, soft lighting, abstract style",hyper detail,soft lighting,abstract style,2.941741401,0.709892306,3.274264347,0.547597688
+sd1.5_normal_002.jpg,man lost in space,,,,2.7089479,0.842461074,3.191417702,0.482472292
+sd1.5_normal_008.jpg,joe biden very happy,,,,3.162256259,0.765122134,3.647455477,0.234010576
+sd1.5_normal_012.jpg,life bar and mana bar,,,,2.989757839,0.429197186,2.142312157,1.000489566
+sd1.5_normal_018.jpg,man hating his printer,,,,3.718303223,0.454693416,3.597061498,0.662181967
+sd1.5_normal_022.jpg,panda chef in a kitchen,,,,2.600314118,0.917060762,2.868587123,0.984522835
+sd1.5_normal_028.jpg,maroon to black gradient,,,,2.903508628,0.656135352,1.229744947,1.220082233
+sd1.5_normal_032.jpg,an emo portrait painting,,,,2.355888108,0.526639961,2.824058767,0.538260639
+sd1.5_normal_038.jpg,christmas at kelly family,,,,2.523592728,0.729275144,3.696383698,0.499744673
+sd1.5_normal_042.jpg,a man jumping off a cliff,,,,2.763264791,0.736226076,3.447455747,0.535980761
+sd1.5_normal_048.jpg,scottish highlands at dawn,,,,3.944657172,0.221794793,3.93726766,0.639162304
+sd1.5_normal_052.jpg,concept art of giant ogres,,,,2.852156791,0.68146831,2.462224445,1.29259016
+sd1.5_normal_058.jpg,hairy man in eagle costume,,,,3.093256891,0.530696941,3.078582412,0.613214407
+sd1.5_normal_062.jpg,"a colour portrait of a king, realistic style",,,realistic style,3.221284286,0.503981296,3.307507387,0.490634808
+sd1.5_normal_068.jpg,"yog sothoth chef in a kitchen, abstract style",,,abstract style,1.894194533,0.681574592,0.987264094,0.678620653
+sd1.5_normal_072.jpg,"painted portrait of snake man, realistic style",,,realistic style,2.359796059,0.648336764,2.11394401,0.999357393
+sd1.5_normal_078.jpg,"tree of life embroidered scene, abstract style",,,abstract style,3.707018893,0.564325919,3.522621893,0.326936641
+sd1.5_normal_082.jpg,"lanky young half - orc warrior, realistic style",,,realistic style,3.00308113,0.370702737,3.059123051,0.863088579
+sd1.5_normal_088.jpg,"a space shuttle flying in space, abstract style",,,abstract style,1.933236823,0.31146248,2.092525257,0.609445663
+sd1.5_normal_092.jpg,"steampunk walter white portrait , realistic style",,,realistic style,3.210551263,0.347661639,3.112865772,0.532267172
+sd1.5_normal_098.jpg,"cute fox in suit dancing in club, abstract style",,,abstract style,2.939794687,0.87395685,3.080096813,0.993227993
+sd1.5_normal_102.jpg,"a grand stag in a fantasy forest, realistic style",,,realistic style,3.490003257,0.797304639,3.374870467,0.58025695
+sd1.5_normal_108.jpg,"portrait of a dancing eagle woman, abstract style",,,abstract style,2.625770283,0.940302498,2.987495218,0.81558232
+sd1.5_normal_112.jpg,"gorgeous young scandanavian woman, realistic style",,,realistic style,3.127756575,0.598706097,3.054879367,0.714209477
+sd1.5_normal_118.jpg,"foxes judging a cheese competition, abstract style",,,abstract style,2.254782866,0.411238367,1.920999368,0.707133373
+sd1.5_normal_122.jpg,"chinese demon god character design, top view",top view,,,2.996365552,0.732795705,2.70330186,0.853829344
+sd1.5_normal_128.jpg,"portrait of a tang dynasty empress , soft lighting",soft lighting,,,2.520123245,0.218183046,3.405324243,0.567944595
+sd1.5_normal_132.jpg,"a girl with rainbow in white shirt , top view",top view,,,2.090510173,0.533239076,3.038374121,1.377258381
+sd1.5_normal_138.jpg,"render of dreamy beautiful landscape, soft lighting",soft lighting,,,3.673198773,0.69378057,3.726316663,0.594816011
+sd1.5_normal_142.jpg,"a biomechanical passion fruit flower, top view",top view,,,3.129903806,0.806908325,3.00217219,1.173924227
+sd1.5_normal_148.jpg,"a portrait painting of a buck in suit, soft lighting",soft lighting,,,3.523701266,0.709930043,1.833302852,0.685981562
+sd1.5_normal_152.jpg,"grumpy the elder gods sitting in a bar, top view",top view,,,2.717733183,0.715172872,1.548541117,0.592762862
+sd1.5_normal_158.jpg,"photograph of a stone cairn in scotland, soft lighting",soft lighting,,,3.530547546,0.335915298,3.524109368,0.454486
+sd1.5_normal_162.jpg,"an industrial geometric temple lab room, top view",top view,,,3.472753415,0.518145443,3.374870467,0.569724014
+sd1.5_normal_168.jpg,"the celestial realm of the elven deities, soft lighting",soft lighting,,,3.154005469,0.454130504,3.584393825,0.467886839
+sd1.5_normal_172.jpg,"art of a mimic from dungeons and dragons, top view",top view,,,1.921352979,1.023334936,2.47896401,0.991874856
+sd1.5_normal_178.jpg,"a car crawling with human hands and feet, soft lighting",soft lighting,,,2.018808722,0.776356792,1.848675793,0.679664477
+sd1.5_normal_182.jpg,"a female warrior in charming phenix armor, top view, realistic style",top view,,realistic style,2.574642925,0.657907623,2.566500608,0.518613262
+sd1.5_normal_188.jpg,"portrait painting of a west hightland white, soft lighting, abstract style",soft lighting,,abstract style,2.075516212,1.156605301,2.414897168,1.281412433
+sd1.5_normal_192.jpg,"beautiful ancient temple in a formal garden, top view, realistic style",top view,,realistic style,3.127756575,0.434395421,3.517088733,0.320616138
+sd1.5_normal_198.jpg,"robots creating new robots in a factory line, soft lighting, abstract style",soft lighting,,abstract style,2.957803829,0.691753343,2.54579025,0.959365642
+sd1.5_normal_202.jpg,"a biomechanical blue raspberry made of metal, top view, realistic style",top view,,realistic style,2.334263842,0.799157327,2.189718246,0.976568854
+sd1.5_normal_208.jpg,"french fastfood adventure pixar movie poster , soft lighting, abstract style",soft lighting,,abstract style,0.634718842,0.3573536,1.221288303,0.774306813
+sd1.5_normal_212.jpg,"a glass vase of pink and white dahlia flowers, top view, realistic style",top view,,realistic style,3.455805152,0.489705099,3.269342324,0.448229185
+sd1.5_normal_218.jpg,"a masonic illuminati waiting room with a couch, soft lighting, abstract style",soft lighting,,abstract style,3.369254363,0.547813844,3.374870467,0.299007497
+sd1.5_normal_222.jpg,"interior of cosmic highway created by the gods, cold color, top view",cold color,top view,,3.136939761,0.828865183,3.239106761,0.799061433
+sd1.5_normal_228.jpg,"a kitten with two little goat horns on his head, warm color, blurred detail",warm color,blurred detail,,2.687865421,0.290862527,2.479686745,0.58435777
+sd1.5_normal_232.jpg,"steampunk owl inside a glass jar buried in sand, warm color, soft lighting",warm color,soft lighting,,3.539096649,0.447624656,3.721214248,0.314314294
+sd1.5_normal_238.jpg,"many bodies floating in an infinite lake of blood, elevation view, close-up",elevation view,close-up,,2.329452272,0.761812897,2.889390821,0.717610583
+sd1.5_normal_242.jpg,"a living room with a black and white chevron floor, elevation view, blurred detail",elevation view,blurred detail,,3.769523701,0.442638381,2.395499044,1.182543289
+sd1.5_normal_248.jpg,"a redhair beautiful girl wearing brown olive dress, close-up, blurred detail",close-up,blurred detail,,2.627472563,0.448637298,3.068964724,0.463940672
+sd1.5_normal_252.jpg,"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",close-up,soft lighting,,3.129903806,1.091988587,2.634813255,0.7087131
+sd1.5_normal_258.jpg,"black broken armor and helmet laying in wild flowers, hyper detail, soft lighting",hyper detail,soft lighting,,3.285220668,0.45229754,2.56659367,0.676201635
+sd1.5_normal_262.jpg,"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",cold color,top view,realistic style,2.538526609,0.39545408,3.150111597,0.532816067
+sd1.5_normal_268.jpg,"spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style",warm color,blurred detail,abstract style,2.65595515,0.747262982,3.011371163,0.747396649
+sd1.5_normal_272.jpg,"frontal portrait of female adult twins in the apocalypse, warm color, soft lighting, realistic style",warm color,soft lighting,realistic style,2.334263842,0.56284114,3.043027845,0.658773822
+sd1.5_normal_278.jpg,"dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style",elevation view,close-up,abstract style,1.195529412,0.671266546,1.271370324,0.988600133
+sd1.5_normal_282.jpg,"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",elevation view,blurred detail,realistic style,2.176839871,1.408041032,1.797978878,0.629033035
+sd1.5_normal_288.jpg,"a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style",close-up,blurred detail,abstract style,2.760431848,1.167021667,3.238617735,0.751991116
+sd1.5_normal_292.jpg,"a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style",close-up,soft lighting,realistic style,2.209981223,0.830768059,2.39277982,0.55787419
+sd1.5_normal_298.jpg,"photoreal portrait very intricate darkwar hunter wearing a black hoody, hyper detail, soft lighting, abstract style",hyper detail,soft lighting,abstract style,3.007007681,0.689519014,3.457831122,0.635904226
+xl2.2_normal_002.jpg,man lost in space,,,,3.748750887,0.677341982,3.410425033,0.517093402
+xl2.2_normal_008.jpg,joe biden very happy,,,,3.790180796,0.674059997,3.654274032,0.848578602
+xl2.2_normal_012.jpg,life bar and mana bar,,,,3.601888857,0.416466271,1.019587617,1.234648149
+xl2.2_normal_018.jpg,man hating his printer,,,,3.516490125,0.539335615,2.954104154,0.809048123
+xl2.2_normal_022.jpg,panda chef in a kitchen,,,,2.954193289,0.654214567,3.877512601,0.249321372
+xl2.2_normal_028.jpg,maroon to black gradient,,,,3.908627165,0.417020503,2.199589058,1.653672054
+xl2.2_normal_032.jpg,an emo portrait painting,,,,3.150997182,0.228452955,3.432908534,0.809430058
+xl2.2_normal_038.jpg,christmas at kelly family,,,,3.207226865,0.629460473,3.945913227,0.405501461
+xl2.2_normal_042.jpg,a man jumping off a cliff,,,,3.088457462,0.896793067,3.506852145,0.303933018
+xl2.2_normal_048.jpg,scottish highlands at dawn,,,,3.657064334,0.47548068,3.273307074,1.223685853
+xl2.2_normal_052.jpg,concept art of giant ogres,,,,3.591686053,0.339003413,3.548579908,0.502986972
+xl2.2_normal_058.jpg,hairy man in eagle costume,,,,0.712778692,0.756830043,0.826793192,0.634644364
+xl2.2_normal_062.jpg,"a colour portrait of a king, realistic style",,,realistic style,3.530547546,0.356877821,3.592509994,0.565509887
+xl2.2_normal_068.jpg,"yog sothoth chef in a kitchen, abstract style",,,abstract style,2.804002459,0.62523771,1.499340184,1.13541232
+xl2.2_normal_072.jpg,"painted portrait of snake man, realistic style",,,realistic style,3.590592228,0.624604202,3.50945668,0.470565083
+xl2.2_normal_078.jpg,"tree of life embroidered scene, abstract style",,,abstract style,3.30238721,0.487585817,3.799471502,0.44372683
+xl2.2_normal_082.jpg,"lanky young half - orc warrior, realistic style",,,realistic style,3.502054974,0.321079495,3.019153218,0.866760123
+xl2.2_normal_088.jpg,"a space shuttle flying in space, abstract style",,,abstract style,2.284650629,0.662398361,2.144474319,0.738508841
+xl2.2_normal_092.jpg,"steampunk walter white portrait , realistic style",,,realistic style,3.464427243,0.471391554,3.199772697,0.631785892
+xl2.2_normal_098.jpg,"cute fox in suit dancing in club, abstract style",,,abstract style,3.374329815,0.973526158,3.358399036,1.187163793
+xl2.2_normal_102.jpg,"a grand stag in a fantasy forest, realistic style",,,realistic style,3.244560073,0.761877701,2.963619274,0.902192059
+xl2.2_normal_108.jpg,"portrait of a dancing eagle woman, abstract style",,,abstract style,2.975194143,0.764258359,3.061839408,0.76067896
+xl2.2_normal_112.jpg,"gorgeous young scandanavian woman, realistic style",,,realistic style,3.360750593,0.721483737,3.480852014,0.459137976
+xl2.2_normal_118.jpg,"foxes judging a cheese competition, abstract style",,,abstract style,3.059933495,0.406633929,3.421504833,0.484643365
+xl2.2_normal_122.jpg,"chinese demon god character design, top view",top view,,,3.610752151,0.525088718,3.374870467,0.589255789
+xl2.2_normal_128.jpg,"portrait of a tang dynasty empress , soft lighting",soft lighting,,,2.459590343,0.682970217,2.719543848,1.047686291
+xl2.2_normal_132.jpg,"a girl with rainbow in white shirt , top view",top view,,,3.628001993,0.638229396,3.114136978,0.672713311
+xl2.2_normal_138.jpg,"render of dreamy beautiful landscape, soft lighting",soft lighting,,,3.193169444,0.726732262,3.569709785,0.441784637
+xl2.2_normal_142.jpg,"a biomechanical passion fruit flower, top view",top view,,,3.195617381,0.848150671,3.907443374,0.534317129
+xl2.2_normal_148.jpg,"a portrait painting of a buck in suit, soft lighting",soft lighting,,,3.837774272,0.636359272,3.969519749,0.539587164
+xl2.2_normal_152.jpg,"grumpy the elder gods sitting in a bar, top view",top view,,,3.169097903,0.515785251,1.948891644,1.088770664
+xl2.2_normal_158.jpg,"photograph of a stone cairn in scotland, soft lighting",soft lighting,,,3.658567698,0.486573661,3.671553148,0.875172777
+xl2.2_normal_162.jpg,"an industrial geometric temple lab room, top view",top view,,,3.673501579,0.360906935,2.653500595,0.441236859
+xl2.2_normal_168.jpg,"the celestial realm of the elven deities, soft lighting",soft lighting,,,4.165198541,0.584237009,3.679897602,0.320153815
+xl2.2_normal_172.jpg,"art of a mimic from dungeons and dragons, top view",top view,,,2.771446817,0.511397973,2.429699357,1.136037706
+xl2.2_normal_178.jpg,"a car crawling with human hands and feet, soft lighting",soft lighting,,,2.518413241,0.486194206,1.768493308,0.790450891
+xl2.2_normal_182.jpg,"a female warrior in charming phenix armor, top view, realistic style",top view,,realistic style,3.270286787,0.71606245,2.653500595,0.772479381
+xl2.2_normal_188.jpg,"portrait painting of a west hightland white, soft lighting, abstract style",soft lighting,,abstract style,3.818072561,0.619838758,3.094936968,1.102800191
+xl2.2_normal_192.jpg,"beautiful ancient temple in a formal garden, top view, realistic style",top view,,realistic style,3.679751519,0.863573691,3.137840023,0.446891223
+xl2.2_normal_198.jpg,"robots creating new robots in a factory line, soft lighting, abstract style",soft lighting,,abstract style,3.165749619,0.803093911,2.71557697,0.301502763
+xl2.2_normal_202.jpg,"a biomechanical blue raspberry made of metal, top view, realistic style",top view,,realistic style,3.080710077,0.596315582,2.099096333,0.651755923
+xl2.2_normal_208.jpg,"french fastfood adventure pixar movie poster , soft lighting, abstract style",soft lighting,,abstract style,3.49654282,0.61103753,3.480852014,0.731154583
+xl2.2_normal_212.jpg,"a glass vase of pink and white dahlia flowers, top view, realistic style",top view,,realistic style,3.44620302,0.734266256,2.62350113,0.890540346
+xl2.2_normal_218.jpg,"a masonic illuminati waiting room with a couch, soft lighting, abstract style",soft lighting,,abstract style,3.116324583,0.733510889,3.469719925,0.465045271
+xl2.2_normal_222.jpg,"interior of cosmic highway created by the gods, cold color, top view",cold color,top view,,2.403882268,0.436626732,2.689956442,0.498495305
+xl2.2_normal_228.jpg,"a kitten with two little goat horns on his head, warm color, blurred detail",warm color,blurred detail,,3.613766055,0.213495242,2.032736844,0.918836006
+xl2.2_normal_232.jpg,"steampunk owl inside a glass jar buried in sand, warm color, soft lighting",warm color,soft lighting,,3.568964411,0.451786903,3.708798973,0.666869221
+xl2.2_normal_238.jpg,"many bodies floating in an infinite lake of blood, elevation view, close-up",elevation view,close-up,,1.636189301,0.980326825,1.799906586,1.194143036
+xl2.2_normal_242.jpg,"a living room with a black and white chevron floor, elevation view, blurred detail",elevation view,blurred detail,,3.811695963,0.302064303,2.86290332,0.821523535
+xl2.2_normal_248.jpg,"a redhair beautiful girl wearing brown olive dress, close-up, blurred detail",close-up,blurred detail,,3.352004521,0.587040979,3.848931355,0.486670233
+xl2.2_normal_252.jpg,"a bokeh photo of a zombie gardener admiring flowers, close-up, soft lighting",close-up,soft lighting,,2.785504238,0.732482928,3.42150843,0.619728709
+xl2.2_normal_258.jpg,"black broken armor and helmet laying in wild flowers, hyper detail, soft lighting",hyper detail,soft lighting,,3.432145599,0.460190096,3.444308638,0.413873754
+xl2.2_normal_262.jpg,"edwardian headshot photograph of a pale russian woman, cold color, top view, realistic style",cold color,top view,realistic style,3.507253099,0.501559681,3.327464378,0.425184098
+xl2.2_normal_268.jpg,"spaceport on a vast desert planet with ships taking off, warm color, blurred detail, abstract style",warm color,blurred detail,abstract style,3.058356047,0.581916613,3.285648044,0.44801724
+xl2.2_normal_272.jpg,"frontal portrait of female adult twins in the apocalypse, warm color, soft lighting, realistic style",warm color,soft lighting,realistic style,3.658936789,0.673200826,3.531237092,0.448913691
+xl2.2_normal_278.jpg,"dark grey skinned female goblin with an oversized red axe, elevation view, close-up, abstract style",elevation view,close-up,abstract style,2.674859949,0.833010092,2.714341389,0.50291785
+xl2.2_normal_282.jpg,"strange mythical plankton near a waterfall trying to escape, elevation view, blurred detail, realistic style",elevation view,blurred detail,realistic style,2.46452189,0.723313502,2.245190143,1.137271019
+xl2.2_normal_288.jpg,"a beautiful painting of old golden samovars of russian empire, close-up, blurred detail, abstract style",close-up,blurred detail,abstract style,2.746169865,0.574004782,3.116693004,0.400244343
+xl2.2_normal_292.jpg,"a translucent bioluminescent ctenophore floating deep in the sea, close-up, soft lighting, realistic style",close-up,soft lighting,realistic style,2.104380621,0.843200564,2.263219881,1.081940199
+xl2.2_normal_298.jpg,"photoreal portrait very intricate darkwar hunter wearing a black hoody, hyper detail, soft lighting, abstract style",hyper detail,soft lighting,abstract style,3.903999466,0.650025767,3.789673744,0.623151544
