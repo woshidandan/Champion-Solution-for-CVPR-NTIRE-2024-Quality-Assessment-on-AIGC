@@ -28,16 +28,42 @@ Beijing Xiaomi Mobile Software Co., Ltd.
 Download the competition test dataset from the specified website and unzip it into the "<u>./data/AIGCQA-30K-Image/test</u>" directory.
 
 # Trained Weights
- Download weights from: [google drive](https://drive.google.com/drive/folders/11c92mV5wuDuiPyaJzlVVKi2V0Sy1-TCq?usp=drive_link).
+Download [AGIQA-1K](https://github.com/lcysyzxdxc/AGIQA-1k-Database), [AGIQA-3K](https://github.com/lcysyzxdxc/AGIQA-3k-Database), [AIGCIQA2023](https://github.com/wangjiarui153/AIGCIQA2023) and [AIGCQA-30K-Image](https://www.modelscope.cn/datasets/lcysyzxdxc/AIGCQA-30K-Image/summary) datasets and unzip them into the "<u>./data</u>" directory.
 
-# Evaluation on AIGCQA-30k-Image test-set
-After preparing the code environment and downloading the data and model weights, run the following code to obtain the output.txt file.
+# Training and Testing
+
+After preparing the code environment and downloading the data, run the following codes to train and test model.
+
 ```bash
-python AIGC_DB_prompt_final.py
+#AIGCQA-30K-Image
+python train_aigcqa30k.py
+#AGIQA-1K
+python train_aigc_agiqa1k.py
+#AGIQA-3K
+python train_aigc_agiqa3k.py
+#AIGCIQA2023
+python train_aigc_aigciqa2023.py
 ```
 
-# If you find our work is useful, pleaes cite our paper:
-Paper will be released.
+For AIGCQA-30-Image dataset, run the following codes to get val and test output.
+
+```bash
+AIGC_DB_AIGCQA30K_VAL.py
+AIGC_DB_AIGCQA30K_TEST.py
+```
+# Citation
+
+If you find our work useful in your research, please consider citing our paper:
+```bash
+@InProceedings{Peng_2024_CVPR,
+    author    = {Peng, Fei and Fu, Huiyuan and Ming, Anlong and Wang, Chuanming and Ma, Huadong and He, Shuai and Dou, Zifei and Chen, Shu},
+    title     = {AIGC Image Quality Assessment via Image-Prompt Correspondence},
+    booktitle = {Proceedings of the IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshops},
+    month     = {June},
+    year      = {2024},
+    pages     = {6432-6441}
+}
+```
 
 # Our other works:
 + "Thinking Image Color Aesthetics Assessment: Models, Datasets and Benchmarks.", [[pdf]](https://openaccess.thecvf.com/content/ICCV2023/papers/He_Thinking_Image_Color_Aesthetics_Assessment_Models_Datasets_and_Benchmarks_ICCV_2023_paper.pdf) [[code]](https://github.com/woshidandan/Image-Color-Aesthetics-Assessment), ICCV 2023.
