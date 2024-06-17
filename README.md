@@ -34,6 +34,8 @@ Download the competition test dataset from the specified website and unzip it in
 # Trained Weights
 Download [AGIQA-1K](https://github.com/lcysyzxdxc/AGIQA-1k-Database), [AGIQA-3K](https://github.com/lcysyzxdxc/AGIQA-3k-Database), [AIGCIQA2023](https://github.com/wangjiarui153/AIGCIQA2023) and [AIGCQA-30K-Image](https://www.modelscope.cn/datasets/lcysyzxdxc/AIGCQA-30K-Image/summary) datasets and unzip them into the "<u>./data</u>" directory.
 
+download weights from here: https://drive.google.com/drive/folders/1KMRWBXFRx74IMaidMhpAeDfeq6h3g3UV
+
 # Training and Testing
 
 After preparing the code environment and downloading the data, run the following codes to train and test model.
