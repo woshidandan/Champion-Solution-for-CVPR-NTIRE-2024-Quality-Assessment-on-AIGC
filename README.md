@@ -31,10 +31,9 @@ The official repo of [**AIGC Image Quality Assessment via Image-Prompt Correspon
 # Data Preparation
 Download the competition test dataset from the specified website and unzip it into the "<u>./data/AIGCQA-30K-Image/test</u>" directory.
 
-# Trained Weights
+# Trained Datasets
 Download [AGIQA-1K](https://github.com/lcysyzxdxc/AGIQA-1k-Database), [AGIQA-3K](https://github.com/lcysyzxdxc/AGIQA-3k-Database), [AIGCIQA2023](https://github.com/wangjiarui153/AIGCIQA2023) and [AIGCQA-30K-Image](https://www.modelscope.cn/datasets/lcysyzxdxc/AIGCQA-30K-Image/summary) datasets and unzip them into the "<u>./data</u>" directory.
 
-download weights from here: https://drive.google.com/drive/folders/1KMRWBXFRx74IMaidMhpAeDfeq6h3g3UV
 
 # Training and Testing
 
